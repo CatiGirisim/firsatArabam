@@ -1,0 +1,5 @@
+INSERT INTO firsatarabam.public.server1 (dummy, brand) VALUES ('', 'a');
+INSERT INTO firsatarabam.public.server1 (dummy, brand) VALUES ('', 'a');
+INSERT INTO firsatarabam.public.server1 (dummy, brand) VALUES ('a', '');
+INSERT INTO firsatarabam.public.server1 (dummy, brand) VALUES ('', 'a');
+INSERT INTO firsatarabam.public.server1 (dummy, brand) VALUES ('a', '');

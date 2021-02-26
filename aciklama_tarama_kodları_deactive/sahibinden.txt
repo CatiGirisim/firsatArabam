@@ -1,0 +1,5709 @@
+BMW ,1 Serisi ,  116d Joy Plus 
+BMW ,1 Serisi ,  116i Comfort 
+BMW ,1 Serisi ,  118i Comfort 
+BMW ,1 Serisi ,  116i Sport Line 
+BMW ,1 Serisi ,  118i Joy Plus 
+BMW ,1 Serisi ,  116i Urban Line 
+BMW ,1 Serisi ,  116i Premium 
+BMW ,5 Serisi ,  520i Executive Plus 
+Fiat ,Albea ,  1.3 Multijet Active 
+BMW ,1 Serisi ,  118i First Edition M Sport 
+BMW ,1 Serisi ,  118i Standart 
+BMW ,1 Serisi ,  116d One Edition 
+BMW ,1 Serisi ,  118i First Edition Sport Line  
+Fiat ,Albea ,  1.3 Multijet Dynamic 
+Fiat ,Albea ,  Sole 1.3 Multijet Premio Plus 
+Fiat ,Albea ,  1.4 Fire Dynamic 
+Fiat ,Albea ,  1.3 Multijet EL 
+Fiat ,Albea ,  Sole 1.3 Multijet Dynamic 
+BMW ,5 Serisi ,  520i Executive M Sport 
+BMW ,5 Serisi ,  525d xDrive M Sport 
+BMW ,5 Serisi ,  520d M Sport 
+BMW ,5 Serisi ,  520i Premium 
+BMW ,5 Serisi ,  520i Comfort 
+BMW ,5 Serisi ,  520d Premium 
+BMW ,5 Serisi ,  528i Standart 
+BMW ,5 Serisi ,  520i Executive Luxury Line 
+BMW ,5 Serisi ,  520i Standart 
+Citroën ,C-Elysée ,  1.6 HDi Attraction 
+BMW ,1 Serisi ,  116d ED EfficientDynamics 
+BMW ,1 Serisi ,  118i Joy 
+BMW ,1 Serisi ,  116i Joy Edition 
+BMW ,1 Serisi ,  116i Standart 
+BMW ,1 Serisi ,  116d First Edition Sport Line  
+Fiat ,Albea ,  Sole 1.3 Multijet Active 
+Citroën ,Xsara ,  1.6 SX 
+BMW ,1 Serisi ,  116d Joy 
+BMW ,1 Serisi ,  116d M Sport 
+Fiat ,Albea ,  Sole 1.4 Fire Dynamic 
+Fiat ,Albea ,  1.2 Active 
+Fiat ,Albea ,  1.3 Multijet SL 
+Fiat ,Albea ,  Sole 1.3 Multijet Active Plus 
+Fiat ,Albea ,  1.2 EL 
+Fiat ,Albea ,  Sole 1.4 Fire Premio 
+Citroën ,C5 ,  1.6 HDi SX 
+BMW ,5 Serisi ,  520i M Sport  
+BMW ,5 Serisi ,  520d Sport Line 
+BMW ,5 Serisi ,  520d Exclusive 
+BMW ,5 Serisi ,  520d Comfort 
+Fiat ,Albea ,  Sole 1.3 Multijet Dynamic Plus 
+Fiat ,Albea ,  Sole 1.4 Fire Active 
+Fiat ,Albea ,  1.2 Dynamic 
+Hyundai ,i10 ,  1.0 D-CVVT Style 
+Hyundai ,i10 ,  1.2 D-CVVT Elite 
+Hyundai ,i10 ,  1.2 MPI Elite 
+Hyundai ,i10 ,  1.2 MPI Style 
+Fiat ,Albea ,  Sole 1.4 Fire Premio Plus 
+Suzuki ,Swift ,  1.3 GLX 
+Suzuki ,Alto ,  1.0 GL 
+Suzuki ,Swift ,  1.3 MT 4x4 
+Suzuki ,Swift ,  1.2 GL 
+Suzuki ,Baleno ,  1.2 GL 
+Suzuki ,Maruti ,  800 
+Citroën ,C5 ,  1.6 HDi SX PK 
+Suzuki ,Swift ,  1.0 GL 
+Suzuki ,SX4 ,  1.6 GLX 
+Suzuki ,S-Cross ,  1.6 GL+ 
+Suzuki ,Swift ,  1.5 AT 
+Citroën ,C1 ,  1.0 SX Sensodrive 
+Citroën ,C-Elysée ,  1.6 HDi Exclusive 
+Mitsubishi ,Carisma ,  1.8 GDI Elegance 
+Mitsubishi ,Lancer ,  1.6 Invite 
+Mitsubishi ,Carisma ,  1.6 GLX 
+Mitsubishi ,Grandis ,  2.0 DI-D 
+Mitsubishi ,Lancer ,  1.5 Invite 
+Mitsubishi ,Colt ,  1.3 Instyle 
+Mitsubishi ,Colt ,  1.3 Elegance 
+Citroën ,C4 ,  1.6 HDi SX 
+Citroën ,C4 ,  1.6 HDi Attraction 
+Citroën ,C3 ,  1.6 VTi Exclusive 
+Citroën ,C5 ,  2.0 HDi Exclusive 
+Citroën ,ZX ,  2.0 Volcane 
+Citroën ,C-Elysée ,  1.6 BlueHDI Live 
+Citroën ,C2 ,  1.4 HDi SX 
+Citroën ,C3 ,  1.4 e-HDi Confort 
+Citroën ,C3 ,  1.4 HDi Attraction 
+Citroën ,C3 ,  1.4 Attraction 
+Citroën ,C5 ,  1.6 HDi Dynamique 
+Citroën ,Saxo ,  1.4 SX 
+Citroën ,C5 ,  2.0 HDi SX 
+Citroën ,C4 ,  1.6 HDi Confort Plus 
+Citroën ,C3 ,  1.4 VTi Confort 
+Citroën ,C3 ,  1.4 HDi X Furio 
+Mitsubishi ,Lancer ,  1.5 GLX 
+Mitsubishi ,Lancer ,  1.6 Comfort 
+Mitsubishi ,Carisma ,  1.9 DI-D Comfort 
+Mitsubishi ,Colt ,  1.5 Invite 
+Mitsubishi ,Lancer ,  1.5 Inform 
+Citroën ,C4 ,  1.4 VTi Attraction 
+Citroën ,C-Elysée ,  1.6 HDi Confort 
+Citroën ,C4 Picasso ,  1.6 BlueHDi Intensive 
+Citroën ,C3 ,  1.2 VTi Cool 
+Citroën ,C5 ,  2.0 HDi Hdi 
+Citroën ,C5 ,  1.6 e-HDi Executive 
+Citroën ,C3 1.2 PureTech ,  Live 
+Citroën ,C3 ,  1.4 HDi X 
+Citroën ,C5 ,  1.6 e-HDi Confort 
+Citroën ,C4 ,  1.6 e-HDi Confort 
+Citroën ,C4 ,  1.6 HDi Confort 
+Citroën ,C4 ,  1.6 e-HDi Confort Plus 
+Fiat ,Tempra ,  1.6 SX 
+Citroën ,C-Elysée ,  1.2 VTi Confort 
+Citroën ,Xsara ,  1.4 HDI 
+Citroën ,C4 Grand Picasso ,  1.6 e-HDi Dynamic 
+BMW ,2 Serisi ,  218i Active Tourer Luxury Plus 
+BMW ,2 Serisi ,  216d Active Tourer Active Tourer 
+Citroën ,C3 ,  1.6 BlueHDi Live 
+BMW ,2 Serisi ,  218i Gran Coupe First Edition M Sport  
+BMW ,2 Serisi ,  218i Gran Coupe First Edition Sport Line  
+BMW ,2 Serisi ,  220d M Sport  
+BMW ,2 Serisi ,  216d Gran Coupe First Edition M Sport  
+BMW ,2 Serisi ,  216d Gran Coupe First Edition Sport Line  
+Citroën ,C-Elysée ,  1.6 HDi Feel 
+Citroën ,C4 ,  1.6 HDi VTRPK 
+Citroën ,C4 Grand Picasso ,  1.6 e-HDi Intensive 
+Citroën ,C3 ,  1.4 HDi SX 
+Fiat ,Tempra ,  1.6 SX AK 
+Fiat ,Tempra ,  2.0 ie 16v 
+Fiat ,Tempra ,  1.6 SX A 
+Fiat ,Tempra ,  2.0 ie SW 
+Fiat ,Tempra ,  1.6 SX SW 
+Fiat ,Tempra ,  2.0 ie 
+Fiat ,Tempra ,  1.6 ie SLX 
+Citroën ,C-Elysée ,  1.6 HDi Live 
+Citroën ,C3 ,  1.4 SX 
+Alfa Romeo ,Giulietta ,  1.6 JTD Distinctive 
+Alfa Romeo ,156 ,  1.6 TS Distinctive 
+Alfa Romeo ,Giulietta ,  1.4 TB MultiAir Distinctive 
+Alfa Romeo ,147 ,  1.6 TS Distinctive 
+Alfa Romeo ,GTV ,  2.0 TB 
+Alfa Romeo ,159 ,  1.9 JTD Distinctive 
+Alfa Romeo ,Giulietta ,  1.4 TB Distinctive 
+Citroën ,C1 ,  1.0 VTi Shine 
+Citroën ,C4 ,  1.6 e-HDi Exclusive  
+Citroën ,C3 1.2 PureTech ,  Feel 
+Citroën ,C4 ,  1.6 HDi SX PK 
+Alfa Romeo ,166 ,  2.0 TS 
+Alfa Romeo ,MiTo ,  1.3 JTD City 
+Alfa Romeo ,156 ,  1.6 TS Progression 
+Citroën ,C4 Picasso ,  1.6 e-HDi Intensive 
+Citroën ,C3 ,  1.6 HDi Exclusive 
+Citroën ,C3 ,  1.6 BlueHDi Feel 
+Renault ,R 11 ,  Flash 
+Citroën ,C4 Grand Picasso ,  1.6 HDi 
+Toyota ,Yaris ,  1.0 Terra 
+Citroën ,C-Elysée ,  1.2 VTi Exclusive 
+Toyota ,Yaris ,  1.4 D-4D Sol Special 
+Citroën ,C-Elysée ,  1.5 BlueHDI Feel 
+Toyota ,Yaris ,  1.0 Life 
+Toyota ,Yaris ,  1.5 Fun Special 
+Toyota ,Yaris ,  1.33 Cool 
+Toyota ,Yaris ,  1.5 Hybrid Spirit 
+Toyota ,Yaris ,  1.4 D-4D Terra 
+Volkswagen ,Passat Variant ,  1.6 FSI Comfortline 
+Volkswagen ,Passat Variant ,  2.0 TDI BlueMotion Comfortline 
+Volkswagen ,Passat Variant ,  1.6 TDI BlueMotion Comfortline 
+Citroën ,C3 ,  1.6 SX 
+Citroën ,C-Elysée ,  1.6 HDi Shine 
+Citroën ,C4 Picasso ,  1.6 HDi Grand SX PK 
+Toyota ,Yaris ,  1.33 Fun Special Skypack 
+Toyota ,Yaris ,  1.33 Style Red 
+Toyota ,Yaris ,  1.33 Fun Special 
+Toyota ,Yaris ,  1.3 Sol 
+Toyota ,Yaris ,  1.33 Terra Sporty 
+Renault ,R 11 ,  GTS 
+Renault ,R 11 ,  Rainbow 
+Renault ,R 11 ,  Flash S 
+Citroën ,Saxo ,  1.6 SX 
+Citroën ,C4 ,  1.6 SX 
+Toyota ,Yaris ,  1.0 Sol 
+Toyota ,Yaris ,  1.3 Terra 
+Toyota ,Yaris ,  1.33 Cool Skypack  
+Toyota ,Yaris ,  1.33 Fun 
+Toyota ,Yaris ,  1.0 
+Mercedes - Benz ,190 ,  190 E 1.8 
+Citroën ,C4 1.6 BlueHDi ,  Confort 
+Citroën ,C5 ,  1.6 e-HDi Dynamique 
+Mercedes - Benz ,190 ,  190 2.0 
+Mercedes - Benz ,190 ,  190 E 2.6 
+Mercedes - Benz ,190 ,  190 E 2.3 
+Mercedes - Benz ,190 ,  190 D 2.0 
+Citroën ,C1 ,  1.4 HDi SX 
+Citroën ,C3 ,  1.4 HDi Confort 
+Citroën ,C-Elysée ,  1.2 VTi Attraction 
+Citroën ,C-Elysée ,  1.5 BlueHDI Shine 
+Mercedes - Benz ,190 ,  190 E 2.0 
+Citroën ,C3 ,  1.6 BlueHDi Shine 
+Citroën ,C4 ,  1.4 SX 
+Citroën ,C4 Picasso ,  1.6 HDi SX PK 
+Renault ,Latitude ,  1.5 dCi Executive 
+Renault ,Latitude ,  1.5 dCi Privilege 
+Renault ,Latitude ,  1.5 dCi Expression 
+Citroën ,C4 ,  1.6 HDi Easy 
+Renault ,Clio ,  1.5 dCi SportTourer Icon 
+Renault ,Clio ,  1.5 dCi SportTourer Touch  
+Renault ,Clio ,  1.5 dCi SportTourer Joy 
+Citroën ,C5 ,  1.6 HDi Confort 
+Citroën ,C4 1.6 BlueHDi ,  Exclusive 
+Citroën ,C2 ,  1.6 VTS 
+Peugeot ,206 ,  1.4 HDi X-Line 
+BMW ,7 Serisi ,  740i 
+BMW ,7 Serisi ,  725tds 
+BMW ,7 Serisi ,  735i Long 
+BMW ,7 Serisi ,  730d Long Exclusive 
+BMW ,7 Serisi ,  730d Standart 
+BMW ,7 Serisi ,  728i 
+BMW ,7 Serisi ,  730d Long Individual Edition 
+Citroën ,C3 ,  1.4 HDi Exclusive 
+Citroën ,C3 ,  1.6 VTi Confort 
+Citroën ,C3 ,  1.6 HDi SX 
+Mercedes - Benz ,B Serisi ,  B 150 Boyut 
+Mercedes - Benz ,B Serisi ,  B 180 BlueEfficiency Prime 
+Mercedes - Benz ,B Serisi ,  B 200 CDI Special Edition 
+Mercedes - Benz ,B Serisi ,  B 180 CDI BlueEfficiency Style 
+Mercedes - Benz ,B Serisi ,  B 160 Sport 
+Mercedes - Benz ,B Serisi ,  B 180 CDI AMG 
+Lada ,Vega ,  1.5 
+Lada ,Samara ,  1.5 
+Lada ,Vega ,  1.6 
+Ford ,C-Max ,  1.6 Trend 
+Peugeot ,206 ,  1.4 X-Design 
+Peugeot ,206 ,  1.4 Premium 
+Peugeot ,206 ,  1.4 XR 
+Peugeot ,206 ,  1.4 HDi Comfort 
+Peugeot ,206 ,  1.4 Fever 
+Peugeot ,206 ,  1.4 X-Line 
+Peugeot ,206 ,  1.6 Roland Garros 
+Peugeot ,206 ,  1.4 Sporty 
+Peugeot ,206 ,  1.4 Look 
+Peugeot ,206 ,  1.4 XT 
+Peugeot ,206 ,  1.6 XT 
+Ford ,C-Max ,  1.6 TDCi Titanium 
+Ford ,C-Max ,  1.6 TDCi Titanium X 
+Ford ,C-Max 1.5 TDCi ,  Titanium 
+Ford ,C-Max ,  1.6 TDCi Ghia 
+Ford ,C-Max ,  1.6 TDCi Trend 
+Ford ,C-Max ,  1.6 Ghia 
+Hyundai ,i30 ,  1.6 CRDi Style Plus 
+Ford ,C-Max ,  1.6 SCTi Titanium 
+Peugeot ,206 ,  1.4 Comfort 
+Peugeot ,206 ,  1.4 Feline 
+Peugeot ,206 ,  1.4 HDi Fever 
+Peugeot ,206 ,  1.6 XS 
+Volkswagen ,VW CC 2.0 TDI ,  Exclusive 
+Volkswagen ,VW CC 2.0 TDI ,  2.0 TDI 
+Volkswagen ,VW CC 1.4 TSI ,  R-Line 
+Volkswagen ,VW CC 1.4 TSI ,  Exclusive 
+Volkswagen ,VW CC ,  1.8 TSI 
+Volkswagen ,VW CC 1.4 TSI ,  Sportline 
+Volkswagen ,VW CC 1.4 TSI ,  1.4 
+Volkswagen ,Passat ,  1.4 TSI BlueMotion Trendline 
+Hyundai ,i30 ,  1.6 GDi Elite 
+Hyundai ,i30 ,  1.6 CRDi Style 
+Hyundai ,i30 ,  1.6 GDi Style 
+Hyundai ,i30 ,  1.6 CRDi Select 
+Hyundai ,i30 ,  1.6 CRDi Prime 
+Hyundai ,i30 ,  1.6 CRDi Elite 
+Volkswagen ,Passat ,  1.4 TSI BlueMotion Comfortline 
+Volkswagen ,Passat ,  1.4 TSI BlueMotion Exclusive 
+Hyundai ,i30 ,  1.4 CVVT Team 
+Hyundai ,i30 ,  1.6 CRDi Mode 
+Hyundai ,i30 ,  1.6 CRDi Team 
+Volkswagen ,Passat ,  1.4 TSI BlueMotion Highline 
+BMW ,3 Serisi ,  318d Sport Plus 
+BMW ,3 Serisi ,  320i 
+BMW ,3 Serisi ,  320d M Sport 
+BMW ,3 Serisi ,  318is 
+BMW ,3 Serisi ,  316i M Sport 
+BMW ,3 Serisi ,  320i ED Sport Line 
+BMW ,3 Serisi ,  320d Edition Sport Line 
+BMW ,3 Serisi ,  318i Standart 
+BMW ,3 Serisi ,  316i Technology 
+BMW ,3 Serisi ,  316i Standart 
+BMW ,3 Serisi ,  320i First Edition M Sport  
+BMW ,3 Serisi ,  320d Modern Line 
+BMW ,3 Serisi ,  320d Premium 
+BMW ,3 Serisi ,  320i ED Luxury Line Plus 
+BMW ,3 Serisi ,  318d M Plus 
+BMW ,3 Serisi ,  318i M Joy 
+BMW ,3 Serisi ,  320i ED 40th Year Edition 
+BMW ,3 Serisi ,  320d Comfort 
+BMW ,3 Serisi ,  316i Modern Line 
+BMW ,3 Serisi ,  320d xDrive Sport Line 
+BMW ,3 Serisi ,  316i Comfort 
+BMW ,3 Serisi ,  320d Techno Plus 
+BMW ,3 Serisi ,  320d Premium Line 
+BMW ,3 Serisi ,  320i ED M Plus 
+BMW ,3 Serisi ,  320d Standart 
+Tata ,Indica ,  1.4 Basic 
+Tata ,Indigo ,  1.4 MPFI Trend 
+Tata ,Marina ,  1.4 TDI Comfort 
+Tata ,Indica ,  1.4 TDI Trend 
+Chrysler ,300 C ,  3.0 CRD 
+BMW ,3 Serisi ,  320i ED Modern Line 
+BMW ,3 Serisi ,  320i ED Sport Plus 
+BMW ,3 Serisi ,  316Ci 
+Renault ,Talisman ,  1.6 dCi Icon 
+Renault ,Talisman ,  1.6 dCi Touch 
+Renault ,Talisman ,  1.5 dCi Touch 
+BMW ,3 Serisi ,  318i Prestige 
+Chrysler ,Stratus ,  2.0 LE 
+Chrysler ,Sebring ,  2.4 Limited 
+Chrysler ,300 M ,  2.7 
+Chrysler ,Sebring ,  2.7 Limited 
+Chrysler ,LHS ,  3.5 
+BMW ,3 Serisi ,  320d xDrive Standart 
+BMW ,3 Serisi ,  328i 
+BMW ,3 Serisi ,  320d xDrive Techno Plus 
+BMW ,3 Serisi ,  316i Premium 
+BMW ,3 Serisi ,  318i Edition M Sport 
+Subaru ,Legacy ,  2.0 Sportwagon 
+BMW ,3 Serisi ,  330d Touring 
+Subaru ,Impreza ,  2.0 WRX 
+Subaru ,Impreza ,  2.0 Active 
+Subaru ,Impreza ,  2.0 WRX STi 
+Subaru ,Legacy ,  2.0 Limited 
+BMW ,3 Serisi ,  318i Premium Line 
+BMW ,3 Serisi ,  320i ED Standart 
+Peugeot ,301 ,  1.6 HDi Access 
+BMW ,3 Serisi ,  320d Luxury 
+BMW ,3 Serisi ,  320i Premium 
+Peugeot ,301 ,  1.6 HDi Allure 
+Peugeot ,301 ,  1.6 HDi Active 
+Peugeot ,301 ,  1.2 PureTech Active 
+Peugeot ,301 ,  1.6 BlueHDI Active 
+BMW ,3 Serisi ,  320d Technology 
+BMW ,3 Serisi ,  320d Edition Comfort 
+Volvo ,S60 ,  1.6 D Premium 
+Volvo ,V40 ,  1.6 D Advance 
+Volvo ,S60 ,  2.0 T 
+Volvo ,V40 1.5 T3 ,  Inscription 
+Volvo ,S40 ,  1.6 D Prime 
+BMW ,3 Serisi ,  318Ci 
+Volvo ,C30 ,  1.6 D Style 
+Peugeot ,301 ,  1.6 BlueHDI Allure 
+Peugeot ,301 1.2 ,  Active 
+BMW ,3 Serisi ,  320Ci 
+BMW ,3 Serisi ,  320d Advantage 
+Volvo ,S40 ,  1.6 D 
+Volvo ,V60 ,  2.0 D3 D3 
+Volvo ,S60 ,  2.0 T Premium 
+Volvo ,S80 ,  2.4 D5 Premium 
+Volvo ,S80 ,  1.6 D 
+Volvo ,C30 ,  1.6 D Premium 
+Volvo ,S40 ,  1.6 D Dynamic 
+Volvo ,S90 ,  2.0 D D5 Inscription 
+BMW ,3 Serisi ,  320i ED Luxury Line 
+Peugeot ,301 ,  1.5 BlueHDI Active 
+BMW ,3 Serisi ,  320d xDrive GT M Sport 
+BMW ,3 Serisi ,  320d xDrive GT Sport Line 
+Volvo ,S60 ,  1.6 Premium 
+Volvo ,S60 ,  1.6 D Advance 
+Volvo ,V90 Cross Country ,  2.0 D D5 Pro 
+BMW ,3 Serisi ,  320i First Edition Sport Line  
+BMW ,3 Serisi ,  318i 40th Year Edition 
+Volvo ,S80 ,  1.6 T4 Advance 
+Volvo ,S40 ,  1.8 
+Volvo ,V60 ,  1.6 T4 R-Design 
+Volvo ,V40 ,  1.6 D Premium 
+Volvo ,S80 ,  4.4 
+Volvo ,V40 Cross Country ,  1.5 T3 Advance 
+BMW ,3 Serisi ,  325i Standart 
+BMW ,3 Serisi ,  320d Edition M Sport 
+Volvo ,S80 ,  2.8 T6 
+Volvo ,S60 ,  1.6 D R-Design 
+Volvo ,S60 1.5 T3 ,  Advance 
+Volvo ,S40 ,  1.6 D Premium 
+Volvo ,S60 ,  2.0 D Premium 
+BMW ,3 Serisi ,  320i ED Modern Line Plus 
+BMW ,3 Serisi ,  330d Standart 
+Volvo ,S60 ,  2.0 D Advance 
+Volvo ,960 ,  3.0 
+BMW ,3 Serisi ,  320i Cabrio 
+BMW ,3 Serisi ,  318i M Plus 
+Volvo ,V40 Cross Country ,  1.6 D Premium 
+Volvo ,S60 1.5 T3 ,  Premium 
+Volvo ,S40 ,  2.0 T 
+Volvo ,V40 ,  1.6 D R-Design 
+Volvo ,C30 ,  1.6 
+BMW ,3 Serisi ,  328i Sport Line 
+BMW ,3 Serisi ,  330xi Standart 
+BMW ,3 Serisi ,  316i Compact 
+BMW ,3 Serisi ,  328i Modern Line 
+Volkswagen ,Passat ,  1.5 TSI Impression  
+Volkswagen ,Passat ,  1.5 TSI Elegance 
+Volkswagen ,Passat ,  1.5 TSI Business 
+Volkswagen ,Polo ,  1.2 TSI Comfortline 
+Volkswagen ,Polo ,  1.2 Trendline 
+Volkswagen ,Polo ,  1.2 TSI Lounge 
+Volkswagen ,Polo ,  1.4 Comfortline 
+Volkswagen ,Polo ,  1.4 TDI Comfortline 
+Volkswagen ,Polo ,  1.2 TSI Allstar 
+Volkswagen ,Polo ,  1.6 TDI Trendline 
+Volkswagen ,Polo ,  1.6 Classic 
+Volkswagen ,Polo ,  1.4 Highline 
+Volkswagen ,Polo ,  1.4 TDI Trendline 
+Volkswagen ,Polo ,  1.6 TDI Comfortline 
+Volkswagen ,Polo ,  1.0 TSI Comfortline 
+Volkswagen ,Polo ,  1.0 Trendline 
+Volkswagen ,Polo ,  1.4 Trendline 
+Volkswagen ,Polo ,  1.4 Sportline 
+Volkswagen ,Polo ,  1.4 
+Volkswagen ,Polo ,  1.4 TSI GTI 
+Audi ,A3 ,  A3 Sportback 1.4 TFSI Attraction 
+Renault ,Clio ,  1.5 dCi Touch 
+Renault ,Clio ,  1.5 BlueDCI Joy 
+Renault ,Clio ,  1.6 Executive 
+Renault ,Clio ,  1.2 Extreme 
+Renault ,Clio ,  1.2 Expression 
+Renault ,Clio ,  0.9 TCe Touch 
+Renault ,Clio ,  1.2 Icon 
+Renault ,Clio ,  1.4 Authentique 
+Renault ,Clio ,  1.5 dCi Joy 
+Volkswagen ,Polo ,  1.4 Basicline 
+Volkswagen ,Polo ,  1.2 TDI Trendline 
+Renault ,Clio ,  1.0 TCe Icon 
+Renault ,Clio ,  1.6 RXT 
+Renault ,Clio ,  1.5 dCi Authentique 
+Renault ,Clio ,  1.5 dCi Icon 
+Renault ,Clio ,  1.0 TCe Touch 
+Renault ,Clio ,  1.4 
+Renault ,Clio ,  1.4 RTA 
+Renault ,Clio ,  1.5 dCi Alize 
+Renault ,Clio ,  1.4 Dynamique 
+Renault ,Clio ,  1.5 dCi Expression 
+Volkswagen ,Polo ,  1.4 Goal 
+Volkswagen ,Polo ,  1.6 
+Volkswagen ,Polo ,  1.4 Chrome Edition 
+Renault ,Clio ,  1.6 Dynamique 
+Renault ,Clio ,  1.0 TCe Joy 
+Volkswagen ,Polo ,  1.2 TDI BlueMotion 
+Renault ,Clio ,  1.2 Authentique 
+Renault ,Clio ,  1.6 RTE 
+Renault ,Clio ,  1.6 RT 
+Renault ,Clio ,  1.4 RT 
+Renault ,Clio ,  1.2 Joy 
+Renault ,Clio ,  1.5 dCi Authentique Edition 
+Renault ,Clio ,  1.4 RNA 
+Volkswagen ,Polo ,  1.6 Comfortline 
+Volkswagen ,Polo ,  1.4 Fan Edition 
+Renault ,Clio ,  1.4 Alize 
+Renault ,Clio ,  1.0 SCe Joy 
+Renault ,Clio ,  1.2 Turbo Icon 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Dynamic 
+Renault ,Clio ,  1.4 Privilege 
+Renault ,Clio ,  1.6 Extreme 
+Renault ,Clio ,  1.4 Extreme 
+Renault ,Clio ,  1.5 dCi Grandtour Authentique Edition 
+Renault ,Clio ,  1.2 Grandtour Night & Day 
+Renault ,Clio ,  1.5 dCi Grandtour Night & Day 
+Volkswagen ,Polo ,  1.4 TDI BlueMotion 
+Renault ,Clio ,  1.4 RXT 
+Renault ,Clio ,  1.5 dCi Extreme Edition 
+Volkswagen ,Polo ,  1.4 TSI ACT BlueGT 
+Fiat ,Uno ,  70 SX 
+Renault ,Clio ,  1.5 dCi Grandtour Dynamique 
+Renault ,Clio ,  1.4 RN 
+Volkswagen ,Polo ,  1.4 Pulse 
+Volkswagen ,Polo ,  1.9 TDI Trendline Variant 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro 
+Renault ,Clio ,  1.2 Turbo GT Line 
+Renault ,Clio ,  1.4 Expression 
+Renault ,Clio ,  0.9 Sport Tourer Touch 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Impression 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Design Line 
+Renault ,Clio ,  0.9 TCe Icon 
+Renault ,Clio ,  1.2 Touch 
+Audi ,A6 ,  A6 Sedan 2.0 TDI Quattro 
+Audi ,80 Serisi ,  1.6 TD 
+Audi ,A6 ,  A6 Sedan 2.0 TDI 
+Audi ,A3 ,  A3 Sedan 1.5 TFSI Sport  
+Audi ,A3 ,  A3 Sportback 1.5 TFSI Sport  
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro Dynamic 
+Audi ,A4 ,  A4 Sedan 2.0 TDI 
+Audi ,A3 ,  A3 Hatchback 1.6 1.6 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Attraction 
+Audi ,A3 ,  A3 Sedan 35 TFSI Dynamic 
+Audi ,A6 ,  A6 Sedan 2.0 TFSI Quattro Sport 
+Audi ,A6 ,  A6 Sedan 2.5 TDI Quattro 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Ambition 
+Renault ,Megane ,  1.6 Extreme 
+Audi ,A6 ,  A6 Sedan 2.0 TDI Limousine  
+Audi ,A4 ,  A4 Sedan 1.8 T Quattro 
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro 
+Audi ,A3 ,  A3 Sportback 1.6 Attraction 
+Audi ,A1 ,  1.4 TFSI Attraction 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Ambition 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Sport Line 
+Audi ,A3 ,  A3 Sportback 1.4 TFSI Ambition 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Dynamic 
+Audi ,A5 ,  A5 Sportback 1.4 TFSI Sport 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Sport Line 
+Audi ,A3 ,  A3 Sportback 1.6 FSI 
+Audi ,A3 ,  A3 Sportback 1.0 TFSI Sport Line 
+Renault ,R 12 ,  Toros 
+Renault ,Clio ,  0.9 TCe Joy 
+Volkswagen ,Polo ,  1.4 CL 
+Volkswagen ,Polo ,  1.4 Tour 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Attraction 
+Audi ,A3 ,  A3 Cabrio 1.4 TFSI Ambiente 
+Audi ,A5 ,  A5 Coupe 1.8 TFSI 
+Audi ,A3 ,  A3 Cabrio 1.6 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Dynamic 
+Audi ,A8 ,  3.0 TDI Quattro Long 
+Volkswagen ,Polo ,  1.6 Comfortline Classic 
+Audi ,A3 ,  A3 Sportback 1.6 Ambition 
+Audi ,A5 ,  A5 Sportback 2.0 TDI 
+Audi ,80 Serisi ,  2.0 
+Audi ,A4 ,  A4 Sedan 
+Audi ,A3 ,  A3 Hatchback 1.6 Attraction 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Sport  
+Renault ,Megane ,  1.5 dCi Expression 
+Audi ,A3 ,  A3 Hatchback 1.8 Ambiente 
+Audi ,A3 ,  A3 Hatchback 1.6 Ambiente 
+Audi ,A6 ,  A6 Sedan 2.8 Quattro 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Ambiente 
+Audi ,A3 ,  A3 Cabrio 1.5 TFSI Sport  
+Renault ,R 9 ,  1.4 Broadway RN 
+Volkswagen ,Polo ,  1.0 TSI R-Line 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Ambiente  
+Audi ,A5 ,  A5 Coupe 1.4 TFSI Design 
+Audi ,A6 ,  A6 Sedan 2.0 TDI Quattro Design 
+Audi ,A6 ,  A6 Sedan 3.0 TDI Quattro 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Sport  
+Audi ,A4 ,  A4 Avant 2.0 TDI Sport 
+Audi ,A3 ,  A3 Sportback 1.6 1.6 
+Audi ,A3 ,  A3 Sportback 1.5 TFSI Dynamic 
+Audi ,A4 ,  A4 Sedan 2.0 TFSI Quattro 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro Sport 
+Audi ,A4 ,  A4 Sedan 1.4 TFSI Dynamic 
+Audi ,A4 ,  A4 Avant 1.4 TFSI 
+Tofaþ ,Kartal ,  SL 
+Audi ,A8 ,  4.0 TFSI Quattro 
+Audi ,A5 ,  A5 Sportback 2.0 TFSI Quattro 
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro Sport  
+Audi ,A6 ,  A6 Sedan 2.0 TDI Quattro Sport 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Advanced 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Design 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro Design 
+Audi ,A4 ,  A4 Sedan 1.4 TFSI Design 
+Audi ,80 Serisi ,  1.6 D 
+Audi ,A3 ,  A3 Sportback 1.0 TFSI Dynamic 
+Renault ,Clio ,  1.5 dCi Executive 
+Audi ,A3 ,  A3 Sedan 1.0 TFSI Dynamic 
+Audi ,A3 ,  A3 Sedan 1.6 TDI Design  
+Audi ,A4 ,  A4 Sedan 1.6 
+Audi ,A3 ,  A3 Cabrio 1.4 TFSI Sport Line 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Trendline 
+Audi ,A1 ,  1.6 TDI Sport  
+Audi ,A1 ,  1.6 TDI Attraction 
+Audi ,A6 ,  A6 Sedan 2.0 TFSI Quattro 
+Audi ,A3 ,  A3 Hatchback 1.6 FSI 1.6 FSI 
+Skoda ,Fabia ,  1.4 Choice 
+Audi ,A8 ,  4.2 L TDI Quattro 
+Audi ,A5 ,  A5 Coupe 
+Audi ,A7 ,  3.0 TDI 
+Skoda ,Octavia ,  1.6 TDI Style CR 
+Audi ,RS ,  RS 6 
+Audi ,80 Serisi ,  1.9 TD 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Design Line 
+Audi ,A6 ,  A6 Sedan 1.8 T Advance 
+Audi ,A4 ,  A4 Sedan 1.8 T 
+Audi ,A4 ,  A4 Sedan 1.4 TFSI Sport 
+Audi ,A8 ,  3.0 TDI Quattro 
+Audi ,A3 ,  A3 Hatchback 1.6 Ambition 
+Audi ,S Serisi ,  S5 3.0 TFSI Quattro 
+Audi ,A5 ,  A5 Sportback 1.4 TFSI Design 
+Audi ,A5 ,  A5 Coupe 2.0 TFSI Quattro 
+Audi ,A6 ,  A6 Sedan 1.8 T 1.8 T 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro Advanced 
+Audi ,A3 ,  A3 Cabrio 1.5 TFSI Design Line 
+Audi ,A3 ,  A3 Sportback 1.8 TFSI Ambition 
+Audi ,S Serisi ,  S3 2.0 TFSI Quattro 
+Audi ,A1 ,  1.6 TDI Ambition 
+Volkswagen ,Jetta ,  1.2 TSI Comfortline 
+Volkswagen ,Jetta ,  1.6 TDI Comfortline 
+Volkswagen ,Jetta ,  1.4 TSI BlueMotion Comfortline 
+Volkswagen ,Jetta ,  1.4 TSI Comfortline 
+Volkswagen ,Jetta ,  1.6 TDI Primeline 
+Volkswagen ,Jetta ,  1.6 TDI Highline 
+Toyota ,Auris ,  1.33 Life 
+Volkswagen ,Jetta ,  1.6 TDI Trendline 
+Volkswagen ,Jetta ,  1.6 Primeline 
+Volkswagen ,Jetta ,  1.6 FSI Comfortline 
+Volkswagen ,Bora ,  1.6 Comfortline 
+Volkswagen ,Jetta ,  1.2 TSI BlueMotion Trendline 
+Volkswagen ,Jetta ,  1.6 Comfortline 
+Seat ,Leon ,  1.6 Stylance 
+Volkswagen ,Jetta ,  1.2 TSI Trendline 
+Volkswagen ,Jetta ,  1.2 TSI BlueMotion Comfortline 
+Volkswagen ,Jetta ,  1.4 TSI BlueMotion Highline 
+Volkswagen ,Golf ,  1.6 TDI Comfortline 
+Volkswagen ,Jetta ,  1.4 TSI Trendline 
+Volkswagen ,Golf ,  1.6 TDI Trendline 
+Volkswagen ,Jetta ,  1.6 FSI Midline 
+Volkswagen ,Jetta ,  1.6 TDI Midline 
+Volkswagen ,Jetta ,  1.2 TSI Highline 
+Volkswagen ,Jetta ,  1.6 Midline 
+Volkswagen ,Jetta ,  1.4 TSI Midline 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Comfortline 
+Volkswagen ,Jetta ,  1.6 
+Volkswagen ,Bora ,  1.6 Pacific 
+Volkswagen ,Jetta ,  1.4 TSI Highline 
+Volkswagen ,Jetta ,  1.4 TSI BlueMotion Trendline 
+Volkswagen ,Jetta ,  1.9 TDI Midline 
+Volkswagen ,Scirocco ,  1.4 TSI Allstar 
+Volkswagen ,Scirocco ,  1.4 TSI Sportline 
+Volkswagen ,Scirocco ,  1.4 TSI White Edition 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Highline 
+Volkswagen ,Jetta ,  2.0 TDI Comfortline 
+Toyota ,Corolla ,  1.4 D-4D Touch 
+Volkswagen ,Jetta ,  1.2 TSI BlueMotion Highline 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion R Line 
+Volkswagen ,Passat ,  2.0 TDI Comfortline 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Business 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Elegance 
+Volkswagen ,Passat ,  1.6 FSI Comfortline 
+Volkswagen ,Passat ,  1.6 Comfortline 
+Volkswagen ,Passat ,  1.6 Trendline 
+Volkswagen ,Passat ,  1.9 TDI Comfortline 
+Volkswagen ,Passat ,  1.8 Basic 
+Volkswagen ,Passat ,  2.0 TDI BlueMotion Highline 
+Volkswagen ,Passat ,  1.8 Highline 
+Skoda ,Superb ,  1.6 TDI Elegance 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion Exclusive 
+Volkswagen ,Passat ,  1.4 TSI Comfortline 
+Volkswagen ,Passat ,  2.0 TDI Highline 
+Volkswagen ,Passat ,  2.0 TDI BlueMotion Comfortline 
+Volkswagen ,Passat ,  2.0 FSI Comfortline 
+Volkswagen ,Passat ,  1.9 TDI Highline 
+Volkswagen ,Passat ,  1.9 TDI 
+Volkswagen ,Passat ,  1.6 Exclusive 
+Volkswagen ,Passat ,  1.6 
+Skoda ,Forman ,  135 LS 
+Volkswagen ,Passat ,  1.8 T Comfortline 
+Volkswagen ,Passat ,  1.6 FSI Trendline 
+Volkswagen ,Passat ,  2.0 Comfortline 
+Toyota ,Corolla ,  1.3 XE 
+Volkswagen ,Passat ,  1.8 T Highline 
+Tofaþ ,Doðan ,  SLX 
+Tofaþ ,Kartal ,  Kartal 5 Vites 
+Volkswagen ,Passat ,  1.8 TFSI 
+Volkswagen ,Beetle ,  1.2 TSI Design 
+Volkswagen ,Passat ,  1.4 TSI Hybrid GTE 
+Volkswagen ,Passat ,  1.8 Trendline 
+Volkswagen ,Beetle ,  1.3 
+Volkswagen ,Passat ,  1.8 Comfortline 
+Skoda ,Felicia ,  1.3 GLXi 
+Volkswagen ,Beetle ,  1.2 TSI Allstar 
+Volkswagen ,Passat ,  1.8 T Trendline 
+Toyota ,Avensis ,  1.6 Elegant Extra 
+Toyota ,Avensis ,  1.6 Comfort 
+Toyota ,Avensis ,  1.6 Elegant 
+Toyota ,Avensis ,  2.0 D-4D Elegant 
+Toyota ,Avensis ,  2.0 Liftback 
+Ford ,Focus ,  1.6 TDCi Titanium X 
+Skoda ,Scala ,  1.6 TDI Premium 
+Toyota ,Avensis 1.6 D-4D ,  Premium Plus 
+Toyota ,Avensis ,  1.8 Elegant 
+Toyota ,Avensis ,  2.0 Sol 
+Toyota ,Avensis ,  2.0 Elegant 
+Toyota ,Avensis ,  2.0 Premium 
+Toyota ,Avensis ,  2.0 Sol Extra 
+Volkswagen ,Passat ,  1.8 T 
+Skoda ,Superb ,  1.6 TDI Comfort 
+Skoda ,Superb ,  1.6 TDI Prestige 
+Skoda ,Superb ,  1.6 TDI Elite  
+Skoda ,Superb ,  1.6 TDI Style 
+Skoda ,Octavia ,  1.6 TDI Ambition 
+Skoda ,Rapid ,  1.4 TDI GreenTec Style 
+Skoda ,Octavia ,  1.6 TDI Elegance CR 
+Skoda ,Rapid ,  1.6 CR TDI Spaceback Elegance 
+Skoda ,Octavia ,  1.0 TSI Style 
+Skoda ,Fabia ,  1.0 GreenTec Style 
+Skoda ,Felicia ,  1.3 LXi 
+Skoda ,Fabia ,  1.4 Comfort 
+Skoda ,Fabia ,  1.2 Ambition 
+Skoda ,Superb ,  1.6 TDI Ambition 
+Skoda ,Rapid ,  1.2 TSI Ambition 
+Skoda ,Superb ,  1.6 TDI Active 
+Skoda ,Octavia ,  1.6 TDI Style 
+Skoda ,Fabia ,  1.2 Ambiente 
+Skoda ,Fabia ,  1.6 TDI Ambiente 
+Skoda ,Octavia ,  1.6 Elegance 
+Skoda ,Octavia ,  1.6 TDI Elegance 
+Skoda ,Scala ,  1.0 TSI Premium 
+Volkswagen ,Passat ,  1.8 T Exclusive 
+Skoda ,Superb ,  1.4 TSI Prestige 
+Skoda ,Superb ,  1.4 TSI Elegance 
+Skoda ,Octavia ,  1.4 TSI Ambiente 
+Skoda ,Rapid ,  1.6 CR TDI Elegance 
+Skoda ,Superb ,  1.4 TSI Active 
+Skoda ,Octavia ,  1.2 TSI Style 
+Skoda ,Favorit ,  135 L 
+Skoda ,Favorit ,  135 LX 
+Skoda ,Octavia ,  1.6 Classic 
+Skoda ,Superb ,  1.9 TDI Elegance 
+Skoda ,Octavia ,  1.4 TSI Elegance 
+Skoda ,Fabia ,  1.2 Optimal 
+Skoda ,Octavia ,  1.6 TDI Optimal  
+Skoda ,Rapid ,  1.2 Ambition 
+Ford ,Focus ,  1.5 Ti-VCT Trend X 
+Skoda ,Octavia ,  1.6 Ambiente Optimal 
+Skoda ,Rapid ,  1.4 TSI Elegance 
+Skoda ,Fabia ,  1.4 TDI Classic 
+Skoda ,Octavia ,  1.9 TDI Ambiente 
+Skoda ,Rapid ,  1.4 TDI GreenTec Ambition 
+Skoda ,Favorit ,  1.3 LX 
+Skoda ,Superb ,  2.0 TDI Prestige 
+Skoda ,Octavia ,  1.6 Ambiente 
+Skoda ,Favorit ,  136 L 
+Skoda ,Felicia ,  1.3 GLX 
+Skoda ,Fabia ,  1.0 GreenTec Ambition 
+Skoda ,Felicia ,  1.3 LX 
+Skoda ,Octavia ,  1.6 TDI Ambiente 
+Skoda ,Octavia ,  1.2 TSI Elegance 
+Skoda ,Fabia ,  1.4 Special 
+Renault ,Fluence ,  1.5 dCi Joy 
+Skoda ,Fabia ,  1.2 TSI Style 
+Skoda ,Fabia ,  1.6 TDI Ambition 
+Skoda ,Fabia ,  1.2 Classic 
+Renault ,Fluence ,  1.5 dCi Touch 
+Skoda ,Rapid ,  1.2 TSI GreenTec Spaceback Monte Carlo 
+Skoda ,Fabia ,  1.2 TSI Ambition 
+Skoda ,Fabia ,  1.4 TDI Ambiente 
+Skoda ,Superb ,  1.9 TDI Comfort 
+Skoda ,Superb ,  1.4 TSI Comfort 
+Skoda ,Fabia ,  1.4 Elegance 
+Skoda ,Octavia ,  1.0 TSI Ambition 
+Skoda ,Superb ,  2.0 TDI Elegance 
+Skoda ,Superb ,  1.6 TDI Premium  
+Skoda ,Fabia ,  1.4 Ambiente Dynamic 
+Skoda ,Superb ,  1.5 TSI Style  
+Skoda ,Octavia ,  1.4 TSI Ambition 
+Renault ,R 19 ,  1.4 Europa RL 
+Renault ,R 19 ,  1.6 Europa RNE 
+Renault ,R 19 ,  1.4 Europa RNA 
+Renault ,R 19 ,  1.6 Europa RT 
+Renault ,R 19 ,  1.6 Europa iE 
+Renault ,R 19 ,  1.6 Europa RTE Alize 
+Renault ,R 19 ,  1.4 1.4i 
+Renault ,R 19 ,  1.9 Europa RN 
+Skoda ,Rapid ,  1.6 CR TDI Ambition 
+Renault ,R 19 ,  1.4 Europa RN 
+Skoda ,Octavia ,  1.6 Tour 
+Skoda ,Fabia ,  1.4 Ambiente 
+Skoda ,Octavia ,  1.2 TSI Ambition 
+Skoda ,Fabia ,  1.4 Classic 
+Renault ,R 19 ,  1.8 Europa 
+Skoda ,Citigo ,  1.0 Elegance 
+Skoda ,Octavia ,  1.6 Collection Plus 
+Skoda ,Superb ,  2.0 TDI Laurin&Klement 
+Skoda ,Favorit ,  1.3 GLX 
+Skoda ,Superb ,  1.5 TSI Elite 
+Skoda ,Superb ,  1.5 TSI Premium  
+Skoda ,Forman ,  135 L 
+Mercedes - Benz ,CLA ,  200 Urban 
+Volkswagen ,Golf ,  1.2 TSI Comfortline 
+Volkswagen ,Golf ,  1.4 TSI Highline 
+Volkswagen ,Golf ,  1.4 TSI Comfortline 
+Volkswagen ,Golf ,  1.6 TDI BlueMotion Highline 
+Volkswagen ,Golf ,  1.6 Trendline 
+Volkswagen ,Golf ,  1.6 FSI Comfortline 
+Volkswagen ,Golf ,  1.6 TDI BlueMotion Comfortline 
+Volkswagen ,Golf ,  1.6 FSI Midline 
+Volkswagen ,Golf ,  1.5 TSI Highline  
+Volkswagen ,Golf ,  1.6 TDI BlueMotion Midline Plus 
+Volkswagen ,Golf ,  1.2 TSI Midline Plus 
+Skoda ,Octavia ,  1.6 Ambition Optimal 
+Volkswagen ,Golf ,  1.4 TSI Midline 
+Volkswagen ,Golf ,  1.5 TSI Comfortline  
+Volkswagen ,Golf ,  1.6 Midline 
+Volkswagen ,Golf ,  1.6 Comfortline 
+Volkswagen ,Golf ,  1.6 Primeline 
+Volkswagen ,Golf ,  1.0 TSI Highline 
+Volkswagen ,Golf ,  1.4 TSI Trendline 
+Volkswagen ,Golf ,  1.2 TSI Allstar 
+Volkswagen ,Golf ,  1.8 CL 
+Volkswagen ,Golf ,  1.6 TDI Highline 
+Volkswagen ,Golf ,  1.9 TDI Midline 
+Volkswagen ,Golf ,  1.6 FSI Sportline 
+Volkswagen ,Golf ,  1.8 T GTI 
+Volkswagen ,Golf ,  1.0 TSI Midline Plus 
+Volkswagen ,Golf ,  1.6 Pacific 
+Volkswagen ,Golf ,  1.6 CL 
+Tofaþ ,Doðan ,  L 
+Volkswagen ,Golf ,  1.6 FSI Goal 
+Renault ,Symbol ,  1.5 DCI Joy 
+Volkswagen ,Golf ,  1.9 TDI Comfortline 
+Volkswagen ,Golf ,  1.0 TSI Comfortline 
+Volkswagen ,Golf ,  1.6 FSI Tour 
+Volkswagen ,Golf ,  1.4 TSI GT 
+Volkswagen ,Golf ,  1.6 
+Toyota ,Corolla ,  1.8 Hybrid Dream  
+Volkswagen ,Golf ,  2.0 Highline 
+Volkswagen ,Golf ,  1.9 TDI 1.9 TDi 
+Volkswagen ,Golf ,  1.6 Highline 
+Renault ,R 12 ,  TX 
+Seat ,Leon ,  1.4 EcoTSI FR 
+Renault ,R 12 ,  GTS 
+Renault ,R 12 ,  TSW 
+Renault ,R 12 ,  SW 
+Volkswagen ,Bora ,  1.6 Primeline 
+Volkswagen ,Bora ,  1.6 Trendline 
+Volkswagen ,Bora ,  1.6 Basic 
+Volkswagen ,Bora ,  1.9 TDI Comfortline 
+Volkswagen ,Bora ,  1.6 Highline 
+Opel ,Insignia ,  1.6 CDTI Cosmo 
+Volkswagen ,Golf ,  1.6 Tour 
+Toyota ,Corolla ,  1.33 Comfort 
+Renault ,R 12 ,  TS 
+Volkswagen ,Golf ,  1.6 GTD 
+Toyota ,Corolla ,  1.33 Life 
+Toyota ,Corolla ,  1.8 Hybrid Flame X-Pack 
+Volkswagen ,Golf ,  2.0 TSI R 4Motion 
+Toyota ,Corolla ,  1.6 GL 
+Toyota ,Corolla ,  1.4 D-4D Advance 
+Toyota ,Corolla ,  1.3 XL 
+Toyota ,Corolla ,  1.4 D-4D Comfort 
+Toyota ,Corolla ,  1.6 Terra 
+Toyota ,Corolla ,  1.6 Premium 
+Toyota ,Corolla ,  1.4 D-4D Active 
+Toyota ,Corolla ,  1.4 D-4D Terra 
+Toyota ,Corolla ,  1.4 D-4D Comfort Extra 
+Toyota ,Corolla ,  1.6 Advance 
+Toyota ,Corolla ,  1.6 Life 
+Toyota ,Corolla ,  1.4 Terra 
+Toyota ,Corolla ,  1.6 Sol Special 
+Toyota ,Corolla ,  1.6 VVT-i Sol 
+Toyota ,Corolla ,  1.4 D-4D Elegant 
+Toyota ,Corolla ,  1.6 Passion X-Pack 
+Toyota ,Corolla ,  1.6 Dream 
+Toyota ,Corolla ,  1.6 Vision 
+Toyota ,Corolla ,  1.6 Luna Special 
+Toyota ,Corolla ,  1.6 Linea Terra 
+Toyota ,Corolla ,  1.6 GLi Special  
+Toyota ,Corolla ,  1.6 XE 
+Toyota ,Corolla ,  1.3 Terra 
+Toyota ,Corolla ,  1.6 Sol 
+Toyota ,Corolla ,  1.8 Hybrid Passion X-Pack 
+Toyota ,Corolla ,  1.6 Elegant 
+Toyota ,Corolla ,  1.6 XEi 
+Toyota ,Corolla ,  1.3 Base 
+Renault ,Megane ,  1.5 dCi Touch 
+Renault ,Megane ,  1.5 dCi Joy 
+Seat ,Leon ,  2.0 TFSI Cupra 
+Renault ,Megane ,  1.6 Joy 
+Renault ,Megane ,  1.5 dCi Expression Plus 
+Renault ,Megane ,  1.4 Authentique 
+Renault ,Megane ,  1.6 Dynamique 
+Renault ,Megane ,  1.5 dCi Privilege 
+Renault ,Megane ,  1.5 dCi Dynamique 
+Renault ,Megane ,  1.5 dCi Icon 
+Renault ,Megane ,  1.5 dCi Authentique 
+Renault ,Megane ,  1.5 dCi Extreme 
+Renault ,Megane ,  1.5 dCi Sport Tourer Expression 
+Renault ,Megane ,  1.6 Expression 
+Renault ,Megane ,  1.6 Touch Plus 
+Renault ,Megane ,  1.5 Blue DCI Touch 
+Renault ,Megane ,  1.6 Authentique 
+Toyota ,Corolla ,  1.6 XLi 
+Toyota ,Corolla ,  1.3 L 
+Renault ,Megane ,  1.6 RTE 
+Renault ,Megane ,  2.0 RXT 
+Renault ,Megane ,  1.3 TCe Joy 
+Renault ,Megane ,  1.5 dCi Sportway 
+Toyota ,Corolla ,  1.4 Linea Terra 
+Toyota ,Corolla ,  1.6 Comfort 
+Toyota ,Corolla ,  1.6 XL 
+Renault ,Fluence ,  1.5 dCi Extreme 
+Renault ,Megane ,  1.6 Coupe Dynamique 
+Renault ,Fluence ,  1.5 dCi Business 
+Renault ,Megane ,  1.5 dCi Business 
+Renault ,Megane ,  1.6 RXi 
+Toyota ,Corolla ,  1.6 GLi 
+Renault ,Megane ,  1.9 dCi Authentique 
+Renault ,Megane ,  1.5 dCi Touch Plus 
+Toyota ,Corolla ,  1.4 D-4D Linea 
+Mercedes - Benz ,E Serisi ,  E 300 300 
+Renault ,Megane ,  2.0 RXE 
+Toyota ,Corolla ,  1.4 D-4D Premium 
+Toyota ,Corolla ,  1.6 Flame X-Pack 
+Renault ,Megane ,  1.6 RTA 
+Renault ,Megane ,  1.9 DTi Alize 
+Renault ,Megane ,  1.5 dCi Sport Tourer Extreme 
+Renault ,Megane ,  1.5 dCi Sport Tourer Privilege 
+Renault ,Fluence ,  1.5 dCi Icon 
+Toyota ,Corolla ,  1.4 D-4D Class 
+Mini ,Cooper ,  1.5 D Salt Pepper Chili 
+Renault ,Megane ,  1.5 dCi GT-Line 
+Honda ,Civic ,  1.6i VTEC Eco Elegance 
+Renault ,Megane ,  1.5 dCi Impressor 
+Renault ,Megane ,  1.3 TCe Icon 
+Renault ,Megane ,  1.6 Touch 
+Toyota ,Corolla ,  1.6 Comfort Extra 
+Renault ,Megane ,  1.5 dCi Joy Plus 
+Renault ,Megane ,  1.4 RTA 
+Renault ,Megane ,  1.6 Privilege 
+Renault ,Megane ,  1.4 T Impressor 
+Renault ,Megane ,  1.6 Sportway 
+Dacia ,Sandero ,  1.5 dCi Stepway 
+Renault ,Megane ,  1.6 Exception 
+Renault ,Megane ,  1.3 TCe Touch 
+Toyota ,Auris ,  1.4 D-4D Elegant 
+Toyota ,Auris ,  1.4 D-4D Comfort 
+Toyota ,Auris ,  1.4 D-4D Active Skypack 
+Toyota ,Auris ,  1.6 Comfort Extra 
+Toyota ,Auris ,  1.6 Advance 
+Toyota ,Auris ,  1.6 Advance Skypack 
+Toyota ,Auris ,  1.4 D-4D Comfort Extra 
+Toyota ,Auris ,  1.6 Comfort 
+Toyota ,Auris ,  1.6 Active Skypack 
+Toyota ,Auris ,  1.4 D-4D Advance Skypack 
+Ford ,Focus ,  1.5 TDCi Trend X  
+Renault ,Megane ,  1.6 Alize 
+Toyota ,Auris ,  1.4 D-4D Premium 
+Toyota ,Auris ,  1.8 Hybrid Advance Skypack 
+Toyota ,Auris ,  1.4 D-4D Advance 
+Toyota ,Auris ,  1.4 D-4D Comfort Plus 
+Toyota ,Auris ,  1.33 Comfort 
+Toyota ,Auris ,  1.8 Hybrid Advance 
+Mitsubishi ,Attrage ,  1.2 Intense 
+Renault ,Megane ,  1.6 RXT 
+Toyota ,Auris ,  1.6 Premium 
+Toyota ,Auris ,  1.4 D-4D Active 
+Tofaþ ,Þahin ,  Þahin 5 vites 
+Toyota ,Auris ,  1.6 Elegant 
+Renault ,Megane ,  1.4 T Sport Tourer Expression 
+Renault ,Megane ,  2.0 Dynamique 
+Renault ,Megane ,  1.9 DTi Expression 
+Renault ,Megane ,  1.5 Blue DCI Icon  
+Fiat ,Marea ,  1.9 JTD 
+Renault ,Megane ,  1.5 dCi Exception 
+Ford ,Focus ,  1.6 Ghia 
+Renault ,Megane ,  1.9 dCi Privilege 
+Seat ,Leon ,  1.5 EcoTSI FR 
+Renault ,Megane ,  1.9 DTi RTE 
+Seat ,Leon ,  1.4 TSI FR 
+Seat ,Leon ,  1.5 EcoTSI Xcellence  
+Seat ,Toledo ,  1.6 TDI Style 
+Seat ,Leon ,  1.6 TDI CR Style 
+Seat ,Leon ,  1.2 TSI Style 
+Seat ,Leon ,  1.6 TDI Style 
+Seat ,Toledo ,  1.6 Signo 
+Seat ,Ibiza ,  1.6 Signo 
+Seat ,Leon ,  1.6 Reference 
+Seat ,Ibiza ,  1.2 TSI Style 
+Seat ,Ibiza ,  1.4 TDI Elegance 
+Tofaþ ,Kartal ,  SLX 
+Renault ,Megane ,  1.6 Coupe RN 
+Seat ,Leon ,  1.6 Stella 
+Seat ,Leon ,  1.6 TDI ST Style 
+Seat ,Toledo ,  1.2 TSI Style 
+Tofaþ ,Þahin ,  1.6 ie 
+Seat ,Cordoba ,  1.6 SXE 
+Seat ,Altea ,  1.6 TDI Style XL 
+Tofaþ ,Kartal ,  S 
+Seat ,Toledo ,  1.8 Signo 
+Seat ,Ibiza ,  1.2 TSI Sport Tourer Style 
+Seat ,Leon ,  1.0 EcoTSI Ecomotive Style 
+Seat ,Toledo 1.4 TDI ,  Style 
+Seat ,Ibiza ,  1.4 TSI Sport Coupe Cupra 
+Seat ,Ibiza ,  1.4 Sport Tourer Copa 
+Seat ,Cordoba ,  1.4 TDI Stylance 
+Seat ,Leon ,  1.6 TDI Xcellence  
+Seat ,Ibiza ,  1.4 Copa 
+Seat ,Ibiza ,  1.4 Reference 
+Seat ,Altea ,  1.6 TDI I-Tech XL 
+Seat ,Leon ,  1.4 TSI Style 
+Seat ,Ibiza 1.0 EcoTSI ,  Style 
+Seat ,Leon ,  1.6 TDI Copa Plus 
+Seat ,Leon ,  1.6 Sport 
+Seat ,Toledo ,  1.6 TDI Reference 
+Seat ,Ibiza ,  1.2 TSI Reference 
+Seat ,Ibiza ,  1.4 Elegance 
+Seat ,Cordoba ,  1.4 TDI Signo 
+Seat ,Ibiza ,  1.4 Style 
+Seat ,Leon ,  1.6 Signo 
+Seat ,Ibiza ,  1.4 TDI Stylance 
+Seat ,Leon ,  1.6 TDI FR 
+Tofaþ ,Þahin ,  1.4 
+Seat ,Ibiza ,  1.4 TDI Signo 
+Seat ,Leon ,  1.4 TSI Stylance 
+Seat ,Leon ,  1.6 Spirit 
+Tofaþ ,Þahin ,  1.6 
+Tofaþ ,Murat ,  124 
+Tofaþ ,Kartal ,  1.6 ie 
+Tofaþ ,Þahin ,  S 
+Tofaþ ,Doðan ,  SLX ie 
+Tofaþ ,Doðan ,  S 
+Tofaþ ,Doðan ,  1.6 ie 
+Seat ,Toledo ,  1.6 Style 
+Seat ,Toledo ,  1.6 Signo Plus 
+Seat ,Ibiza 1.0 EcoTSI ,  Sport Coupe FR 
+Tofaþ ,Doðan ,  SL 
+Tofaþ ,Kartal ,  SLX ie 
+Seat ,Exeo ,  1.6 Style 
+Tofaþ ,Serçe ,  Serçe 
+Seat ,Toledo ,  1.6 Stella 
+Seat ,Cordoba ,  2.0 SX 
+Seat ,Altea ,  1.9 TDI Style 
+Seat ,Ibiza ,  1.4 Sport Tourer Style 
+Tofaþ ,Kartal ,  1.6 
+Tofaþ ,Kartal ,  L 
+Tofaþ ,Doðan ,  1.6 
+Renault ,Fluence ,  1.5 dCi Privilege 
+Renault ,Fluence ,  1.5 dCi Touch Plus 
+Renault ,Fluence ,  1.6 Joy 
+Renault ,Fluence ,  1.6 Extreme 
+Renault ,Fluence ,  1.5 dCi Expression 
+Renault ,Fluence ,  1.6 Touch Plus 
+Renault ,Symbol ,  1.5 DCI Expression 
+Renault ,Symbol ,  1.5 DCI Authentique 
+Renault ,Symbol ,  0.9 Joy 
+Renault ,Symbol ,  1.4 Authentique 
+Renault ,Symbol ,  1.4 Expression 
+Renault ,Symbol ,  1.2 Expression 
+Renault ,Symbol ,  1.2 Joy 
+Renault ,Symbol ,  1.5 DCI Expression Plus 
+Renault ,Fluence ,  1.5 dCi Dynamique 
+Renault ,Symbol ,  1.2 Authentique 
+Renault ,Symbol ,  1.5 DCI Touch 
+Chevrolet ,Spark ,  0.8 S 
+Renault ,Symbol ,  1.2 Authentique Edition 
+Renault ,Fluence ,  1.5 dCi Extreme Edition 
+Renault ,Fluence ,  1.6 Expression 
+Renault ,Symbol ,  1.0 Joy 
+Rover ,414 ,  Si 
+Rover ,416 ,  Si 
+Renault ,Fluence ,  1.6 Dynamique 
+Renault ,R 9 ,  1.4 Broadway RL 
+Renault ,R 9 ,  1.4 Broadway GTE 
+Renault ,R 9 ,  1.4 Broadway 
+Renault ,R 9 ,  1.4 Spring 
+Renault ,R 9 ,  1.6 Fairway 
+Mercedes - Benz ,E Serisi ,  E 220 d Exclusive 
+Renault ,R 9 ,  1.4 Broadway RNi 
+Renault ,R 9 ,  1.4 GTC 
+Renault ,R 9 ,  1.4 GTL 
+Renault ,Symbol ,  1.5 DCI SL Collection 
+Mercedes - Benz ,E Serisi E 200 d ,  AMG 
+Renault ,Symbol ,  1.5 BlueDCI Joy 
+Renault ,Symbol ,  1.4 Expression Plus 
+Renault ,Scenic ,  1.6 Dynamique 
+Renault ,Scenic ,  1.6 RXT 
+Renault ,Fluence ,  1.6 Icon 
+Renault ,Scenic ,  1.6 Expression 
+Renault ,Scenic ,  1.5 dCi Privilege 
+Renault ,Scenic ,  1.6 Privilege 
+Renault ,Scenic ,  1.5 dCi Sportway 
+Renault ,Scenic ,  1.6 Authentique 
+Renault ,Scenic ,  2.0 RXT 
+Renault ,Laguna ,  1.6 Privilege 
+Renault ,Laguna ,  1.6 Expression 
+Renault ,Laguna ,  2.0 T Privilege 
+Renault ,Laguna ,  1.6 RXE 
+Renault ,Laguna ,  1.9 dCi Expression 
+Renault ,Laguna ,  2.0 RXT 
+Renault ,Laguna ,  1.9 dCi Privilege 
+Renault ,Laguna ,  1.8 RXE 
+Renault ,Laguna ,  2.0 RXE 
+Renault ,Laguna ,  1.5 dCi Dynamique 
+Renault ,Laguna ,  2.0 RTI 
+Renault ,Laguna ,  1.5 dCi Executive 
+Renault ,Clio ,  1.5 dCi Dynamique 
+Renault ,Clio ,  1.5 dCi Extreme 
+Renault ,Clio ,  1.2 Turbo Touchrome 
+Renault ,Clio ,  1.2 Turbo Joy 
+Renault ,Clio ,  1.2 Turbo Touch 
+Renault ,Clio ,  1.2 Dynamique 
+Renault ,Clio ,  1.5 dCi GT Line 
+Opel ,Vectra ,  1.8 CD 
+Opel ,Vectra ,  1.9 CDTI Comfort 
+Opel ,Vectra ,  2.0 GLS 
+Opel ,Vectra ,  2.0 CD 
+Opel ,Vectra ,  1.6 Comfort 
+Opel ,Vectra ,  1.6 Design Edition 
+Opel ,Vectra ,  2.0 GT 
+Opel ,Vectra ,  1.8 GL 
+Opel ,Vectra ,  1.6 GL 
+Opel ,Vectra ,  2.0 CDX 
+Opel ,Vectra ,  1.6 Elegance 
+Opel ,Vectra ,  2.0 GL 
+Opel ,Vectra ,  1.9 CDTI Elegance 
+Opel ,Vectra ,  2.0 DTI CD 
+Opel ,Vectra ,  1.8 Comfort 
+Opel ,Vectra ,  2.2 Elegance 
+Peugeot ,206 ,  1.4 HDi X-Design 
+Opel ,Vectra ,  1.8 Elegance 
+Peugeot ,206 ,  1.4 HDi Panoramic 
+Opel ,Vectra ,  2.5 CDX 
+Opel ,Vectra ,  1.6 Essentia 
+Peugeot ,206 ,  1.4 HDi Desire 
+Peugeot ,206 ,  1.4 HDi XT 
+Peugeot ,206 ,  1.6 1.6 CC 
+Peugeot ,206 ,  2.0 GTI 
+Opel ,Corsa ,  1.2 Twinport Essentia 
+Porsche ,Taycan ,  4S Performance Plus 
+Porsche ,Panamera ,  Panamera Diesel 
+Porsche ,911 ,  Carrera 4S 
+Opel ,Corsa ,  1.3 CDTI Essentia 
+Porsche ,Cayman ,  Cayman 
+Porsche ,Taycan ,  4S Performance 
+Opel ,Corsa ,  1.4 Enjoy 
+Opel ,Corsa ,  1.3 CDTI Enjoy 
+Opel ,Corsa ,  1.2 Swing 
+Opel ,Corsa ,  1.0 ECO Club 
+Opel ,Corsa ,  1.7 DTI Comfort 
+Opel ,Meriva ,  1.6 Enjoy 
+Porsche ,Panamera ,  Panamera 4S 
+Porsche ,Taycan ,  Turbo S 
+Opel ,Corsa ,  1.2 Elegance 
+Opel ,Corsa ,  1.2 Twinport Enjoy 111 
+Opel ,Corsa ,  1.4 GLS 
+Opel ,Corsa ,  1.4 Swing 
+Opel ,Corsa ,  1.4 Twinport Enjoy 111 
+Opel ,Corsa ,  1.2 Enjoy 
+Opel ,Corsa ,  1.4 Essentia 
+Opel ,Corsa ,  1.5 D Innovation 
+Opel ,Corsa ,  1.4 Elegance 
+Opel ,Meriva ,  1.6 Essentia 
+Opel ,Meriva ,  1.3 DTI Enjoy 
+Opel ,Meriva ,  1.3 CDTI Essentia 
+Opel ,Corsa ,  1.4 Comfort 
+Opel ,Corsa ,  1.3 CDTI Cosmo 
+Opel ,Corsa ,  1.4 100. Yýl 
+Opel ,Corsa ,  1.2 Twinport Enjoy 
+Opel ,Corsa ,  1.4 Design 
+Opel ,Corsa ,  1.3 CDTI Enjoy 111 
+Opel ,Corsa ,  1.2 Essentia 
+Opel ,Corsa ,  1.3 CDTI Active 
+Opel ,Corsa ,  1.2 City 
+Opel ,Corsa ,  1.3 CDTI Silverline 
+Opel ,Corsa ,  1.4 Twinport Enjoy 
+Opel ,Corsa ,  1.3 CDTI Color Edition 
+Opel ,Corsa ,  1.4 Cosmo 
+Opel ,Corsa ,  1.4 Twinport Essentia 
+Opel ,Corsa ,  1.4 120.Yýl 
+Opel ,Astra ,  1.3 CDTI Edition 
+Opel ,Astra ,  1.6 Comfort 
+Opel ,Astra ,  1.6 GL 
+Opel ,Astra ,  1.6 Essentia 
+Opel ,Astra ,  1.4 T Dynamic 
+Opel ,Astra ,  1.6 CDTI Design 
+Opel ,Corsa ,  1.4 Twinport Active 
+Opel ,Astra ,  1.3 CDTI Sport 
+Opel ,Astra ,  1.4 Enjoy 
+Opel ,Astra ,  1.3 CDTI Enjoy 
+Opel ,Astra ,  1.6 Essentia Konfor 
+Opel ,Astra ,  1.6 CDTI Sport 
+Opel ,Astra ,  1.6 Edition 
+Opel ,Astra ,  1.4 T Enjoy Active 
+Opel ,Astra ,  1.6 GLS 
+Opel ,Astra ,  1.6 Enjoy Plus 
+Opel ,Corsa ,  1.2 Essential 
+Opel ,Corsa ,  1.2 Edition 
+Opel ,Astra ,  1.3 CDTI Essentia 
+Opel ,Astra ,  1.6 Enjoy 
+Opel ,Astra ,  1.6 Edition Plus 
+Opel ,Astra ,  1.6 CDTI Cosmo 
+Opel ,Astra ,  1.4 GL 
+Opel ,Astra ,  1.6 CDTI Business 
+Mercedes - Benz ,C Serisi ,  C 180 AMG 9G-Tronic 
+Opel ,Astra ,  1.6 
+Opel ,Astra ,  1.3 CDTI Enjoy 111.Yýl 
+Opel ,Astra ,  1.3 CDTI Business 
+Opel ,Astra ,  1.6 Elegance 
+Opel ,Astra ,  1.6 T Cosmo 
+Opel ,Corsa ,  1.4 Twinport Color Edition 
+Opel ,Corsa ,  1.4 Color Edition 
+Opel ,Corsa ,  1.4 Sport 
+Opel ,Astra ,  1.3 CDTI EcoFLEX Sport 
+Opel ,Astra ,  1.4 Classic 
+Opel ,Corsa ,  1.5 TD ECO 
+Opel ,Corsa ,  1.2 Twinport Active 
+Opel ,Astra ,  1.6 CD 
+Opel ,Astra ,  2.0 DTI Comfort 
+Opel ,Astra ,  1.6 Classic Twinport  
+Opel ,Astra ,  1.8 Coupe 
+Opel ,Astra ,  1.6 CDTI Enjoy Active 
+Opel ,Astra ,  1.6 GTC Sport 
+Opel ,Astra ,  1.3 CDTI Elegance 
+Volvo ,V40 1.5 T3 ,  Momentum 
+Volvo ,S80 ,  1.6 D Advance 
+Opel ,Corsa ,  1.3 CDTI Sport 
+Opel ,Astra ,  1.4 T Sport 
+Opel ,Astra ,  1.4 T Cosmo 
+Volvo ,S80 ,  2.0 D Advance 
+Opel ,Astra ,  1.6 Business 
+Opel ,Astra ,  1.4 T Edition Plus 
+Opel ,Astra ,  1.6 Elegance Twinport 
+Volvo ,S40 ,  1.6 
+Opel ,Corsa ,  1.6 GSi 
+Opel ,Astra ,  1.3 CDTI Enjoy Active 
+Opel ,Astra ,  1.3 CDTI Cosmo 
+Opel ,Astra ,  1.6 Classic 
+Opel ,Astra ,  1.4 Essentia 
+Opel ,Astra ,  1.6 CDTI Enjoy 
+Volvo ,S60 ,  1.6 Advance 
+Volvo ,S90 ,  2.0 D D4 Inscription 
+Opel ,Astra ,  1.3 CDTI Essentia Konfor 
+Opel ,Astra ,  1.6 CDTI Dynamic 
+Opel ,Astra ,  1.4 Club 
+Opel ,Astra ,  1.6 Cosmo 
+Opel ,Astra ,  1.3 CDTI Active 
+Opel ,Astra ,  1.4 T Enjoy Plus 
+Opel ,Astra ,  1.6 CDTI Excellence 
+Opel ,Astra ,  1.6 CDTI Edition 
+Opel ,Astra ,  1.3 CDTI Enjoy Plus 
+Opel ,Astra ,  1.6 Enjoy Twinport 
+Opel ,Astra ,  1.6 T Dynamic 
+Opel ,Astra ,  1.6 Enjoy Elegance 
+Dacia ,Lodgy ,  1.5 dCi Laureate 
+Opel ,Astra ,  2.2 Coupe 
+Opel ,Astra ,  1.6 GLX 
+Fiat ,Egea ,  1.3 Multijet Easy 
+Opel ,Astra ,  1.6 CDTI Elite 
+Mini ,Cooper S ,  1.6 
+Opel ,Astra ,  1.6 CDTI Edition Plus 
+Opel ,Astra ,  1.4 T GTC Sport 
+Mini ,Cooper ,  1.5 D Pepper 
+Opel ,Astra ,  1.3 CDTI EcoFLEX Cosmo 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC Comfort 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC Exclusive 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency AMG 
+Mercedes - Benz ,C Serisi ,  C 180 Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 180 AMG 7G-Tronic 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Prime 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC AMG 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Selection Plus  
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Fascination 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC Fascination 
+Volkswagen ,Polo ,  1.0 TSI Highline  
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency AMG 
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Fascination 
+Mercedes - Benz ,C Serisi ,  C 220 d Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Fascination 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Start 
+Mercedes - Benz ,C Serisi ,  C 200 D Comfort 
+Mercedes - Benz ,C Serisi ,  C 200 D AMG 
+Mercedes - Benz ,C Serisi ,  C 180 Exclusive 
+Honda ,Civic ,  1.6i VTEC Premium 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Sportcoupe 
+Mercedes - Benz ,C Serisi ,  C 200 D Exclusive 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 220 CDI Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 200 d BlueTEC Style 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Prime 
+Mercedes - Benz ,C Serisi ,  C 200 Classic 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Elegance 
+Volkswagen ,Polo ,  1.6 TDI Highline  
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 200 Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Esprit 
+Ford ,Focus ,  1.6 Comfort 
+Volkswagen ,Polo ,  1.6 Highline 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Sport 
+Hyundai ,Accent Era ,  1.4 Team 
+Mercedes - Benz ,C Serisi ,  C 200 AMG 
+Mercedes - Benz ,C Serisi ,  C 180 Comfort 9G-Tronic 
+Hyundai ,Accent Era ,  1.5 CRDi Mode 
+Mercedes - Benz ,C Serisi ,  C 200 Esprit 
+Hyundai ,Accent Era ,  1.5 CRDi-VGT Team 
+Hyundai ,Accent Era ,  1.6 Select 
+Hyundai ,Accent Era ,  1.4 Start 
+Hyundai ,Accent Era ,  1.5 CRDi Prime 
+Hyundai ,Accent Era ,  1.4 Select 
+Hyundai ,Accent Era ,  1.4 Mode 
+Hyundai ,Accent Era ,  1.5 CRDi Style 
+Hyundai ,Accent Era ,  1.5 CRDi Start 
+Hyundai ,Accent Era ,  1.5 CRDi-VGT Style 
+Hyundai ,Accent Era ,  1.5 CRDi-VGT Select 
+Hyundai ,Accent Era ,  1.5 CRDi Team 
+Hyundai ,Accent Era ,  1.6 Prime 
+Hyundai ,Accent Era ,  1.4 Eco 
+Hyundai ,Accent Era ,  1.6 Team 
+Hyundai ,Accent Era ,  1.5 CRDi-VGT Eco 
+Mini ,Cooper ,  1.5 D Chili 
+Mini ,John Cooper ,  1.6 Works 
+Mini ,Cooper ,  1.6 Türkiye Paketi 
+Hyundai ,Accent Era ,  1.5 CRDi Select 
+Mini ,One ,  1.6 
+Mini ,Cooper ,  1.6 Coupe 
+Mini ,Cooper ,  1.5 Türkiye Paketi 
+Mini ,Cooper ,  1.5 D Salt 
+Mini ,One ,  1.4 
+Mini ,Cooper ,  1.5 Premium 
+Mini ,Cooper ,  1.5 Chili 
+Mercedes - Benz ,S Serisi ,  S 350 350 CDI L 
+Mercedes - Benz ,S Serisi ,  S 400 400 L 
+Mercedes - Benz ,S Serisi ,  S 350 BlueTEC 4Matic 9G-Tronic  
+Mercedes - Benz ,S Serisi ,  S 320 320 L 
+Mercedes - Benz ,A Serisi ,  A 180 CDI BlueEfficiency Style 
+Mercedes - Benz ,S Serisi ,  S 350 BlueTEC 4Matic 7G-Tronic 
+Mercedes - Benz ,S Serisi ,  S 320 320 CDI L 
+Mercedes - Benz ,S Serisi ,  S 320 320 
+Mercedes - Benz ,S Serisi ,  S 500 500 L 
+Mercedes - Benz ,S Serisi ,  S 350 350 L 
+Honda ,City ,  1.4 Comfort 
+Mercedes - Benz ,CLS ,  350 CDI BlueEfficiency 
+Mercedes - Benz ,CLS ,  350 
+Mercedes - Benz ,CLS ,  350 CDI 
+Mercedes - Benz ,CLS ,  350 D AMG 
+Mercedes - Benz ,CLS ,  320 320 CDI 
+Mercedes - Benz ,CLS ,  350 CDI AMG 
+Mercedes - Benz ,CLS ,  400 D 
+Mercedes - Benz ,CLS ,  250 CDI Sport 
+Mercedes - Benz ,A Serisi ,  A 180 Style 
+Mercedes - Benz ,A Serisi ,  A 180 d Urban 
+Mercedes - Benz ,A Serisi ,  A 180 CDI BlueEfficiency AMG 
+Honda ,Civic 1.6i DTEC ,  Executive 
+Mercedes - Benz ,A Serisi ,  A 180 d AMG 
+Mercedes - Benz ,A Serisi ,  A 200 AMG 
+Mercedes - Benz ,A Serisi ,  A 180 CDI BlueEfficiency Urban 
+Mercedes - Benz ,A Serisi ,  A 150 Elegance 
+Mercedes - Benz ,A Serisi ,  A 180 AMG Sport 
+Mercedes - Benz ,A Serisi ,  A 200 BlueEfficiency AMG 
+Mercedes - Benz ,A Serisi ,  A 160 Avantgarde 
+Honda ,Civic ,  1.6i VTEC Eco Executive 
+Honda ,Civic ,  1.6i VTEC Elegance 
+Honda ,Civic ,  1.6 i ES 
+Honda ,Civic ,  1.6 LS Euro Civic 
+Honda ,Civic 1.6i DTEC ,  Elegance 
+Honda ,Civic ,  1.6 VTEC ES 
+Honda ,Jazz ,  1.3 Dream 
+Honda ,Civic ,  1.5 EX 
+Honda ,Civic ,  1.6 VTEC LS 
+Honda ,Civic ,  1.5i VTEC Sport 
+Honda ,Civic ,  1.4 i S 
+Honda ,Civic ,  1.6 VTi 
+Honda ,Civic ,  1.6i VTEC Dream 
+Volkswagen ,Jetta ,  1.4 TSI Exclusive 
+Honda ,Accord ,  2.0 EX 
+Honda ,Civic ,  1.6 LSi 
+Honda ,Civic ,  1.6i VTEC Eco Premium 
+Kia ,Ceed ,  1.6 CRDi Concept SW 
+Kia ,Cerato ,  1.6 CRDi EX Comfort 
+Kia ,Rio ,  1.5 CRDi Trend 
+Kia ,Rio ,  1.4 CRDi Fancy 
+Kia ,Rio ,  1.5 CRDi EX Comfort 
+Kia ,Venga ,  1.6 CRDi Panaroma 
+Kia ,Ceed ,  1.6 CRDi Comfort 
+Kia ,Cerato ,  1.6 MPI Comfort 
+Kia ,Picanto ,  1.1 EX 
+Kia ,Pride ,  1.3 DLX 
+Kia ,Cerato ,  1.6 CRDi LX 
+Kia ,Rio ,  1.4 EX Comfort 
+Kia ,Picanto ,  1.1 Hiper 
+Kia ,Cerato ,  1.6 CRDi Concept Plus 
+Kia ,Rio ,  1.5 Comfort 
+Honda ,Jazz ,  1.4 Fun 
+Kia ,Rio ,  1.3 Base 
+Kia ,Rio ,  1.5 CRDi EX Advance 
+Kia ,Ceed ,  1.6 CRDi Cool 
+Kia ,Ceed ,  1.6 CRDi Concept Plus 
+Kia ,Carnival ,  2.9 CRDI Premium 
+Kia ,Clarus ,  2.0 GLX 
+Kia ,Rio ,  1.4 CVVT Natty 
+Ford ,Focus ,  1.6 Ti-VCT Trend X 
+Honda ,City ,  1.4 LS 
+Kia ,Rio ,  1.4 CRDi Comfort 
+Kia ,Rio ,  1.4 CRDi Concept Plus 
+Kia ,Ceed ,  1.6 CRDi Concept Plus SW 
+Kia ,Cerato ,  1.5 CRDi LX 
+Honda ,Civic ,  1.4 1.4i 
+Kia ,Sephia ,  1.6 LS 
+Kia ,Cerato ,  1.6 CRDi Concept Techno 
+Kia ,Ceed ,  1.6 CRDi Motion 
+Kia ,Ceed ,  1.6 CRDi Premium 
+Kia ,Cerato ,  1.6 GSL Concept 
+Kia ,Rio ,  1.4 CVVT Comfort 
+Kia ,Cerato ,  1.6 Koup 
+Honda ,Accord ,  2.0 Executive 
+Honda ,Jazz ,  1.4 ES 
+Honda ,City ,  1.4 Elite 
+Kia ,Rio ,  1.25 CVVT Concept 
+Kia ,Ceed ,  1.6 CRDi Concept 
+Kia ,Rio ,  1.25 CVVT Fancy 
+Honda ,Civic ,  1.6 1.6i 
+Honda ,Civic ,  1.5 RS 
+Honda ,Civic ,  1.5i VTEC Sport Plus 
+Honda ,Accord ,  2.0 Sport 
+Hyundai ,Getz ,  1.3 GLS 
+Honda ,Jazz ,  1.4 Elite 
+Honda ,S2000 ,  2.0 Vtec 
+Hyundai ,i20 Troy ,  1.4 CRDi Team 
+Hyundai ,Getz ,  1.5 CRDi VGT 
+Honda ,Civic ,  1.6 LS 
+Hyundai ,i20 Troy ,  1.4 CRDi Mode 
+Hyundai ,i20 Troy ,  1.2 DOHC Mode 
+Hyundai ,i20 Troy ,  1.4 CRDi ISG 
+Hyundai ,i20 Troy ,  1.4 CVVT Mode 
+Hyundai ,i20 Troy ,  1.2 DOHC Team 
+Hyundai ,Getz ,  1.5 CRDi VGT Start 
+Hyundai ,Accent Blue ,  1.6 CRDI Mode Plus 
+Honda ,Civic ,  2.0 Type-R 
+Hyundai ,Getz ,  1.5 CRDi Classic 
+Hyundai ,Getz ,  1.4 DOHC Start 
+Hyundai ,Getz ,  1.4 DOHC 1.4 AB AC 
+Hyundai ,Getz ,  1.5 CRDi GL Cool 
+Honda ,City ,  1.4 ES 
+Honda ,Civic ,  1.5 EL 
+Honda ,Civic 1.6i DTEC ,  Sport 
+Honda ,Civic ,  1.8 Type-S 
+Hyundai ,Getz ,  1.5 CRDi GL Active 
+Hyundai ,Getz ,  1.6 Cool 
+Honda ,Jazz ,  1.4 LS 
+Honda ,Accord ,  2.4 Executive 
+Ford ,Mondeo ,  2.0 TDCi Trend 
+Hyundai ,Getz ,  1.3 GLS Style 
+Ford ,Mondeo ,  1.6 Titanium 
+Ford ,Fiesta ,  1.4 TDCi Comfort 
+Honda ,Civic ,  1.6i VTEC Black Edition  
+Honda ,Civic ,  1.5 VTEC Elegance 
+Honda ,Civic ,  1.4 LS 
+Honda ,Jazz ,  1.4 Joy 
+Honda ,Civic ,  1.6i VTEC Executive 
+Ford ,Fiesta ,  1.4 TDCi Trend 
+Honda ,Accord ,  1.8 LS 
+Hyundai ,Accent Blue ,  1.6 CRDI Biz 
+Hyundai ,Accent Blue ,  1.4 CVVT Prime 
+Hyundai ,Accent Blue 1.4 D-CVVT ,  Mode Plus 
+Ford ,Fiesta ,  1.4 Titanium 
+Hyundai ,Accent Blue ,  1.6 CRDI Mode 
+Hyundai ,Accent Blue ,  1.6 CRDI Prime 
+Hyundai ,Accent Blue ,  1.4 CVVT Mode Plus 
+Hyundai ,Accent Blue 1.4 D-CVVT ,  Mode 
+Hyundai ,Accent Blue ,  1.4 CVVT Mode 
+Honda ,Civic ,  1.6 Sport 
+Honda ,Accord ,  2.0 
+Ford ,Mondeo ,  2.0 TDCi Titanium 
+Ford ,Mondeo ,  2.0 TDCi Ghia 
+Ford ,Mondeo ,  1.6 TDCi Titanium 
+Ford ,Mondeo ,  2.0 Ghia 
+Ford ,Mondeo ,  2.0 GLX 
+Ford ,Mondeo ,  1.5 Ecoboost Titanium  
+Ford ,Mondeo ,  1.5 TDCI Titanium 
+Ford ,Mondeo ,  1.6 Trend 
+Ford ,Mondeo ,  2.0 Trend 
+Ford ,Mondeo ,  2.0 TDCi Selective 
+Volkswagen ,Beetle ,  1.6 TDI Design 
+Ford ,Fiesta ,  1.25 Trend X 
+Volkswagen ,Beetle ,  1.6 Smile 
+Ford ,Fiesta ,  1.5 TDCi Trend X 
+Ford ,Fiesta ,  1.4 TDCi Titanium X  
+Ford ,Fiesta ,  1.6 TDCi Ghia 
+Ford ,Fiesta ,  1.0 Titanium 
+Ford ,Fiesta ,  1.4 TDCi Collection 
+Ford ,Fiesta ,  1.25 Trend 
+Ford ,Fiesta ,  1.4 Comfort 
+Ford ,Fiesta ,  1.5 TDCi Titanium X  
+Ford ,Fiesta ,  1.4 Titanium X  
+Toyota ,Avensis ,  2.0 Executive Elegant 
+Ford ,Fiesta ,  1.5 TDCi Titanium 
+Ford ,Fiesta ,  1.4 TDCi Sport 
+Ford ,Fiesta ,  1.4 Trend 
+Ford ,Fiesta ,  1.4 TDCi Titanium 
+Toyota ,Avensis ,  2.0 D 
+Ford ,Fiesta ,  1.25 Flair 
+Ford ,Fiesta ,  1.5 TDCi Trend 
+Ford ,Fiesta ,  1.4 TDCi Cool 
+Ford ,Fiesta ,  1.6 Titanium X 
+Ford ,Fiesta ,  1.6 Comfort 
+Ford ,Fiesta ,  1.6 TDCi Titanium 
+Ford ,Fiesta ,  1.6 Titanium 
+Skoda ,Octavia ,  1.6 TDI Classic 
+Ford ,Focus ,  1.6 Titanium 
+Ford ,Fiesta ,  1.25 My Fiesta 
+Ford ,Fiesta ,  1.6 Ti-VCT Trend X 
+Ford ,Fiesta ,  1.4 Fun 
+Skoda ,Rapid ,  1.4 TDI GreenTec Spaceback Style 
+Ford ,Focus ,  1.6 TDCi Trend X 
+Ford ,Focus ,  1.6 TDCi Titanium 
+Ford ,Focus ,  1.6 Ti-VCT Style 
+Ford ,Focus ,  1.6 TDCi Style 
+Ford ,Fiesta ,  1.6 Trend 
+Ford ,Focus ,  1.5 TDCi Titanium 
+Ford ,Focus ,  1.6 TDCi Trend 
+Ford ,Focus ,  1.6 Collection 
+Ford ,Focus ,  1.5 TDCi Style  
+Ford ,Focus ,  1.6 Ambiente 
+Ford ,Focus ,  1.6 TDCi Collection 
+Ford ,Focus ,  1.6 TDCi Ghia 
+Skoda ,Felicia ,  1.3 
+Skoda ,Superb ,  1.4 TSI Ambition 
+Skoda ,Roomster ,  1.2 Style 
+Fiat ,Egea ,  1.6 Multijet Comfort 
+Ford ,Focus ,  1.0 EcoBoost GTDi Style 
+Ford ,Focus ,  1.6 Ti-VCT Titanium X 
+Fiat ,Egea ,  1.3 Multijet Urban 
+Fiat ,Uno ,  70 S 
+Fiat ,Uno ,  1.4 ie SX 
+Fiat ,Uno ,  70 SXie 
+Fiat ,Uno ,  1.4 ie S 
+Ford ,Focus ,  1.6 Ti-VCT Trend 
+Fiat ,Siena ,  1.2 S 
+Fiat ,Siena ,  1.4 EL 
+Fiat ,Siena ,  1.6 HL 
+Fiat ,Siena ,  1.2 EL 
+Ford ,Focus ,  1.6 Trend X 
+Ford ,Focus ,  1.6 Ti-VCT Titanium 
+Fiat ,Marea ,  1.6 Exclusive 
+Fiat ,Marea ,  1.6 SX 
+Fiat ,Marea ,  1.6 Liberty 
+Fiat ,Marea ,  1.6 ELX 
+Fiat ,Marea ,  2.0 HLX 
+Fiat ,Bravo ,  1.6 Mjet Dynamic 
+Fiat ,Bravo ,  1.6 Mjet Active 
+Fiat ,Bravo ,  1.4 Turbo Dynamic 
+Fiat ,Bravo ,  1.6 
+Fiat ,Bravo ,  1.6 Mjet Dynamic Plus 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Cross Plus 
+Fiat ,500 Ailesi ,  500 1.2 8V Star Dualogic 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Pop 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet RockStar 
+Fiat ,500 Ailesi 500 Abarth ,  595 Turismo 
+Ford ,Focus ,  1.6 Titanium X 
+Ford ,Focus ,  1.6 Trend 
+BMW ,5 Serisi ,  530xd Gran Turismo Gran Turismo 
+BMW ,5 Serisi ,  525d Standart 
+BMW ,5 Serisi ,  525d xDrive xDrive 
+BMW ,5 Serisi ,  520d Standart 
+BMW ,5 Serisi ,  525d xDrive Executive M Sport 
+BMW ,5 Serisi ,  520i Special Edition M Sport 
+BMW ,5 Serisi ,  520d Luxury Line 
+BMW ,5 Serisi ,  520i Prestige 
+BMW ,5 Serisi ,  525d xDrive Premium 
+BMW ,5 Serisi ,  520i Executive 
+BMW ,5 Serisi ,  530d Standart 
+Renault ,R 12 ,  TL 
+BMW ,5 Serisi ,  520d Executive Plus 
+BMW ,5 Serisi 530i xDrive ,  Executive Luxury 
+BMW ,5 Serisi ,  535d xDrive M Sport 
+Fiat ,Palio ,  1.3 Multijet Premio Sole 
+BMW ,5 Serisi ,  525i Standart 
+BMW ,5 Serisi ,  525d xDrive Comfort 
+BMW ,5 Serisi 530i xDrive ,  Executive M Sport 
+BMW ,5 Serisi ,  520i Luxury Line 
+BMW ,5 Serisi ,  530xi Standart 
+BMW ,5 Serisi ,  525d xDrive Executive 
+BMW ,5 Serisi 520d xDrive ,  Prestige 
+BMW ,5 Serisi 530i xDrive ,  M Sport 
+Nissan ,Primera ,  1.6 Tekna 
+Ford ,Focus ,  2.0 Sport Trend 
+Renault ,Megane ,  1.5 dCi Play 
+Renault ,Megane ,  1.2 TCe Touch 
+Alfa Romeo ,156 ,  2.0 TS Executive 
+BMW ,2 Serisi ,  218i Active Tourer Active Tourer 
+Peugeot ,407 ,  1.6 HDi Comfort 
+Alfa Romeo ,156 ,  2.0 TS 
+Alfa Romeo ,145 ,  1.6 
+Alfa Romeo ,159 ,  1.9 JTD Distinctive Plus 
+Volkswagen ,Passat Variant ,  1.6 TDi Highline 
+Volkswagen ,Passat Variant ,  1.6 TDi Comfortline 
+Renault ,Latitude ,  2.0 dCi Executive 
+BMW ,7 Serisi ,  745i Long 
+Fiat ,Palio ,  1.3 Multijet SL 
+BMW ,7 Serisi ,  740e xDrive Long Pure Excellence 
+BMW ,7 Serisi ,  730i Long M Excellence 
+BMW ,7 Serisi ,  740i Long 
+Mercedes - Benz ,B Serisi ,  B 150 Special Edition 
+Mercedes - Benz ,B Serisi ,  B 150 Prestige 
+Mercedes - Benz ,B Serisi ,  B 180 BlueEfficiency Sport 
+Mercedes - Benz ,B Serisi ,  B 180 CDI BlueEfficiency Elite 
+Fiat ,Palio ,  1.3 Multijet Active Sole 
+Fiat ,Palio ,  1.2 S 
+Fiat ,Palio ,  1.2 EL 
+Fiat ,Palio ,  1.2 Dynamic 
+Fiat ,Palio ,  1.3 Multijet Dynamic Sole 
+Fiat ,Palio ,  1.4 EL Weekend 
+Fiat ,Palio ,  1.4 EL 
+Fiat ,Palio ,  1.2 SL 
+Fiat ,Palio ,  1.6 HL 
+Lada ,VAZ ,  2107 
+Lada ,VAZ ,  2103 
+Fiat ,Palio ,  1.3 Multijet Dynamic 
+Fiat ,Palio ,  1.3 Multijet Active 
+Fiat ,Palio ,  1.2 EL Speedgear 
+Fiat ,Palio ,  1.4 Fire Dynamic Sole 
+Fiat ,Palio ,  1.4 HL 
+Fiat ,Palio ,  1.4 Fire Active 
+Fiat ,Palio ,  1.4 RT 
+Hyundai ,i30 ,  1.6 CVVT Select 
+Hyundai ,i30 ,  1.6 CVVT Mode 
+Fiat ,Egea ,  1.4 Fire Urban Plus 
+Hyundai ,i30 ,  1.6 CRDi Elite Plus 
+Fiat ,Egea ,  1.4 Fire Easy 
+Fiat ,Egea ,  1.3 Multijet Urban Plus 
+Fiat ,Egea ,  1.6 Multijet Urban 
+Fiat ,Egea ,  1.6 Multijet Lounge 
+Fiat ,Egea ,  1.6 E-Torq Urban 
+Hyundai ,i30 ,  1.4 MPI Style 
+Fiat ,Egea ,  1.3 Multijet Easy Plus 
+Mini ,Cooper ,  1.5 D Türkiye Paketi 
+Fiat ,Egea ,  1.4 Fire Urban 
+Fiat ,Egea ,  1.4 Fire Mirror 
+Tata ,Indica ,  1.4 TDI Comfort 
+Tata ,Indigo ,  1.4 TDI Comfort 
+Fiat ,Egea ,  1.6 E-Torq Lounge 
+Fiat ,Egea ,  1.6 Multijet Easy  
+Fiat ,Egea ,  1.4 Fire Easy Plus 
+Fiat ,Egea ,  1.6 Multijet Urban Plus 
+Subaru ,Impreza ,  1.6 GL 
+Subaru ,Levorg ,  1.6 Sport Plus 
+Subaru ,Impreza ,  1.6 TS 
+Subaru ,Impreza ,  2.0 RX 
+Fiat ,Egea ,  1.4 Fire Street 
+Peugeot ,301 ,  1.5 BlueHDI Allure 
+Peugeot ,301 ,  1.2 VTi Access 
+Fiat ,Egea ,  1.6 E-Torq Lounge Plus 
+Renault ,Fluence ,  1.6 Privilege 
+Renault ,Fluence ,  1.6 Touch 
+Renault ,Clio ,  1.5 dCi Grandtour Extreme 
+Renault ,Clio ,  1.5 dCi Night & Day 
+Renault ,Clio ,  1.5 dCi Grandtour Executive 
+Mercedes - Benz ,E Serisi ,  E 180 Premium 
+Renault ,Clio ,  0.9 Sport Tourer Joy 
+Fiat ,Albea ,  1.6 Dynamic 
+Fiat ,Albea ,  1.2 HL 
+Fiat ,Albea ,  Sole 1.3 Multijet Premio 
+Mercedes - Benz ,200 ,  200 E 
+Fiat ,Albea ,  1.4 Fire Active 
+Fiat ,Albea ,  1.6 HL 
+Fiat ,Albea ,  1.2 SL 
+Renault ,Clio ,  1.6 Extreme Edition 
+Renault ,Clio ,  1.2 Grandtour Extreme 
+Renault ,Clio ,  1.3 TCe Touch 
+Renault ,Clio ,  1.4 Grandtour Dynamique 
+Citroën ,Xsara ,  2.0 HDI 
+Citroën ,Xsara ,  2.0 Exclusive 
+Nissan ,Micra ,  1.2 Match 
+Citroën ,C2 ,  1.4 SX 
+Citroën ,Saxo ,  1.5D SX 
+Citroën ,C4 ,  1.6 SX PK 
+Citroën ,C4 ,  1.6 VTi Confort 
+Mercedes - Benz ,E Serisi ,  E 200 200 
+Citroën ,C3 Picasso ,  1.6 HDi SX 
+Citroën ,C3 ,  1.6 Pluriel 
+Citroën ,C3 ,  1.4 X Furio 
+Peugeot ,106 ,  Quicksilver 
+Citroën ,C3 1.2 PureTech ,  Feel Adventure 
+Citroën ,C5 ,  2.0 SX 
+Peugeot ,207 ,  1.4 HDi Trendy 
+Peugeot ,307 ,  1.4 Look 
+Peugeot ,307 ,  1.4 Comfort 
+Peugeot ,407 ,  1.6 HDi Executive Black 
+Peugeot ,508 ,  1.6 e-HDi Active 
+Peugeot ,406 ,  2.0 SV 
+Peugeot ,206 + ,  1.4 HDi Comfort 
+Peugeot ,207 ,  1.4 Comfort 
+Peugeot ,308 ,  1.6 e-HDi Active 
+Peugeot ,208 ,  1.4 HDi Access 
+Peugeot ,207 ,  1.4 HDi Urban Move 
+Peugeot ,307 ,  1.6 XT 
+Peugeot ,308 ,  1.6 BlueHDi Style 
+Peugeot ,106 ,  XR 
+Peugeot ,206 + ,  1.4 HDi Envy 
+Peugeot ,308 ,  1.6 BlueHDi Allure 
+Peugeot ,307 ,  1.4 HDi XR 
+Peugeot ,508 ,  1.6 e-HDi Allure 
+Peugeot ,508 ,  1.6 THP Active 
+Peugeot ,107 ,  1.0 Trendy 
+Peugeot ,308 ,  1.5 BlueHDI Style  
+Peugeot ,307 ,  1.6 XS 
+Peugeot ,208 ,  1.0 VTi Access 
+Peugeot ,308 ,  1.6 HDi Access 
+Peugeot ,308 ,  1.6 HDi Active 
+Peugeot ,308 ,  1.6 VTi Comfort 
+Peugeot ,508 ,  1.6 BlueHDi Access 
+Peugeot ,307 ,  2.0 XSI 
+Peugeot ,206 + ,  1.4 HDi Urban Move 
+Peugeot ,207 ,  1.6 HDi Premium 
+Peugeot ,306 ,  1.8 XR 
+Peugeot ,405 ,  1.6 GL 
+Peugeot ,306 ,  1.6 Platinum 
+Peugeot ,308 ,  1.6 BlueHDi Active 
+Peugeot ,508 ,  1.6 Puretech Prime  
+Peugeot ,208 ,  1.2 VTi Access 
+Peugeot ,407 ,  1.6 HDi Executive 
+Peugeot ,308 ,  1.6 THP Feeline 
+Peugeot ,208 ,  1.5 BlueHDi Signature 
+Peugeot ,208 1.2 PureTech ,  Access 
+Peugeot ,207 ,  1.6 VTi Premium 
+Peugeot ,307 ,  1.6 Profil 
+Peugeot ,307 ,  1.6 Premium 
+Peugeot ,308 ,  1.6 HDi Comfort 
+Peugeot ,207 ,  1.4 Trendy 
+Peugeot ,508 ,  1.6 e-HDi Access 
+Peugeot ,208 1.2 PureTech ,  Active  
+Peugeot ,307 ,  1.6 XR 
+Peugeot ,308 ,  1.6 HDi Premium Pack 
+Peugeot ,307 ,  1.6 Technoplus 
+Peugeot ,207 ,  1.6 HDi Trendy 
+Peugeot ,307 ,  1.4 HDi Envy 
+Peugeot ,207 ,  1.4 Envy 
+Peugeot ,508 ,  1.5 BlueHDi GT Line 
+Peugeot ,208 ,  1.6 HDi Active 
+Peugeot ,307 ,  1.6 HDi Comfort 
+Peugeot ,208 ,  1.4 HDi Active 
+Peugeot ,208 ,  1.5 BlueHDi Active Dynamic 
+Peugeot ,308 ,  1.6 VTi Premium Plus 
+Peugeot ,306 ,  1.6 XR 
+Peugeot ,508 ,  1.6 BlueHDi Allure  
+Peugeot ,407 ,  1.6 HDi Premium 
+Peugeot ,207 ,  1.4 VTi Trendy 
+BMW ,3 Serisi ,  320d GT Gran Turismo 
+Hyundai ,Elantra ,  1.6 D-CVVT Style 
+Peugeot ,207 ,  1.6 THP RC 
+BMW ,3 Serisi ,  320d xDrive Luxury Line 
+BMW ,3 Serisi ,  318i Edition Sport Line 
+Fiat ,Tipo ,  1.6 DGT 
+Mercedes - Benz ,E Serisi ,  E 200 Avantgarde 
+Peugeot ,207 ,  1.6 THP GT 
+Peugeot ,306 ,  1.6 Griffe 
+Peugeot ,307 ,  1.6 HDi Premium 
+Peugeot ,508 ,  1.5 BlueHDi Prime  
+Peugeot ,207 ,  1.6 HDi Dynamic 
+BMW ,3 Serisi ,  320i ED Techno Plus 
+BMW ,3 Serisi ,  325Ci 
+Fiat ,Tipo ,  1.4 S 
+BMW ,3 Serisi ,  320d xDrive M Sport 
+BMW ,3 Serisi ,  316i Techno Plus  
+Peugeot ,208 ,  1.6 THP GTI 
+Peugeot ,307 ,  1.6 Pack 
+Peugeot ,208 ,  1.6 e-HDi Allure 
+Peugeot ,307 ,  1.6 HDi Look 
+Peugeot ,407 ,  2.0 HDi Executive Premium 
+Peugeot ,106 ,  GTI 
+Peugeot ,208 ,  1.4 HDi Urban Soul 
+Peugeot ,208 ,  1.6 HDi Allure 
+BMW ,3 Serisi ,  320d Touring 
+BMW ,3 Serisi ,  318d Premium 
+BMW ,3 Serisi ,  325i Touring 
+Peugeot ,207 ,  1.6 HDi Feline 
+Peugeot ,306 ,  2.0 GTI 
+Peugeot ,406 ,  2.0 HDi SV 
+Peugeot ,208 ,  1.5 BlueHDi Signature Dynamic 
+Peugeot ,508 ,  1.6 THP Allure 
+BMW ,3 Serisi ,  316i Luxury Line 
+BMW ,3 Serisi ,  328Ci 
+BMW ,3 Serisi ,  320d Sport Line 
+Peugeot ,406 ,  2.0 HDi ST 
+Peugeot ,306 ,  1.4 XR 
+BMW ,3 Serisi ,  318tds Compact 
+Peugeot ,207 ,  1.4 Millesim 
+Peugeot ,308 1.2 VTi ,  Active 
+Peugeot ,207 ,  1.4 HDi Dynamic 
+Peugeot ,308 ,  1.6 HDi Millesim 
+Peugeot ,207 ,  1.4 VTi Dynamic 
+BMW ,3 Serisi ,  318i Edition Luxury Line  
+Peugeot ,407 ,  2.0 Executive Premium 
+Peugeot ,508 ,  1.5 BlueHDi Allure  
+Peugeot ,307 ,  1.6 Envy 
+Peugeot ,307 ,  1.6 Comfort 
+Peugeot ,308 ,  1.2 Puretech Active 
+Peugeot ,207 ,  1.4 Access 
+Peugeot ,RCZ ,  1.6 THP Yearling 
+Peugeot ,508 ,  1.6 HDi Active 
+Hyundai ,Accent ,  1.5 CRDi Admire 
+Peugeot ,407 ,  1.6 HDi Millesium 
+Volkswagen ,Scirocco ,  1.4 TSI GTS 
+Peugeot ,308 ,  1.6 HDi Classic Edition 
+Peugeot ,306 ,  1.8 1.8 Cabrio 
+Hyundai ,Accent ,  1.3 LS 
+Peugeot ,306 ,  1.6 XN 
+Peugeot ,407 ,  2.0 Executive 
+Peugeot ,208 ,  1.6 BlueHDi Active 
+Peugeot ,308 ,  1.6 HDi Comfort Pack 
+Peugeot ,208 ,  1.2 VTi Active 
+Peugeot ,106 ,  XSi 
+Peugeot ,207 ,  1.6 HDi Premium Outdoor 
+Volkswagen ,Passat ,  1.4 TSI Exclusive 
+Volkswagen ,Passat ,  2.0 TDI BlueMotion Elegance 
+Volkswagen ,Passat ,  1.8 TSI Highline 
+Hyundai ,Accent ,  1.6 Admire 
+Volkswagen ,Passat ,  1.4 TSI Trendline 
+Audi ,A3 ,  A3 Sedan 1.5 TFSI Design  
+Audi ,A4 ,  A4 Sedan 3.0 Quattro 
+Audi ,TT ,  1.8 1.8 T 
+Audi ,TT ,  2.0 TFSI 
+Audi ,80 Serisi ,  1.8 S 
+Ford ,Fusion ,  1.6 Lux 
+Audi ,A6 ,  A6 Sedan 
+Audi ,A3 ,  A3 Sportback 1.2 TFSI Attraction 
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro S Line 
+Audi ,A3 ,  A3 Hatchback 1.6 TDI Ambition 
+Audi ,A6 ,  A6 Sedan 3.0 Quattro 
+Audi ,A3 ,  A3 Sportback 1.5 TFSI Design  
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro Design  
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro Advanced 
+Opel ,Insignia ,  2.0 CDTI Sports Tourer Cosmo  
+Audi ,A3 ,  A3 Hatchback 1.4 TFSI Attraction 
+Opel ,Insignia ,  1.5 T Grand Sport Excellence  
+Audi ,A5 ,  A5 Coupe 1.4 TFSI Sport 
+Opel ,Insignia ,  1.6 T Cosmo 
+Audi ,A6 ,  A6 allroad quattro 2.7 T 
+Opel ,Insignia ,  1.6 Edition 
+Audi ,A3 ,  A3 Sportback 2.0 TDI Ambition 
+Opel ,Insignia ,  1.6 Cosmo 
+Opel ,Insignia ,  2.0 CDTI Cosmo 
+Opel ,Insignia ,  1.4 T Edition Elegance 
+Opel ,Insignia ,  2.0 CDTI Edition Elegance Active 
+Opel ,Insignia ,  2.0 CDTI Edition 
+Opel ,Insignia ,  1.6 CDTI Sport 
+Opel ,Insignia ,  1.6 CDTI Design 
+Opel ,Insignia ,  2.0 CDTI Edition Elegance 
+Opel ,Insignia ,  1.6 T Sports Tourer Cosmo 
+Opel ,Insignia ,  1.6 T Edition 
+Opel ,Insignia ,  1.6 CDTI Grand Sport Enjoy 
+Opel ,Insignia ,  1.5 T Grand Sport Enjoy 
+Opel ,Insignia ,  1.6 CDTI Grand Sport Excellence 
+Opel ,Insignia ,  1.6 T Edition Elegance 
+Opel ,Insignia ,  1.6 CDTI Edition Elegance 
+Nissan ,Primera ,  1.6 GX 
+Nissan ,Micra ,  1.2 Street 
+Nissan ,Note ,  1.5 dCi Tekna 
+Nissan ,Micra ,  1.2 Visia 
+Nissan ,Note ,  1.2 Tekna 
+Nissan ,Micra ,  1.5 dCi Mood 
+Nissan ,Micra ,  1.2 Tekna 
+Nissan ,Primera ,  2.2 TD Tekna 
+Nissan ,Note ,  1.5 dCi Visia 
+Nissan ,Micra ,  1.2 Passion 
+Nissan ,Primera ,  2.0 SE 
+Nissan ,Almera ,  1.5 Visia 
+Nissan ,Micra ,  1.2 Mood 
+Nissan ,Micra ,  1.2 Punch 
+Nissan ,Pulsar ,  1.2 N-Tec 
+Nissan ,Micra ,  1.3 LX 
+Nissan ,Micra ,  1.4 Elegance 
+Nissan ,Note ,  1.4 Visia 
+Nissan ,200 SX ,  1.8 Turbo 
+Nissan ,Almera ,  1.5 Comfort 
+Nissan ,Sunny ,  1.6 EX 
+Nissan ,Micra ,  1.0 Visia 
+Nissan ,Primera ,  1.6 Comfort 
+Nissan ,Micra ,  1.3 Magic 
+Nissan ,Primera ,  1.6 SLX 
+Nissan ,Micra ,  1.5 dCi Passion 
+Nissan ,GT-R ,  Black Edition 
+Mercedes - Benz ,E Serisi ,  E 200 Komp. Avantgarde 
+Nissan ,Almera ,  1.5 Tekna 
+Nissan ,Micra ,  1.0 Tekna 
+Nissan ,Laurel Altima ,  2.0 
+Nissan ,Micra ,  1.0 Platinum 
+Mercedes - Benz ,200 ,  200 D 
+Mercedes - Benz ,200 ,  200 
+Mercedes - Benz ,E Serisi ,  E 300 AMG 
+Mercedes - Benz ,E Serisi ,  E 180 Elite 
+Mercedes - Benz ,E Serisi ,  E 250 CDI BlueEfficiency Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 200 Komp. Elegance 
+Mercedes - Benz ,E Serisi ,  E 250 CDI AMG 
+Fiat ,Tipo ,  1.4 SX ie 
+Mercedes - Benz ,E Serisi ,  E 290 TD Elegance 
+Mercedes - Benz ,E Serisi ,  E 200 CGI BlueEfficiency Elegance 
+Mercedes - Benz ,E Serisi ,  E 180 Exclusive 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Premium AMG 
+Mercedes - Benz ,E Serisi ,  E 250 CGI 250 CGI 
+Mercedes - Benz ,E Serisi E 200 d ,  Exclusive 
+Mercedes - Benz ,E Serisi ,  E 180 Edition E 
+Mercedes - Benz ,E Serisi ,  E 200 Elegance 
+Mercedes - Benz ,E Serisi ,  E 220 d AMG 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Elite 
+Mercedes - Benz ,E Serisi ,  E 200 AMG 
+Mercedes - Benz ,E Serisi ,  E 350 CDI BlueEfficiency Elegance 
+Mercedes - Benz ,E Serisi ,  E 220 CDI Start 
+Mazda ,3 ,  1.6 D Touring 
+Mercedes - Benz ,E Serisi ,  E 220 CDI Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 200 CGI BlueEfficiency Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 250 EditionE 
+Mercedes - Benz ,E Serisi ,  E 220 CDI Elegance 
+Mercedes - Benz ,E Serisi ,  E 180 AMG 
+Mercedes - Benz ,E Serisi ,  E 250 Elite 
+Mercedes - Benz ,E Serisi ,  E 250 AMG 7G-Tronic 
+Mercedes - Benz ,E Serisi ,  E 220 CDI Classic 
+Mercedes - Benz ,E Serisi ,  E 180 Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 240 Elegance 
+Mercedes - Benz ,E Serisi ,  E 320 Avantgarde 
+Jaguar ,XF 2.0 D ,  Prestige Plus 
+Mercedes - Benz ,E Serisi ,  E 350 CDI Premium 
+Mercedes - Benz ,E Serisi ,  E 350 CDI Avangarde 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Premium 
+Mercedes - Benz ,E Serisi ,  E 200 Exclusive 
+Mercedes - Benz ,E Serisi ,  E 250 CGI AMG 
+Mercedes - Benz ,E Serisi ,  E 280 CDI Elegance 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Edition 
+Mercedes - Benz ,E Serisi ,  E 200 Classic 
+Hyundai ,i20 ,  1.2 MPI Style 
+Mercedes - Benz ,E Serisi ,  E 220 d Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 270 CDI Elegance 
+Mercedes - Benz ,E Serisi ,  E 220 CDI BlueEfficiency 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Premium 
+Mercedes - Benz ,E Serisi ,  E 270 CDI Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 350 CDI BlueTEC Premium 
+Jaguar ,S-Type ,  4.0 
+Mercedes - Benz ,E Serisi ,  E 180 Style  
+Mercedes - Benz ,CLA ,  180 d AMG 
+Mercedes - Benz ,E Serisi ,  E 200 CDI Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 200 CDI Elegance 
+Mercedes - Benz ,E Serisi ,  E 250 CGI BlueEfficiency Avantgarde 
+Hyundai ,i20 ,  1.4 MPI Style  
+Hyundai ,i20 ,  1.2 MPI Jump 
+Mercedes - Benz ,E Serisi ,  E 220 Avantgarde 
+Mercedes - Benz ,CLA ,  200 AMG 
+Hyundai ,i20 ,  1.4 CRDi Jump 
+Mercedes - Benz ,CLA ,  180 d Urban 
+Mercedes - Benz ,CLA ,  180 AMG 
+Mazda ,3 ,  1.6 D Comfort 
+Mazda ,323 ,  1.5 1.5i 
+Mazda ,3 ,  1.6 Touring 
+Mazda ,3 ,  1.5 SkyActive-G Power 
+Mazda ,3 ,  1.6 Dynamic 
+Fiat ,Linea ,  1.3 Multijet Pop 
+Mazda ,2 ,  1.3 Go 
+Mazda ,626 ,  2.0 
+Mazda ,3 ,  1.6 Base 
+Mazda ,323 ,  1.6 Familia 
+Mazda ,3 ,  1.6 Impressive 
+Mazda ,323 ,  1.6 GLX 
+Mazda ,3 ,  1.5 SkyActive-D Power Sense 
+Mazda ,MX ,  MX-5 1.5 
+Mazda ,626 ,  1.6 
+Mazda ,3 ,  1.6 Mirai 
+Mazda ,3 ,  1.5 SkyActive-D Reflex 
+Mazda ,MX ,  MX-6 2.0 
+Mazda ,6 ,  2.0 Exclusive 
+Jaguar ,X-Type ,  2.0 D High 
+Jaguar ,S-Type ,  3.0 Classic 
+Jaguar ,XE R-Sport ,  2.0 D 
+Jaguar ,XK8 ,  4.0 
+Jaguar ,X-Type ,  2.0 D Executive 
+Jaguar ,X-Type ,  2.2 D Luxury 
+Jaguar ,F-Type ,  2.0 T 
+Jaguar ,S-Type ,  2.7 D Executive 
+Hyundai ,i20 ,  1.2 D-CVVT Sense 
+Toyota ,Corolla ,  1.6 VVT-i Sport 
+Toyota ,Corolla ,  1.4 D-4D Sol 
+Toyota ,Corolla ,  1.6 Touch 
+Hyundai ,i20 ,  1.4 CVVT Jump 
+Hyundai ,i20 ,  1.4 CRDi Style 
+Hyundai ,i20 ,  1.2 MPI Elite 
+Hyundai ,i20 ,  1.4 MPI Jump 
+Hyundai ,i20 ,  1.4 CVVT Select 
+Toyota ,Corolla ,  1.6 Terra Special 
+Hyundai ,i20 ,  1.4 MPI Elite Smart 
+Hyundai ,i20 ,  1.2 D-CVVT Jump 
+Hyundai ,i20 ,  1.4 CVVT Sense 
+Hyundai ,i20 ,  1.4 CVVT Team 
+Hyundai ,i20 ,  1.0 T-GDI Elite 
+Hyundai ,i20 ,  1.4 MPI Elite 
+Hyundai ,i20 ,  1.4 CRDi Team 
+Toyota ,Corolla ,  1.6 Luna 
+Toyota ,Corolla ,  1.6 Linea Sol 
+Hyundai ,i20 ,  1.4 CRDi Sense 
+Renault ,R 19 ,  1.9 Europa RNA 
+Toyota ,Corolla ,  1.6 Class 
+Renault ,R 19 ,  1.6 Europa RNA 
+Renault ,R 19 ,  1.6 Europa RNE Alize 
+Renault ,R 19 ,  1.4 Beymen Club 
+Renault ,R 19 ,  1.4 Europa RTE Alize 
+Hyundai ,i20 ,  1.4 CRDi Elite 
+Hyundai ,i20 ,  1.4 CRDi Elite Smart 
+Volkswagen ,Golf ,  1.6 GL 
+Volkswagen ,Golf ,  1.4 TSI Fan Edition 
+Fiat ,Punto ,  Grande 1.3 Multijet Dynamic 
+Hyundai ,Elantra ,  1.6 GLS 
+Hyundai ,Elantra ,  1.6 CRDi Style Plus 
+Hyundai ,Elantra ,  1.6 MPI Elite  
+Hyundai ,Elantra ,  1.6 MPI Style 
+Hyundai ,Elantra ,  1.6 D-CVVT Tune 
+Hyundai ,Elantra ,  1.6 CRDi Style 
+Hyundai ,Elantra ,  1.6 D-CVVT Prime Plus 
+Hyundai ,Elantra ,  1.6 CRDi Elite 
+Hyundai ,Elantra ,  1.6 D-CVVT Elite 
+Hyundai ,Elantra ,  1.6 GL 
+Volkswagen ,Golf ,  2.0 GTi 
+Hyundai ,Elantra ,  1.6 D-CVVT Mode Plus 
+Hyundai ,Elantra ,  1.6 CRDi Elite Plus 
+Fiat ,Punto ,  1.3 Multijet Pop 
+Volkswagen ,Golf ,  1.6 TDI BlueMotion 
+Skoda ,Octavia ,  1.9 TDI Classic 
+Hyundai ,Accent ,  1.3 GLS 
+Hyundai ,Accent ,  1.3 LX 
+Hyundai ,Accent ,  1.5 GLS 
+Hyundai ,Accent ,  1.3 Admire 
+Hyundai ,Accent ,  1.5 1.5i GLS 
+Hyundai ,Accent ,  1.5 LS 
+Hyundai ,Accent ,  1.5 CRDi GLS 
+Ford ,Fusion ,  1.4 TDCi Comfort 
+Ford ,Escort ,  1.6 Classic 
+Ford ,Escort ,  1.6 CLX 
+Ford ,Escort ,  1.6 CL 
+Ford ,Escort ,  1.3 CL 
+Ford ,Escort ,  1.8 CLX 
+Fiat ,Tipo ,  1.4 SX 
+Ford ,Escort ,  1.6 Ghia 
+Ford ,Escort ,  1.4 CL 
+Fiat ,Tipo ,  1.6 SX 
+Fiat ,Tipo ,  1.6 S 
+Fiat ,Tipo ,  1.6 SLX ie 
+Fiat ,Tipo ,  1.4 ie 
+Fiat ,Tipo ,  1.6 SLX 
+Tofaþ ,Murat ,  131 
+Fiat ,Punto ,  Grande 1.4 Fire Active 
+Fiat ,Punto ,  1.2 PopStar 
+Fiat ,Punto ,  EVO 1.3 Multijet Dynamic 
+Fiat ,Punto ,  EVO 1.4 Fire Active 
+Fiat ,Punto ,  1.3 Multijet Dynamic 
+Fiat ,Punto ,  EVO 1.4 Multiair Dynamic 
+Fiat ,Punto ,  1.4 Dynamic 
+Fiat ,Punto ,  EVO 1.4 Active 
+Fiat ,Punto ,  Grande 1.4 T-jet Sport 
+Fiat ,Punto ,  1.4 Easy S&S 
+Fiat ,Punto ,  1.3 Multijet Popstar 
+Fiat ,Punto ,  1.4 Pop S&S 
+Fiat ,Punto ,  Grande 1.3 Multijet Active 
+Fiat ,Punto ,  1.4 Popstar S&S 
+Fiat ,Punto ,  Grande 1.3 Multijet 1.3 Multijet 
+Fiat ,Punto ,  EVO 1.4 Dynamic 
+Fiat ,Punto ,  1.3 Multijet Lounge 
+Fiat ,Punto ,  1.3 Multijet Easy 
+Fiat ,Punto ,  1.2 Pop 
+Fiat ,Punto ,  Grande 1.4 Fire S&S 
+Fiat ,Punto ,  EVO 1.3 Multijet My Life 
+Fiat ,Punto ,  Grande 1.4 Fire Fun 
+Fiat ,Punto ,  Grande 1.4 Fire Dynamic 
+Fiat ,Punto ,  EVO 1.3 Multijet Active 
+Fiat ,Punto ,  1.4 Lounge S&S 
+Fiat ,Punto ,  EVO 1.4 Fire My Life 
+Toyota ,Auris ,  1.8 Hybrid Premium 
+Fiat ,Linea ,  1.3 Multijet Active Plus 
+Fiat ,Linea ,  1.3 Multijet Active 
+Fiat ,Linea ,  1.4 Fire Active Plus 
+Fiat ,Linea ,  1.4 Fire Pop 
+Fiat ,Linea ,  1.6 Multijet Urban 
+Fiat ,Linea ,  1.3 Multijet Actual Plus 
+Fiat ,Linea ,  1.3 Multijet Easy 
+Fiat ,Linea ,  1.3 Multijet Urban 
+Fiat ,Linea ,  1.3 Multijet Lounge 
+Fiat ,Linea ,  1.3 Multijet Actual 
+Fiat ,Linea ,  1.6 Multijet Lounge 
+Fiat ,Linea ,  1.3 Multijet Emotion 
+Fiat ,Linea ,  1.3 Multijet Emotion Plus 
+Fiat ,Linea ,  1.3 Multijet Dynamic 
+Fiat ,Linea ,  1.4 Fire Active 
+Fiat ,Linea ,  1.6 Multijet Emotion 
+Fiat ,Linea ,  1.4 Fire Actual 
+Fiat ,Linea ,  1.4 Fire Easy 
+Seat ,Ibiza ,  1.2 Elegance 
+Seat ,Cordoba ,  1.4 Signo 
+Fiat ,Linea ,  1.6 Multijet Emotion Plus 
+Seat ,Leon ,  1.0 EcoTSI Style Visio 
+Seat ,Ibiza ,  1.4 Signo 
+Seat ,Altea ,  1.4 TSI Style XL 
+Seat ,Ibiza ,  1.4 TDI Style 
+Fiat ,Linea ,  1.4 Turbo Dynamic 
+Fiat ,Linea ,  1.6 Multijet Active Plus 
+Seat ,Leon ,  1.2 TSI Reference 
+Seat ,Cordoba ,  1.6 Stella 
+Fiat ,Linea ,  1.3 Multijet Dynamic Plus 
+Seat ,Cordoba ,  1.4 TDI Elegance 
+Toyota ,Yaris ,  1.33 Style 
+Seat ,Toledo ,  1.2 TSI Reference 
+Seat ,Ibiza ,  1.2 Selection 
+Seat ,Cordoba ,  1.6 Signo 
+Seat ,Ibiza ,  1.6 TDI Style 
+Seat ,Ibiza 1.0 EcoTSI ,  Xcellence 
+Fiat ,Brava ,  1.6 SX 
+Fiat ,Brava ,  1.6 ELX 
+Renault ,Scenic ,  1.9 dCi RXT 
+Dacia ,Sandero ,  1.4 Ambiance 
+Dacia ,Sandero ,  1.5 dCi Ambiance 
+Dacia ,Logan ,  1.5 dCi MCV Laureate 
+Dacia ,Logan ,  1.5 dCi Ambiance 
+Dacia ,Sandero ,  0.9 TCe Stepway Easy-R 
+Dacia ,Logan ,  1.5 dCi MCV Ambiance 
+Dacia ,Logan ,  1.5 dCi MCV Black Line 
+Dacia ,Logan ,  1.5 dCi Laureate 
+Dacia ,Sandero ,  1.2 Ambiance 
+Dacia ,Sandero ,  0.9 TCe Stepway 
+Dacia ,Sandero ,  1.5 BlueDCI Stepway 
+Dacia ,Logan ,  1.4 Ambiance 
+Renault ,Laguna ,  1.9 DTi RXT 
+Renault ,Laguna ,  2.0 dCi Privilege 
+Renault ,Laguna ,  1.5 dCi Privilege 
+Renault ,Laguna ,  2.0 Privilege 
+Dacia ,Logan ,  1.6 Laureate 
+Renault ,Laguna ,  1.9 DTi RXE 
+Dacia ,Logan ,  1.6 MCV Black Line 
+Dacia ,Lodgy ,  1.5 dCi Allroad 
+Dacia ,Solenza ,  1.4 Rapsodie 
+Dacia ,Logan ,  1.2 Ambiance 
+Dacia ,Sandero ,  1.6 Stepway 
+Dacia ,Sandero ,  1.5 dCi Stepway Style  
+Dacia ,Lodgy ,  1.5 dCi Stepway 
+Dacia ,Sandero ,  1.5 dCi Black Line 
+Dacia ,Logan ,  1.4 Black Line 
+Renault ,Clio ,  1.5 dCi Fidji 
+Dacia ,Sandero ,  1.0 Ambiance  
+Renault ,Symbol ,  0.9 Turbo Touch 
+Renault ,Symbol ,  1.5 DCI Extreme 
+Chevrolet ,Aveo ,  1.2 SE 
+Chevrolet ,Aveo ,  1.4 SE 
+Chevrolet ,Cruze ,  1.6 LS 
+Chevrolet ,Cruze ,  1.6 WTCC Edition 
+Chevrolet ,Aveo ,  1.3 D LS 
+Chevrolet ,Lacetti ,  1.6 SX 
+Chevrolet ,Cruze ,  1.6 Sport Plus 
+Chevrolet ,Aveo ,  1.2 LS 
+Chevrolet ,Aveo ,  1.3 D LTZ 
+Chevrolet ,Lacetti ,  1.6 WTCC 
+Chevrolet ,Kalos ,  1.2 SE 
+Chevrolet ,Cruze ,  1.6 Design Edition 
+Chevrolet ,Cruze ,  1.6 LT 
+Chevrolet ,Kalos ,  1.4 SX 
+Chevrolet ,Camaro ,  3.6 
+Chevrolet ,Cruze ,  1.6 
+Chevrolet ,Cruze ,  1.6 Sport 
+Chevrolet ,Aveo ,  1.4 S 
+Chevrolet ,Camaro ,  SS 
+Chevrolet ,Spark ,  1.0 SX 
+Chevrolet ,Aveo ,  1.4 LT 
+Chevrolet ,Kalos ,  1.2 S 
+Chevrolet ,Camaro ,  2.0 
+Chevrolet ,Rezzo ,  1.6 SX Comfort 
+Chevrolet ,Cruze ,  1.6 LT Plus 
+Chevrolet ,Lacetti ,  1.4 SE 
+Chevrolet ,Cruze ,  1.6 LS Plus 
+Chevrolet ,Epica ,  2.0 D LT 
+Chevrolet ,Aveo ,  1.4 LTZ 
+Chevrolet ,Aveo ,  1.2 S 
+Chevrolet ,Aveo ,  1.3 D LT 
+Chevrolet ,Evanda ,  2.0 CDX 
+Chevrolet ,Kalos ,  1.4 SE 
+Chevrolet ,Camaro ,  Z28 
+Chevrolet ,Corvette ,  C6 
+Chevrolet ,Lacetti ,  1.4 SX 
+Chevrolet ,Cruze ,  1.6 WTCC Edition Plus 
+BMW ,4 Serisi ,  418i Gran Coupe M Sport 
+BMW ,4 Serisi ,  420d M Sport 
+BMW ,4 Serisi ,  428i M Sport 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe M Sport 
+BMW ,4 Serisi ,  418i Gran Coupe Sport Line 
+BMW ,4 Serisi ,  418i Gran Coupe M Plus 
+BMW ,1 Serisi ,  118i M Plus 
+BMW ,4 Serisi ,  428i xDrive Gran Coupe M Sport 
+BMW ,4 Serisi ,  418i Gran Coupe Ultimate M Sport 
+BMW ,4 Serisi ,  418i Gran Coupe Luxury Line 
+BMW ,4 Serisi ,  420d Sport Line 
+BMW ,4 Serisi ,  420d Gran Coupe Sport Line 
+Porsche ,911 ,  Carrera S 
+BMW ,4 Serisi ,  420d Gran Coupe M Sport 
+Porsche ,911 ,  Turbo S 
+BMW ,1 Serisi ,  116d First Edition M Sport  
+BMW ,1 Serisi 120i ,  M Plus 
+BMW ,1 Serisi ,  118i M Sport 
+BMW ,1 Serisi ,  118i Pure 
+BMW ,1 Serisi ,  116i M Sport 
+Opel ,Meriva ,  1.3 CDTI Enjoy 
+Opel ,Meriva ,  1.6 Cosmo 
+Opel ,Meriva ,  1.4 T Cosmo 
+BMW ,1 Serisi ,  116d Premium Line 
+BMW ,1 Serisi ,  116d M Plus 
+BMW ,1 Serisi ,  116d Pure 
+Opel ,Astra ,  2.0 Sport 
+Opel ,Astra ,  1.4 Life 
+Opel ,Astra ,  1.3 CDTI Edition Plus 
+Opel ,Astra ,  1.4 T Enjoy 
+Hyundai ,i10 ,  1.1 Team 
+Hyundai ,i10 ,  1.0 D-CVVT Jump 
+Opel ,Astra ,  1.6 Sport 
+Hyundai ,i10 ,  1.1 Select 
+Opel ,Astra ,  1.6 Enjoy 111. Yýl 
+Opel ,Astra ,  1.3 CDTI EcoFLEX Enjoy Plus 
+Suzuki ,Swift ,  1.3 GS 
+Suzuki ,Swift ,  1.3 MT 4x2 
+Suzuki ,Splash ,  1.2 GLS 
+Suzuki ,Swift ,  1.2 GLX  
+Suzuki ,SX4 ,  1.6 GL 
+Opel ,Astra ,  1.6 Club 
+Opel ,Astra ,  1.4 T Cosmo Still 
+Opel ,Astra ,  1.6 CDTI OPC Line Sport 
+Mitsubishi ,Colt ,  1.3 Invite 
+Mitsubishi ,Space Star ,  1.2 Invite 
+Mitsubishi ,Lancer Evolution ,  X 
+Mitsubishi ,Carisma ,  1.8 GDI Comfort 
+Mitsubishi ,Space Star ,  1.3 
+Opel ,Astra ,  1.6 T Enjoy 
+Fiat ,Tempra ,  1.6 S 
+Opel ,Vectra ,  2.2 DTI Comfort 
+Opel ,Vectra ,  2.0 DTI Comfort 
+Toyota ,Yaris ,  1.4 D-4D Sol 
+Toyota ,Yaris ,  1.33 Sol 
+Toyota ,Yaris ,  1.5 Hybrid X-Trend 
+Opel ,Corsa ,  1.6 OPC 
+Opel ,Corsa ,  1.4 Silverline 
+Opel ,Corsa ,  1.0 Essentia 
+Opel ,Corsa ,  1.2 Club 
+Volvo ,V70 ,  2.0 T 
+Volvo ,S60 ,  1.6 D 
+Mercedes - Benz ,CLS ,  350 CDI Innovation Sport 
+Mini ,Cooper Clubman ,  1.6 S 
+Mini ,Cooper Clubman ,  1.6 
+Mini ,Cooper S ,  1.6 Coupe 
+Mini ,Cooper ,  1.5 Signature  
+Mini ,Cooper ,  1.5 Sidewalk 
+Volkswagen ,Polo ,  1.4 TDI Tour 
+Mercedes - Benz ,A Serisi ,  A 180 d Style 
+Mercedes - Benz ,A Serisi ,  A 180 CDI BlueEfficiency Prime 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Luxury 
+Mercedes - Benz ,C Serisi ,  C 230 Avantgarde 
+Kia ,Ceed ,  1.4 Cool 
+Kia ,Shuma ,  LS 
+Kia ,Rio ,  1.4 CVVT Concept 
+Kia ,Sephia ,  1.5 GTX 
+Kia ,Cerato ,  1.6 EX DSL Advance 
+Kia ,Rio ,  1.4 CRDi Concept 
+Kia ,Picanto ,  1.25 EX 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Avantgarde 
+Kia ,Sephia ,  1.5 LS 
+Kia ,Picanto ,  1.0 MPI Live  
+Kia ,Sephia ,  1.6 GTX 
+Kia ,Rio ,  1.4 CVVT Fancy 
+Hyundai ,Accent Era ,  1.5 CRDi-VGT Start 
+Ford ,Mondeo ,  2.0 TDCi Style 
+Honda ,Civic ,  1.8 Sport 
+Honda ,Jazz ,  1.3 Elegance 
+Honda ,Accord ,  2.0 ES 
+Fiat ,Uno ,  60 S 
+Honda ,Civic ,  1.4 Comfort 
+Ford ,Fiesta ,  1.4 My Fiesta 
+Ford ,Fiesta ,  1.4 TDCi My Fiesta 
+Toyota ,Avensis 1.6 D-4D ,  Advance 
+Skoda ,Roomster ,  1.4 TDI Style 
+Skoda ,Forman ,  LX 
+Skoda ,Rapid ,  1.6 CR TDI Active 
+Fiat ,Bravo ,  1.6 Mjet Sport Style 
+Skoda ,Octavia ,  1.4 TSI Sport 
+Skoda ,Superb ,  1.5 TSI Prestige  
+Skoda ,Fabia ,  1.2 TSI Ambiente Dynamic 
+Fiat ,Bravo ,  1.4 T-Jet Dynamic Plus 
+Fiat ,500 Ailesi ,  500L 1.4 PopStar 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet PopStar 
+Fiat ,500 Ailesi ,  500C 1.2 Lounge 
+Fiat ,500 Ailesi ,  500 1.2 Lounge 
+BMW ,5 Serisi ,  520i Comfort Plus  
+BMW ,5 Serisi ,  520Li 
+BMW ,5 Serisi ,  530i Standart 
+BMW ,5 Serisi ,  520i Special Edition Luxury 
+Ford ,Focus ,  1.6 Ti-VCT Collection 
+Ford ,Focus ,  1.8 TDCi Collection 
+Ford ,Focus ,  2.0 Ghia 
+BMW ,2 Serisi ,  216d Active Tourer Luxury Line 
+BMW ,2 Serisi ,  218i M Sport  
+Alfa Romeo ,146 ,  1.6 TS 
+Renault ,Megane ,  1.6 Play 
+Renault ,Megane ,  1.6 RNA 
+Renault ,Megane ,  2.0 Coupe 
+Toyota ,Corolla ,  1.6 Active 
+Renault ,Megane ,  1.5 dCi Sport Tourer GT-Line 
+Tata ,Marina ,  1.4 TDI Trend  
+Fiat ,Palio ,  1.2 Active 
+Chrysler ,Stratus ,  2.5 LX 
+Fiat ,Palio ,  1.4 Fire Active Sole 
+Subaru ,Impreza ,  1.5 Comfort 
+Fiat ,Palio ,  1.3 Multijet EL 
+Fiat ,Egea ,  1.4 T-Jet Lounge Plus 
+Fiat ,Egea ,  1.6 Multijet Mirror 
+Citroën ,C4 Picasso ,  1.6 HDi VTR PK 
+Citroën ,C-Elysée ,  1.2 Live 
+Citroën ,Saxo ,  1.4 VTS 
+Citroën ,C3 Picasso ,  1.6 HDi X 
+Citroën ,C3 1.2 PureTech ,  Feel S Edition 
+Peugeot ,207 ,  1.4 HDi Comfort 
+Peugeot ,308 ,  1.6 e-HDi Allure 
+Peugeot ,308 ,  1.6 HDi Premium 
+Peugeot ,306 ,  1.6 XS 
+Peugeot ,206 + ,  1.4 Comfort 
+Peugeot ,508 ,  2.2 HDi GT 
+Peugeot ,508 ,  1.6 HDi Access 
+Peugeot ,207 ,  1.4 HDi Active 
+Peugeot ,406 ,  1.8 ST 
+Peugeot ,208 ,  1.6 VTi Active 
+Peugeot ,308 ,  1.6 e-HDi Access  
+Volkswagen ,Passat ,  2.0 TDI Exclusive 
+Audi ,A4 ,  A4 Sedan 2.0 TDI S Line 
+Nissan ,Almera ,  1.5 Luxury 
+Mazda ,Lantis ,  1.8 
+Jaguar ,XF ,  2.2 D 
+Hyundai ,i20 ,  1.4 CRDi Tune 
+Volkswagen ,Golf ,  1.6 Basicline 
+Hyundai ,Accent ,  1.5 1.5i GL 
+Fiat ,Punto ,  EVO 1.4 Fire Dynamic 
+Fiat ,Punto ,  Grande 1.4 Starjet Dynamic 
+Fiat ,Punto ,  EVO 1.2 Active 
+Fiat ,Linea ,  1.6 Multijet Dynamic Plus 
+Fiat ,Linea ,  1.4 Turbo Emotion 
+Seat ,Ibiza ,  1.2 TDI Copa 
+Seat ,Cordoba ,  1.4 TDI Stella 
+Seat ,Leon ,  1.6 Style 
+Porsche ,Panamera ,  Panamera 4 
+Porsche ,718 ,  Cayman 
+Opel ,Astra ,  1.4 T Sport Elegance 
+Opel ,Astra ,  1.4 Cosmo 
+Opel ,Astra ,  2.0 GSi 
+Dacia ,Solenza ,  1.4 Clima 
+Dacia ,Logan ,  1.5 dCi Black Line 
+Dacia ,Logan ,  1.6 MCV Laureate 
+Seat ,Ibiza 1.0 ,  Style 
+Renault ,Symbol ,  1.0 Touch 
+Renault ,Symbol ,  1.5 DCI Dynamique 
+Opel ,Astra ,  1.5 D Elegance  
+Chevrolet ,Aveo ,  1.4 SX 
+Chevrolet ,Spark ,  1.0 
+Chevrolet ,Spark ,  1.2 LT 
+BMW ,4 Serisi ,  418i Gran Coupe Prestige 
+BMW ,4 Serisi ,  418i Prestige 
+BMW ,4 Serisi ,  420d Gran Coupe Gran Coupe 
+Renault ,Symbol ,  1.2 Expression Plus 
+Mini ,Cooper S ,  1.6 Cabrio 
+Mini ,Cooper ,  1.5 Classic 
+Mini ,Cooper ,  1.5 Cabrio 
+Mercedes - Benz ,S Serisi ,  S 400 AMG 
+Mercedes - Benz ,A Serisi ,  A 45 AMG 
+Mercedes - Benz ,A Serisi ,  A 180 Urban 
+Kia ,Magentis ,  2.0 CRDi 
+Kia ,Cerato ,  1.5 CRDi EX 
+Suzuki ,Swift ,  1.3 Gti 
+Mitsubishi ,Galant ,  1.8 GLS 
+Mitsubishi ,Carisma ,  1.6 Avance 
+Hyundai ,Getz ,  1.4 DOHC HY KLM 
+Hyundai ,Accent Blue 1.4 D-CVVT ,  Biz 
+Opel ,Corsa ,  1.4 CD 
+Opel ,Corsa ,  1.2 Silverline 
+Opel ,Corsa ,  1.2 Ultimate 
+Peugeot ,206 ,  1.4 HDi Feline 
+Ford ,Fiesta ,  1.6 Trend X 
+Ford ,Fiesta ,  1.25 Ghia 
+Ford ,Fiesta ,  1.1 Trend 
+Volvo ,V60 Cross Country 2.0 D4 2.0 D4 ,  2020
+Volvo ,V60 ,  1.6 T4 Advance 
+Volvo ,S80 ,  2.0 T 
+Fiat ,500 Ailesi ,  500C 1.2 Collozione 
+Volvo ,S40 ,  1.6 D Drive 
+Fiat ,Uno ,  1.4 ie 70 S 
+Fiat ,Bravo ,  1.6 SX 
+Fiat ,Bravo ,  1.4 Multiair Sport Style 
+Fiat ,Bravo ,  1.4 Active 
+Fiat ,500 Ailesi ,  500 1.4 Sport 
+Fiat ,500 Ailesi ,  500C 1.2 Gucci 
+BMW ,5 Serisi 520d xDrive ,  Special Edition Luxury  
+BMW ,5 Serisi 520d xDrive ,  Pure 
+BMW ,5 Serisi 530i xDrive ,  Executive M 
+BMW ,5 Serisi ,  525d xDrive Executive Luxury 
+BMW ,5 Serisi ,  523i Standart 
+Mercedes - Benz ,C Serisi ,  C 180 Style 
+BMW ,7 Serisi ,  730i M Sport 
+Mercedes - Benz ,C Serisi ,  C 220 CDI AMG 
+Mercedes - Benz ,C Serisi ,  C 230 Komp. Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Sport Edition 
+Mercedes - Benz ,C Serisi ,  C 320 Elegance 
+Mercedes - Benz ,C Serisi ,  C 270 CDI Elegance 
+Mercedes - Benz ,C Serisi ,  C 250 D Elegance 
+Alfa Romeo ,147 ,  1.9 JTD Q2 
+Alfa Romeo ,Giulietta ,  1.75 TBI Quadrifoglio Verde 
+Alfa Romeo ,159 ,  3.2 JTS Q4 Distinctive 
+Alfa Romeo ,146 ,  1.4 TS 
+Mercedes - Benz ,190 ,  190 D 2.5 
+BMW ,7 Serisi ,  740d xDrive Exclusive 
+Mercedes - Benz ,B Serisi ,  B 180 CDI BlueEfficiency Urban 
+Hyundai ,Accent Era ,  1.6 Style 
+Lada ,Kalina ,  1.6 
+Hyundai ,Accent Era ,  1.4 Expo Gold 
+Volkswagen ,Jetta ,  1.6 Tour 
+Hyundai ,i30 ,  1.6 CRDi Style Design Pack 
+Hyundai ,i30 ,  1.6 CRDi Mode Plus 
+Tata ,Manza ,  Aura 1.4 Safire 
+Tata ,Vista ,  1.3 TDI Aura 
+Chrysler ,300 C ,  3.5 
+Chrysler ,300 C ,  5.7 
+Chrysler ,300 C ,  2.7 
+Honda ,Civic ,  1.8 i-VTEC 
+Honda ,Jazz ,  1.3 Premium 
+Honda ,Accord ,  2.0 LS 
+Honda ,Civic ,  1.4 Sport 
+Peugeot ,301 ,  1.2 VTi Active 
+Honda ,Civic ,  1.8 Executive 
+Renault ,Clio ,  1.2 Tom Tom Edition 
+Renault ,Clio ,  1.2 SportTourer Joy 
+Renault ,Clio ,  1.5 BlueDCI Icon 
+Renault ,Clio ,  0.9 Sport Tourer Icon 
+Renault ,Clio ,  1.3 TCe Icon  
+Volkswagen ,Beetle 1.4 TSI ,  Design 
+Toyota ,Avensis ,  2.0 D-4D Executive 
+Toyota ,Avensis ,  1.6 Linea 
+Ford ,Focus ,  1.0 EcoBoost GTDi Titanium 
+Skoda ,Rapid ,  1.2 TSI GreenTec Spaceback Style 
+Skoda ,Octavia ,  1.6 FSI Elegance 
+Ford ,Focus ,  1.6 SCTi Titanium 
+Skoda ,Octavia ,  1.9 TDI Elegance 
+Skoda ,Rapid ,  1.0 TSI GreenTec Spaceback Style 
+Skoda ,Octavia ,  1.6 FSI Ambiente 
+Skoda ,Fabia ,  1.2 Ambiente Dynamic 
+Skoda ,Octavia ,  1.9 TDI SLX 
+Volkswagen ,Passat ,  1.9 TDI Exclusive 
+Volkswagen ,Passat ,  1.6 TDI BlueMotion 
+Volkswagen ,Passat ,  1.8 TSI Comfortline 
+Fiat ,Palio ,  1.6 HL Weekend 
+Fiat ,Palio ,  1.2 S Weekend 
+Fiat ,Palio ,  1.4 Fire Dynamic 
+Fiat ,Palio ,  1.2 EL Weekend 
+Renault ,Megane ,  1.6 Panorama Edition 
+Renault ,Megane ,  1.5 dCi Sport Tourer Touch 
+Fiat ,Egea ,  1.6 E-Torq Easy Plus 
+Fiat ,Egea ,  1.6 Multijet Lounge Plus 
+Fiat ,Egea ,  1.6 Multijet Easy Plus 
+Toyota ,Corolla ,  1.3 ECO 
+Toyota ,Corolla ,  1.3 XLi 
+Toyota ,Corolla ,  1.4 D-4D Plusline 
+Toyota ,Corolla ,  1.6 XEi Special 
+Toyota ,Corolla ,  1.3 XL SW 
+Fiat ,Albea ,  1.6 EL 
+Fiat ,Albea ,  Sole 1.4 Fire Dynamic Plus 
+Fiat ,Albea ,  Sole 1.4 Fire Active Plus 
+Tofaþ ,Þahin ,  1.4 ie 
+Citroën ,C2 ,  1.6 VTR 
+Citroën ,C4 Picasso ,  1.6 HDi Grand Dynamic 
+Citroën ,C3 1.2 PureTech ,  Shine SX Edition 
+Citroën ,Evasion ,  2.0 SX 
+Citroën ,C8 ,  2.0 X 
+Citroën ,C3 1.2 PureTech ,  Shine S Edition 
+Citroën ,C3 ,  1.4 Comfort 
+Citroën ,C4 Grand Picasso ,  1.6 BlueHDi Intensive 
+Citroën ,C3 ,  1.4 VTi Collection 
+Citroën ,ZX ,  1.4 Harmonie 
+Citroën ,Saxo ,  1.6 VTS 
+Citroën ,C3 ,  1.6 VTi Feel 
+Renault ,Fluence ,  1.6 Business 
+Renault ,Fluence ,  1.5 dCi Authentique 
+Renault ,R 9 ,  1.4 Fairway 
+Renault ,Laguna ,  2.2 dCi Dynamique 
+Renault ,R 9 ,  1.4 GT 
+BMW ,3 Serisi ,  316i Sport Line 
+Renault ,Scenic ,  1.6 RXE 
+Renault ,Scenic ,  1.5 dCi Touch 
+BMW ,3 Serisi ,  316ti Compact 
+BMW ,3 Serisi ,  320d xDrive Comfort 
+BMW ,3 Serisi ,  320i First Edition Luxury Line  
+Renault ,Laguna ,  1.5 dCi Expression 
+BMW ,3 Serisi ,  335i Standart 
+BMW ,3 Serisi ,  316i Sport 
+BMW ,3 Serisi ,  330Ci 
+Porsche ,911 ,  Carrera 
+Porsche ,718 ,  718 
+Porsche ,Taycan ,  Turbo 
+Porsche ,718 ,  Boxster 
+Porsche ,718 ,  Cayman GT4 
+Opel ,Meriva ,  1.7 CDTI Cosmo 
+Peugeot ,307 ,  1.6 Feline 
+Peugeot ,307 ,  1.6 HDi XS 
+Peugeot ,508 ,  2.0 HDi Allure 
+Peugeot ,207 ,  1.4 HDi Premium 
+Peugeot ,605 ,  2.0 SVTi 
+Peugeot ,206 ,  1.4 HDi Look 
+Audi ,A3 ,  A3 Hatchback 1.4 TFSI Ambiente 
+Audi ,A3 ,  A3 Sportback 1.4 TFSI Ambiente  
+Audi ,A3 ,  A3 Sportback 1.4 TFSI Sport Line 
+Audi ,A5 ,  A5 Coupe 2.0 TDI Quattro 
+Audi ,A7 ,  2.0 TFSI 
+Opel ,Astra ,  2.0 Cabrio 
+Opel ,Astra ,  1.4 T Edition 
+Peugeot ,307 ,  2.0 Sport 
+Peugeot ,307 ,  1.6 HDi Pack 
+Peugeot ,207 ,  1.4 HDi Envy 
+Peugeot ,208 ,  1.2 VTi Urban Soul 
+Peugeot ,308 ,  1.6 VTi Envy 
+Peugeot ,307 ,  1.4 XR 
+Peugeot ,508 ,  1.6 BlueHDi Active 
+Peugeot ,208 1.2 PureTech ,  Allure  
+Opel ,Astra ,  1.2 T Edition 
+Opel ,Astra ,  1.7 D GL 
+Opel ,Astra ,  1.6 100.Yýl 
+Opel ,Astra ,  1.4 T Excellence 
+Peugeot ,308 ,  1.2 Puretech Allure Dynamic 
+Peugeot ,206 + ,  1.4 Envy 
+Peugeot ,306 ,  1.8 ST 
+Peugeot ,308 ,  1.2 Puretech Style  
+Peugeot ,206 + ,  1.4 Urban Move 
+Mini ,Cooper ,  1.5 Pepper 
+Mini ,Cooper ,  1.6 Cabrio 
+Mercedes - Benz ,S Serisi ,  S 63 AMG 
+Mercedes - Benz ,S Serisi ,  S 400 Sport 
+Mercedes - Benz ,S Serisi ,  S 500 500 
+Renault ,R 19 ,  1.8 Europa RTi 
+Renault ,R 19 ,  1.9 Europa RN TD 
+Mercedes - Benz ,S Serisi ,  S 350 350 CDI 
+Renault ,R 19 ,  1.9 Europa RT TD 
+Mercedes - Benz ,A Serisi ,  A 180 Style Plus 
+Mercedes - Benz ,A Serisi ,  A 160 Elegance 
+Volkswagen ,Golf ,  1.8 Highline 
+Kia ,Optima ,  1.7 CRDi 
+Kia ,Rio ,  1.4 CRDi Sporty 
+Kia ,Ceed ,  1.6 CRDi Premium SW 
+Kia ,Rio ,  1.4 EX Advance 
+Opel ,Insignia ,  1.6 CDTI Business 
+Kia ,Ceed ,  1.6 CRDi Elegance  
+Kia ,Rio ,  1.25 CVVT Cool 
+Volkswagen ,Golf ,  1.6 C 
+Kia ,Rio ,  1.4 CRDi Natty 
+Kia ,Cerato ,  1.6 EX Comfort 
+Kia ,Cerato 2.0 CRDi ,  EX Comfort 
+Kia ,Rio ,  1.4 WGT CRDI Cool 
+Opel ,Insignia ,  1.6 CDTI Elite 
+Volkswagen ,Golf ,  1.6 Sport 
+Volkswagen ,Golf ,  2.0 TSI BlueMotion GTI Performans 
+Kia ,Cerato ,  1.6 CRDi Concept  
+Kia ,Rio ,  1.25 CVVT Comfort 
+Kia ,Cerato ,  1.6 GSL Premium 
+Kia ,Carnival ,  2.9 TD LS 
+Volkswagen ,Golf ,  1.3 
+Kia ,Rio ,  1.25 CVVT Natty 
+Kia ,Rio ,  1.4 EX Trend 
+Opel ,Insignia ,  2.0 CDTI Cosmo Active Select 
+Opel ,Insignia ,  1.4 T Edition 
+Kia ,Cerato ,  1.6 CRDi Prestige  
+Opel ,Insignia ,  1.6 CDTI Grand Sport Design 
+Opel ,Insignia ,  2.8 Cosmo 
+Volkswagen ,Golf ,  1.9 D CL 
+Volkswagen ,Golf ,  1.6 FSI Comfortline Plus 
+Opel ,Insignia ,  1.6 CDTI Grand Sport Elite 
+Hyundai ,i20 Troy ,  1.4 CVVT Prime Plus 
+Hyundai ,Getz ,  1.5 CRDi Comfort Plus 
+Hyundai ,Getz ,  1.5 CRDi Active 
+Nissan ,Micra ,  1.3 GX 
+Nissan ,Note ,  1.6 Tekna 
+Nissan ,Note ,  1.4 Tekna 
+Nissan ,Sunny ,  1.6 SLX 
+Nissan ,Pulsar ,  1.2 Tekna 
+Nissan ,Pulsar ,  1.5 Visia 
+Nissan ,GT-R ,  R34 
+Nissan ,Primera ,  1.6 Visia 
+Nissan ,Micra ,  1.2 Puzzle 
+Ford ,Mondeo ,  1.6 TDCi Style 
+Mercedes - Benz ,E Serisi ,  E 250 CGI BlueEfficiency Dynamic 
+Mercedes - Benz ,E Serisi ,  E 350 CDI AMG Premium 
+Mercedes - Benz ,E Serisi ,  E 320 Elegance 
+Mercedes - Benz ,E Serisi ,  E 350 CGI AMG 
+Mercedes - Benz ,E Serisi ,  E 280 Elegance 
+Mercedes - Benz ,E Serisi ,  E 300 300 D 
+Ford ,Fusion ,  1.4 TDCi Urbanite 
+Ford ,Fiesta ,  1.1 Titanium 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Elite 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Elegance 
+Mercedes - Benz ,E Serisi ,  E 320 CDI Avantgarde 
+Ford ,Fiesta ,  1.0 Trend 
+Ford ,Fiesta ,  1.4 Cool 
+Mercedes - Benz ,E Serisi ,  E 200 Komp. Premium 
+Mercedes - Benz ,E Serisi ,  E 200 Komp. Classic 
+Mercedes - Benz ,E Serisi ,  E 320 CDI Elegance 
+Toyota ,Auris ,  1.4 D-4D Touring Sports Advance 
+Toyota ,Auris ,  1.6 Touring Sports Advance Skypack 
+Toyota ,Auris ,  1.6 Touch 
+Seat ,Toledo ,  1.9 TDI Signo 
+Seat ,Ibiza ,  1.6 TDI CR Style 
+Seat ,Cordoba ,  1.4 TDI S-Rider 
+Seat ,Ibiza ,  1.4 Stella 
+Mercedes - Benz ,CLA ,  45 AMG 
+Mercedes - Benz ,CLA ,  180 d Style 
+Seat ,Altea ,  1.6 Stylance 
+Mercedes - Benz ,CLA ,  180 d Comfort 
+Mazda ,3 ,  1.6 Sport Dynamic 
+Seat ,Ibiza 1.0 ,  Referance 
+Mazda ,323 ,  1.6 1.6i 
+Mazda ,3 ,  1.6 Comfort 
+Mazda ,RX ,  RX-8 
+Mazda ,323 ,  2.0 GT 
+Mazda ,3 ,  1.6 D Impressive 
+Mazda ,5 ,  1.8 
+Mazda ,323 ,  1.5 GLX 
+Mazda ,RX ,  RX-7 
+Mazda ,5 ,  1.6 Sport 
+Seat ,Ibiza ,  1.4 SXE 
+Mazda ,323 ,  1.5 Practica 
+Fiat ,Uno ,  1.4 ie Hobby 
+Jaguar ,XF ,  2.7 D Premium Luxury 
+Jaguar ,XE Prestige ,  2.0 D 
+Seat ,Leon ,  1.4 EcoTSI Xcellence 
+Seat ,Cordoba ,  1.9 TDI SXE 
+Seat ,Ibiza ,  1.4 TDI S-Rider 
+Seat ,Ibiza ,  1.6 Reference 
+Seat ,Ibiza ,  1.4 TSI Sport Coupe Bocanegra 
+Seat ,Cordoba ,  1.4 Basic 
+Fiat ,Bravo ,  1.6 Mjet Emotion 
+Seat ,Ibiza ,  1.6 SE 
+Fiat ,Bravo ,  1.4 Active Plus 
+Fiat ,500 Ailesi ,  500 1.2 Pop 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet Cross Plus 
+Fiat ,500 Ailesi ,  500 1.4 Lounge 
+Fiat ,500 Ailesi ,  500 1.2 Gucci 
+Hyundai ,i20 ,  1.0 T-GDI Style 
+BMW ,5 Serisi ,  525d xDrive Executive Plus 
+BMW ,5 Serisi ,  525d xDrive Luxury 
+Hyundai ,i20 ,  1.0 T-GDI Star 
+Renault ,Symbol ,  1.5 DCI Authentique Edition 
+BMW ,5 Serisi ,  530i Luxury Line 
+BMW ,5 Serisi ,  525 xDrive Touring Comfort 
+BMW ,5 Serisi 530i xDrive ,  Executive Prestige 
+BMW ,5 Serisi ,  530i Executive M 
+Mercedes - Benz ,B Serisi ,  B 180 AMG 
+BMW ,5 Serisi 520d xDrive ,  Luxury Line 
+Renault ,Symbol ,  1.2 Touch 
+Hyundai ,Elantra ,  1.8 GLS 
+Hyundai ,Elantra ,  1.6 MPI Elite Plus 
+Hyundai ,Accent ,  1.5 GL 
+Hyundai ,Accent ,  1.5 GT 
+Hyundai ,Accent ,  1.3 1.3i 
+Volkswagen ,Passat Variant ,  1.4 TSI BlueMotion Comfortline 
+Alfa Romeo ,Giulietta ,  1.4 TB Progression Plus 
+Alfa Romeo ,147 ,  1.6 TS Progression 
+Alfa Romeo ,Giulietta ,  1.6 JTD Progression Plus 
+Alfa Romeo ,146 ,  2.0 Ti 
+Alfa Romeo ,156 ,  2.0 JTS Distinctive 
+Alfa Romeo ,Giulia ,  2.0 Veloce 
+Alfa Romeo ,MiTo ,  1.4 T MultiAir Distinctive 
+Alfa Romeo ,156 ,  2.5 
+Volkswagen ,Passat Variant ,  1.4 TSI Comfortline 
+Volkswagen ,Passat Variant ,  1.5 TSI Elegance 
+Ford ,Fusion ,  1.6 TDCi Lux 
+Ford ,Fusion ,  1.6 
+Renault ,R 11 ,  TX 
+BMW ,7 Serisi ,  730d Long Standart 
+BMW ,7 Serisi ,  740d 
+BMW ,7 Serisi ,  750i xDrive Long 
+Mercedes - Benz ,B Serisi ,  B 180 BlueEfficiency Elite 
+Lada ,Samara ,  1.3 
+Lada ,VAZ ,  2104 
+Fiat ,Punto ,  1.4 Mair Easy S&S 
+Fiat ,Punto ,  Grande 1.3 Multijet Emotion 
+Fiat ,Punto ,  Grande 1.4 T-jet Dynamic 
+Renault ,Clio ,  1.2 Joy Plus 
+Fiat ,Punto ,  1.3 Multijet Shine 
+Hyundai ,i30 ,  1.6 DOHC Mode 
+Opel ,Vectra ,  1.6 
+Fiat ,Linea ,  1.4 Fire Actual Plus  
+Tata ,Indica ,  1.4 Comfort 
+Tata ,Indigo ,  1.4 TDI Trend 
+Fiat ,Linea ,  1.3 Multijet VIA 
+Chrysler ,PT Cruiser ,  2.2 CRD Limited 
+Chrysler ,Neon ,  2.0 LX 
+Subaru ,Vivio ,  2WD GL 
+Subaru ,Impreza ,  1.5 FWD 
+Subaru ,Impreza ,  1.5 AWD 
+Opel ,Corsa ,  1.2 Comfort 
+Opel ,Corsa ,  1.2 Innovation 
+Opel ,Corsa ,  1.3 CDTI Design 
+Peugeot ,206 ,  2.0 CC 
+Peugeot ,206 ,  1.4 Pop Art 
+Peugeot ,206 ,  1.4 Color Line 
+Peugeot ,206 ,  1.6 HDi CC 
+Renault ,Clio ,  1.6 Grandtour Extreme 
+Mercedes - Benz ,C Serisi ,  C 180 Classic 
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Sportcoupe 
+Volvo ,V40 1.5 T3 ,  R-Design 
+Volvo ,S60 ,  2.4 D Premium 
+Volvo ,S90 ,  3.0 
+Volvo ,S40 ,  1.6 Premium 
+Volvo ,S40 ,  2.0 
+Volvo ,S80 ,  2.0 D Premium 
+Mercedes - Benz ,C Serisi ,  C 200 CDI Classic 
+Mercedes - Benz ,C Serisi ,  C 220 CDI Elegance 
+Volvo ,S40 ,  2.0 D Premium 
+Volvo ,C30 ,  1.6 D Sports 
+Mercedes - Benz ,C Serisi ,  C 200 CDI Elegance 
+Volvo ,S70 ,  2.0 T 
+Volvo ,S80 ,  2.0 T5 
+Volvo ,S80 ,  1.6 T4 
+Mercedes - Benz ,C Serisi ,  C 320 Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiency Diamond 
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Premium 
+Mercedes - Benz ,C Serisi ,  C 220 CDI Esprit 
+Volkswagen ,Polo ,  1.4 Cross 
+Volkswagen ,Polo ,  1.6 GTI 
+Volkswagen ,Polo ,  1.4 TDI Basicline 
+Volkswagen ,Scirocco ,  2.0 TSI R 
+Volkswagen ,Polo ,  1.4 TDI Highline 
+Honda ,Jazz ,  1.4 Sport 
+Volkswagen ,Jetta ,  1.6 TDI Exclusive 
+Honda ,Civic ,  1.5 GL 
+Honda ,Accord ,  1.6 LS 
+Honda ,Accord ,  2.2 CTDi 
+Honda ,Integra ,  1.8 
+Honda ,Civic ,  1.5 VTEC Executive Plus  
+Volkswagen ,Passat ,  2.0 TFSI Highline 
+Volkswagen ,Passat ,  1.9 TDI Trendline 
+Honda ,Civic ,  1.6 Si 
+Volkswagen ,Jetta ,  1.9 TDI Primeline 
+Volkswagen ,Jetta ,  1.9 TDI Tour 
+Ford ,Focus ,  1.8 TDCi Ghia 
+Ford ,Focus ,  1.6 TDCi Sport 
+Ford ,Focus ,  1.4 Comfort 
+Volkswagen ,Beetle ,  1.2 TSI Beetle 
+Toyota ,Avensis ,  2.0 Comfort 
+Ford ,Focus ,  1.8 TDCi Comfort 
+Toyota ,Corolla ,  1.4 D-4D Life 
+Toyota ,Corolla ,  1.6 VVT-i Plusline  
+Toyota ,Corolla ,  1.6 Plusline 
+Skoda ,Forman ,  GLX 
+Skoda ,Fabia ,  1.4 TSI RS 
+Skoda ,Rapid ,  1.0 TSI GreenTec Style 
+Skoda ,Rapid ,  1.6 TDI GreenTec Style 
+Skoda ,Octavia ,  2.0 TDI Elegance 
+Skoda ,Roomster ,  1.4 TDI Comfort 
+Toyota ,Corolla ,  1.6 Elegant Verso 
+Toyota ,Corolla ,  1.6 Flame 
+Skoda ,Rapid ,  1.2 TSI Spaceback Ambition 
+Skoda ,Octavia ,  1.8 T SLX 
+Skoda ,Fabia ,  1.6 Ambiente 
+Skoda ,Octavia ,  1.2 TSI Optimal 
+Skoda ,Roomster ,  1.6 Comfort 
+Skoda ,Octavia ,  1.6 TDI Ambition Optimal 
+Fiat ,Palio ,  1.2 HL 
+Skoda ,Rapid ,  1.0 TSI GreenTec Spaceback Ambition 
+Skoda ,Fabia ,  1.6 TDI Optimal 
+Fiat ,Egea ,  1.6 E-Torq Easy 
+Fiat ,Egea ,  1.4 Fire Lounge Plus 
+Fiat ,Egea ,  1.6 Multijet Street 
+Fiat ,Egea ,  1.3 Multijet Lounge 
+Peugeot ,206 ,  1.6 Quicksilver 
+Rover ,216 ,  Si 
+Renault ,R 9 ,  1.4 TSE 
+Citroën ,C4 Picasso ,  1.6 e-HDi Dynamique 
+Citroën ,C5 ,  1.6 THP Dynamique 
+Citroën ,C4 Picasso ,  1.6 THP Grand Dynamique 
+Citroën ,Xsara ,  1.4 SX 
+Renault ,Scenic ,  1.6 Exception 
+Renault ,Scenic ,  1.6 
+Citroën ,C3 1.2 PureTech ,  Shine  
+Renault ,Laguna ,  3.0 Initiale 
+Citroën ,C4 ,  1.6 THP Exclusive 
+Renault ,Laguna ,  2.0 Authentique 
+Citroën ,Xsara ,  Picasso 2.0 HDI 
+Citroën ,C5 ,  2.0 SX PK 
+Citroën ,C4 ,  1.6 VTR 
+Volkswagen ,Polo ,  1.4 TDI Goal 
+BMW ,3 Serisi ,  318i M Joy Plus 
+BMW ,3 Serisi ,  318i Sport Plus 
+Porsche ,911 ,  Turbo 
+Porsche ,Panamera ,  Panamera 4 - 10 Years Edition 
+Porsche ,911 ,  Carrera 4 GTS 
+Porsche ,968 ,  Coupe 
+Opel ,Astra ,  1.6 Cabrio 
+Opel ,Astra ,  1.3 CDTI Enjoy Elegance 
+Opel ,Astra ,  1.5 D GS Line 
+Opel ,Astra ,  1.0 T Enjoy 
+Opel ,Astra ,  1.7 DTI Classic 
+Skoda ,Rapid ,  1.2 TSI GreenTec Style 
+Skoda ,Fabia ,  1.6 TDI Elegance 
+Renault ,Megane ,  1.6 dCi Privilege Energy 
+Renault ,Megane ,  1.6 Coupe Expression 
+Renault ,Megane ,  1.6 dCi Icon 
+Renault ,Megane ,  1.2 TCe Icon 
+Renault ,Megane ,  1.6 dCi GT-Line Energy Sport Tourer 
+Renault ,Megane ,  1.6 RXE 
+Renault ,Megane ,  1.4 Expression 
+Renault ,Megane ,  1.6 Coupe Privilege 
+Renault ,Megane ,  1.4 RTE 
+Renault ,Fluence ,  1.6 Authentique 
+Renault ,R 19 ,  1.4 RN 
+Renault ,R 19 ,  1.8 RTi 
+Renault ,R 19 ,  1.6 Europa RL 
+Renault ,R 19 ,  1.6 
+Volkswagen ,Golf ,  1.6 FSI Midline Plus 
+Renault ,Clio ,  1.4 Fidji 
+Volkswagen ,Golf ,  2.0 TSI R BlueMotion 
+Volkswagen ,Golf ,  1.6 TDI BlueMotion Allstar 
+Volkswagen ,Golf ,  1.6 FSI 
+Peugeot ,RCZ ,  1.6 THP Carbon 
+Peugeot ,307 ,  1.6 HDi XT 
+Peugeot ,208 ,  1.6 e-HDi Active 
+Peugeot ,207 ,  1.4 HDi Millesim 
+Peugeot ,407 ,  2.0 Comfort 
+Peugeot ,607 ,  2.2 Standart 
+Peugeot ,308 ,  1.6 VTi Premium 
+Peugeot ,308 ,  1.6 VTi Confort Pack 
+Peugeot ,301 ,  1.2 PureTech Access 
+Peugeot ,106 ,  XS 
+Peugeot ,307 ,  2.0 CC 
+Peugeot ,508 ,  1.6 Puretech GT  
+Peugeot ,406 ,  2.0 ST 
+Peugeot ,405 ,  1.6 GRi 
+Peugeot ,308 ,  1.6 e-HDi Sportium 
+Peugeot ,307 ,  1.6 Look 
+Peugeot ,207 ,  1.6 VTi Outdoor Premium 
+Peugeot ,308 ,  1.6 BlueHDi GT Line 
+Toyota ,Auris ,  1.6 Active 
+Toyota ,Auris ,  1.4 D-4D Life 
+Peugeot ,508 ,  2.0 BlueHDi 
+Peugeot ,308 ,  1.6 THP Feeline Plus 
+Seat ,Ibiza ,  1.2 TSI Sport Coupe FR 
+Seat ,Cordoba ,  1.4 Stella 
+Seat ,Ibiza ,  1.5 GLX 
+Seat ,Ibiza ,  1.6 Stella 
+Seat ,Marbella ,  903 Special 
+Seat ,Ibiza ,  1.4 Basic 
+Mercedes - Benz ,E Serisi ,  E 350 AMG 
+Seat ,Ibiza ,  1.4 TDI Stella 
+Opel ,Insignia ,  1.6 CDTI Grand Sport Exclusive 
+Nissan ,Micra ,  1.2 Platinum 
+Nissan ,Maxima ,  2.0 QX  
+Nissan ,GT-R ,  R35 
+Nissan ,Primera ,  2.0 TD Luxe 
+Nissan ,Almera ,  1.6 GX 
+Mercedes - Benz ,E Serisi ,  E 200 CGI AMG 
+Mercedes - Benz ,E Serisi ,  E 180 AMG Premium 
+Mercedes - Benz ,E Serisi ,  E 300 Elegance 
+Mercedes - Benz ,E Serisi ,  E 200 CGI BlueEfficiency Prime 
+Mercedes - Benz ,E Serisi ,  E 300 TD Classic 
+Opel ,Vectra ,  2.0 T Elegance 
+Opel ,Vectra ,  2.2 DTI Elegance 
+Opel ,Vectra ,  2.0 Elegance 
+Mazda ,323 ,  1.5 Familia 
+Mazda ,3 ,  1.5 SkyActive-G Reflex 
+Mazda ,121 ,  1.3 
+Mazda ,929 ,  3.0 Royal Classic 
+Hyundai ,i20 ,  1.2 MPI Team 
+Hyundai ,i20 ,  1.2 D-CVVT Go 
+Opel ,Corsa ,  1.2 T Innovation 
+Hyundai ,Elantra ,  1.6 MPI Style Plus 
+Hyundai ,Accent ,  1.5 CRDi Comfort 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Classic 
+Mercedes - Benz ,C Serisi ,  C 180 Sport 
+Mercedes - Benz ,C Serisi ,  C 220 CDI BlueEfficiency AMG 
+Ford ,Fusion ,  1.4 TDCi Collection 
+Ford ,Fusion ,  1.6 Comfort 
+Mercedes - Benz ,C Serisi ,  C 200 Exclusive 
+Fiat ,Tipo ,  1.4 DGT 
+Fiat ,Punto ,  Grande 1.3 Multijet Fun 
+Fiat ,Linea ,  1.4 Fire Dynamic 
+Honda ,Civic ,  1.4 S 
+Honda ,Civic 1.6i DTEC ,  Executive Plus  
+Honda ,City ,  1.4 Sport 
+Dacia ,Logan ,  1.6 MCV Ambiance 
+Dacia ,Solenza ,  1.4 Scala 
+Dacia ,Sandero ,  0.9 TCe Stepway Ambiance 
+Dacia ,Logan ,  1.4 Laureate 
+Dacia ,Logan ,  1.2 
+Dacia ,Sandero ,  1.4 Black Line 
+Dacia ,Nova ,  Ti 
+Dacia ,Lodgy ,  1.5 dCi Stepway Style 
+Dacia ,Sandero ,  1.0 Stepway 
+Chevrolet ,Corvette ,  C4 
+Chevrolet ,Cruze ,  2.0 D LT 
+Chevrolet ,Lacetti ,  1.6 CDX 
+Chevrolet ,Cruze ,  1.6 Design Edition Plus 
+Chevrolet ,Cruze ,  1.4 T Sport Plus 
+Chevrolet ,Aveo ,  1.4 LS 
+Chevrolet ,Spark ,  1.0 SE 
+Chevrolet ,Cruze ,  2.0 D LTZ 
+Chevrolet ,Spark ,  1.2 LS 
+Chevrolet ,Lacetti ,  1.6 SE 
+Chevrolet ,Spark ,  0.8 SE 
+BMW ,4 Serisi ,  420d Premium 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Gran Coupe 
+BMW ,4 Serisi ,  418i Gran Coupe Gran Coupe 
+BMW ,4 Serisi ,  418i M Sport 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Sport Line 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Ultimate M Sport 
+Ford ,Focus ,  1.6 Ti-VCT Style Plus 
+BMW ,1 Serisi ,  116d ED Urban Line 
+BMW ,1 Serisi ,  116d ED Sport Line 
+BMW ,1 Serisi ,  116d Sport Plus 
+BMW ,1 Serisi ,  118i Premium Line 
+BMW ,1 Serisi ,  116i Exclusive 
+BMW ,1 Serisi ,  118i Premium 
+BMW ,1 Serisi ,  118i Urban Plus  
+Suzuki ,Swift ,  1.0 GLX 
+Suzuki ,Swift ,  1.3 GL 
+Fiat ,Tempra ,  1.6 SX AK SW 
+Suzuki ,Baleno ,  1.2 Techno 
+Mitsubishi ,Space Star ,  1.2 Intense  
+Mitsubishi ,Colt ,  1.5 DI-D Inform 
+Mitsubishi ,Carisma ,  1.6 GL 
+Fiat ,Tempra ,  1.6 ie SLX SW 
+Toyota ,Yaris ,  1.3 Luna 
+Toyota ,Yaris ,  1.33 Fun Skypack 
+Toyota ,Yaris ,  1.5 Hybrid Cool 
+Toyota ,Yaris ,  1.33 Terra 
+Toyota ,Yaris ,  1.33 Style X-Trend 
+Toyota ,Yaris ,  1.4 D-4D Fun 
+Fiat ,Palio ,  1.4 Fire Premio Sole 
+Volvo ,S40 ,  1.6 Dynamic 
+Fiat ,Egea ,  1.3 Multijet Mirror 
+Citroën ,C5 ,  2.0 HDi SX PK 
+Rover ,620 ,  Ti 
+Rover ,200 ,  Si 
+BMW ,3 Serisi ,  320d xDrive Modern Line 
+BMW ,3 Serisi ,  320d Sport 
+BMW ,3 Serisi ,  330i Standart 
+BMW ,3 Serisi ,  316 
+BMW ,3 Serisi ,  320i ED Edition 
+Renault ,Scenic ,  1.6 Sportway 
+Renault ,Scenic ,  1.5 dCi Icon 
+Renault ,Scenic ,  1.6 RTE 
+BMW ,3 Serisi ,  320d xDrive Sport 
+BMW ,3 Serisi ,  320d GT Luxury 
+BMW ,3 Serisi ,  318d Luxury Plus 
+BMW ,3 Serisi ,  320i Touring 
+BMW ,3 Serisi ,  316i Advantage 
+Volkswagen ,Beetle 1.4 TSI ,  Allstar 
+Toyota ,Avensis ,  1.6 Advance 
+Skoda ,Rapid ,  1.4 TDI GreenTec Spaceback Ambition 
+Skoda ,Fabia ,  1.4 Optimal 
+Skoda ,Rapid ,  1.2 TSI Elegance 
+Skoda ,Rapid ,  1.0 TSI GreenTec Spaceback Dynamic 
+Skoda ,Favorit ,  1.4 Silverline 
+Skoda ,Roomster ,  1.6 CR TDI Comfort 
+Skoda ,Rapid ,  1.6 CR TDI Style 
+Audi ,R8 ,  4.2 FSI Quattro R-tronic 
+Audi ,A4 ,  A4 Sedan 2.7 TDI 
+Audi ,A6 ,  A6 Avant 2.0 TDI 
+Audi ,100 Serisi ,  1.9 
+Audi ,A5 ,  A5 Sportback 2.0 TFSI Quattro S Line 
+Audi ,RS ,  RS 5 
+Audi ,A3 ,  A3 Sedan 1.5 TFSI Dynamic 
+Audi ,S Serisi ,  S5 4.2 FSI Quattro 
+Audi ,A4 ,  A4 allroad quattro 2.0 TDI 
+Audi ,100 Serisi ,  2.0 
+Audi ,A5 ,  A5 Cabrio 1.8 TFSI 
+Audi ,A3 ,  A3 Sedan 1.4 TFSI Ambiante 
+Audi ,A3 ,  A3 Sedan 1.6 TDI 1.6 TDI 
+Audi ,A3 ,  A3 Sportback 1.6 Ambiente 
+Porsche ,911 ,  Targa 4S 
+Audi ,A8 ,  3.0 
+Audi ,A4 ,  A4 Avant 2.0 TDI 
+Audi ,A8 ,  6.0 Quattro Long 
+Audi ,A4 ,  A4 Avant 1.8 TFSI 
+Audi ,TT ,  2.0 TFSI Quattro 
+Audi ,A3 ,  A3 Sedan 1.4 TFSI Ambition 
+Opel ,Astra ,  1.4 T GS Line 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Sport 
+Audi ,A6 ,  A6 Avant 1.8 T 
+Audi ,A3 ,  A3 Hatchback 1.6 TDI Attraction 
+Audi ,A7 ,  2.0 TDI 
+Audi ,A3 ,  A3 Cabrio 1.2 TFSI 
+Audi ,A3 ,  A3 Hatchback 1.6 TDI Ambiente 
+Audi ,A4 ,  A4 Sedan 2.0 TFSI Quattro Design 
+Audi ,A6 ,  A6 Avant 2.7 T Quattro 
+Audi ,A6 ,  A6 Avant 2.5 TDI 
+Audi ,A3 ,  A3 Hatchback 1.8 T Attraction 
+Opel ,Astra ,  1.4 T Design 
+Opel ,Astra ,  1.5 D Edition 
+Mini ,John Cooper 2.0 ,  Works 
+Mercedes - Benz ,S Serisi ,  S 350 BlueTEC AMG 
+Mercedes - Benz ,S Serisi ,  S 320 320 CDI 
+Mercedes - Benz ,CLS ,  500 500 BlueEfficiency 
+Mercedes - Benz ,A Serisi ,  A 150 Avantgarde 
+Renault ,Fluence ,  1.5 dCi Bold Edition 
+Kia ,Rio ,  1.0 TGDI Cool 
+Volkswagen ,Golf ,  1.6 Primeline Plus 
+Kia ,Magentis ,  2.0 SE 
+Kia ,Cerato ,  1.6 EX Premium 
+Kia ,Ceed ,  1.6 CRDi Prestige SW 
+Kia ,Ceed ,  1.4 Cool Plus 
+Kia ,Picanto ,  1.0 MPI Cool 
+Kia ,Rio ,  1.0 TGDI Elegance Tekno 
+Kia ,Venga ,  1.4 CRDi Active 
+Kia ,Rio ,  1.2 MPI Cool 
+Hyundai ,i20 Troy ,  1.2 Mode 
+Volkswagen ,Golf ,  1.6 Sportline 
+Hyundai ,Accent Blue ,  1.4 CVVT Biz 
+Ford ,Mondeo ,  1.6 TDCi Trend 
+Ford ,Mondeo ,  1.6 Selective 
+Ford ,Fiesta ,  1.0 GTDi Titanium 
+Ford ,Fiesta ,  1.6 Collection 
+Ford ,Fiesta ,  1.6 TDCi Sport 
+Ford ,Fiesta ,  1.1 Trend X 
+Ford ,Fiesta ,  1.4 Collection 
+Seat ,Leon ,  1.4 TSI Xcellence 
+Peugeot ,207 ,  1.6 HDi Outdoor 
+Peugeot ,306 ,  2.0 S 16 
+Peugeot ,307 ,  1.6 CC 
+Peugeot ,206 ,  2.0 RC 
+Fiat ,Bravo ,  1.4 T-Jet Active Plus 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Lounge 
+Fiat ,Bravo ,  1.6 Mjet Active Plus 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Panoramic Edition 
+Fiat ,500 Ailesi ,  500L 1.4 Panoramic Edition 
+Fiat ,500 Ailesi ,  500C 1.2 8V Star Dualogic 
+BMW ,5 Serisi ,  520i Business 
+BMW ,5 Serisi ,  520i Touring 
+BMW ,5 Serisi ,  530d M Sport 
+BMW ,5 Serisi ,  530d Touring 
+BMW ,5 Serisi ,  520i Sport Line 
+BMW ,5 Serisi 530i xDrive ,  Luxury Line 
+BMW ,5 Serisi 520d xDrive ,  Executive M Sport 
+BMW ,5 Serisi ,  545i Standart 
+BMW ,5 Serisi ,  525 xDrive Touring Sport 
+BMW ,2 Serisi ,  218i Active Tourer Sport Line 
+Alfa Romeo ,166 ,  2.0 TB 
+Alfa Romeo ,156 ,  2.0 TS Selespeed 
+Alfa Romeo ,MiTo ,  1.4 T MultiAir TCT Sportivo 
+Volkswagen ,Passat Variant ,  1.9 TDI 
+Peugeot ,406 ,  2.0 Coupe 
+BMW ,7 Serisi ,  730i Long Executive Lounge 
+BMW ,7 Serisi ,  745i 
+BMW ,7 Serisi ,  750d xDrive Long Standart 
+Mercedes - Benz ,B Serisi ,  B 180 CDI 180 CDI 
+Mercedes - Benz ,B Serisi ,  B 180 D Progressive  
+Ford ,C-Max ,  2.0 TDCi Titanium 
+Nissan ,200 SX ,  2.0 Turbo 
+Nissan ,Micra ,  1.4 Tekna 
+Chrysler ,Stratus ,  2.0 LX 
+Subaru ,Impreza ,  2.0 GT 
+Subaru ,Impreza ,  1.5 Active 
+Mercedes - Benz ,CLA ,  200 Comfort 
+Mazda ,3 ,  1.6 High 
+Mazda ,3 ,  1.5 SkyActive-G Power Sense 
+Renault ,Clio ,  1.2 SportTourer Icon 
+Hyundai ,Accent ,  1.5 CRDi Active 
+Ford ,Escort ,  1.8 Ghia 
+Fiat ,Punto ,  1.4 Mair Lounge S&S 
+Fiat ,Punto ,  0.9 T 0.9 TwinAir 
+Fiat ,Linea ,  1.4 Turbo Emotion Plus 
+Fiat ,Linea ,  1.6 Multijet Dynamic 
+Ford ,Focus ,  1.8 Comfort 
+Chevrolet ,Lacetti ,  1.4 CDX 
+Fiat ,Egea ,  1.6 Multijet S-Design 
+Fiat ,Egea ,  1.3 Multijet Street  
+Suzuki ,Alto ,  1.1 GLX 
+Citroën ,C-Elysée ,  1.6 BlueHDI Feel 
+Citroën ,Saxo ,  1.5D X 
+Citroën ,C-Elysée ,  1.6 VTi Exclusive 
+Citroën ,C3 1.2 PureTech ,  Feel Bold 
+Volvo ,S40 ,  1.6 R-Design 
+Volvo ,850 ,  2.0 T5 
+Volvo ,S80 ,  2.4 D5 
+Volvo ,960 ,  2.5 
+Volvo ,V60 ,  1.6 T4 T4 
+Volvo ,S70 ,  2.0 T5 
+Citroën ,C1 ,  1.0 SX 
+BMW ,3 Serisi ,  320d xDrive Edition Sport Line 
+BMW ,3 Serisi ,  316i Touring 
+BMW ,3 Serisi ,  318ti Compact 
+Porsche ,Panamera ,  Panamera 4S Diesel 
+Porsche ,911 ,  Carrera 4 
+Opel ,Astra ,  1.3 CDTI EcoFLEX Enjoy 
+Opel ,Astra ,  1.4 T Sport Stil 
+Audi ,A5 ,  A5 Coupe 2.0 TDI Quattro S Line 
+Volkswagen ,Jetta ,  1.4 TSI Tour 
+Renault ,Clio ,  1.6 Night & Day 
+Audi ,A4 ,  A4 Cabrio 1.8 T 
+Audi ,A3 ,  A3 Sedan 1.4 TFSI Attraction 
+Audi ,TT ,  1.8 T Quattro 
+Audi ,A3 ,  A3 Sedan 1.0 TFSI Design Line 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Design  
+Audi ,A4 ,  A4 Avant 1.6 
+Audi ,A3 ,  A3 Hatchback 1.4 TFSI Ambition 
+Mercedes - Benz ,S Serisi ,  S 350 350 L BlueTEC 
+Mercedes - Benz ,S Serisi ,  S 600 600 L 
+Skoda ,Citigo ,  1.0 Ambition 
+Skoda ,Rapid ,  1.4 CR TDI Style 
+Skoda ,Superb ,  1.4 TSI Style  
+Skoda ,Scala ,  1.5 TSI Premium 
+Skoda ,Rapid ,  1.2 TSI GreenTec Spaceback Ambition 
+Kia ,Rio ,  1.4 WGT CRDI Prestige 
+Kia ,Rio ,  1.0 TGDI Prestige 
+Kia ,Cerato ,  1.6 GSL Comfort 
+Skoda ,Felicia ,  1.6 GLXi 
+Kia ,Cerato ,  1.5 CRDi Advance 
+Kia ,Pro Ceed ,  1.6 CRDi Cool 
+Kia ,Rio ,  1.4 WGT CRDI Concept Plus  
+Kia ,Ceed ,  1.6 CRDi Cool SW 
+Hyundai ,i20 Troy ,  1.4 CVVT Prime 
+Hyundai ,Accent Blue 1.4 D-CVVT ,  Prime 
+Ford ,Mondeo ,  1.6 TDCi Selective 
+Renault ,R 19 ,  1.4 RT 
+Volkswagen ,Golf ,  1.4 CL 
+Renault ,Megane ,  1.9 dCi Alize 
+Fiat ,500 Ailesi ,  500 1.2 Anniversario 
+Fiat ,500 Ailesi ,  500 1.2 Sport 
+BMW ,5 Serisi ,  525d xDrive Modern Line 
+BMW ,5 Serisi ,  520i Modern Line 
+BMW ,5 Serisi ,  520i Ultimate Luxury 
+BMW ,5 Serisi ,  525d xDrive Exclusive 
+BMW ,5 Serisi ,  530xd Gran Turismo Premium 
+Seat ,Toledo ,  1.6 Reference 
+Seat ,Ibiza ,  1.4 TDI Reference 
+Seat ,Ibiza ,  1.2 TSI Copa Plus 
+Seat ,Ibiza ,  1.6 Latino 
+Seat ,Leon ,  1.5 EcoTSI Style 
+BMW ,2 Serisi ,  218i Luxury Line 
+Alfa Romeo ,159 ,  1.9 JTD Progression 
+Alfa Romeo ,156 ,  1.6 TS 
+Alfa Romeo ,147 ,  2.0 TS Selespeed Distinctive 
+Seat ,Altea ,  1.6 Style 
+Seat ,Altea ,  1.6 Reference 
+Alfa Romeo ,MiTo ,  1.4 T Distinctive 
+BMW ,7 Serisi ,  740d xDrive Standart 
+BMW ,7 Serisi ,  740d xDrive Long Pure Excellence 
+BMW ,7 Serisi ,  750i xDrive 
+BMW ,7 Serisi ,  730d xDrive M Sport 
+Mercedes - Benz ,B Serisi ,  B 180 Progressive  
+Mercedes - Benz ,B Serisi ,  B 160 Boyut 
+Hyundai ,i30 ,  1.6 CVVT Style Plus 
+Hyundai ,i30 ,  1.4 Blue Drive 
+Hyundai ,i30 ,  1.6 CRDi Blue Drive 
+Chrysler ,Crossfire ,  Roadster 3.2 
+Chrysler ,300 M ,  3.5 
+Subaru ,Legacy ,  2.0 Comfort 
+Volkswagen ,Passat ,  1.5 TSI Comfortline  
+Renault ,Clio ,  1.2 Touchrome 
+Peugeot ,407 ,  2.0 HDi Comfort 
+Peugeot ,407 ,  2.0 HDi GT Line 
+Peugeot ,207 ,  1.6 HDi Active 
+Peugeot ,306 ,  1.8 XT 
+Peugeot ,208 1.2 PureTech ,  Signature 
+Renault ,Clio ,  1.5 dCi Expression Plus 
+Peugeot ,308 ,  1.6 e-HDi Classic Edition Plus 
+Peugeot ,308 ,  1.6 VTi Access 
+Peugeot ,405 ,  1.9 GRi 
+Peugeot ,508 ,  1.6 VTi Access 
+Opel ,Vectra ,  2.0 100. Yýl 
+Peugeot ,206 ,  1.4 Desire 
+Peugeot ,207 ,  1.6 VTi Sportium 
+Peugeot ,107 ,  1.0 Urban Move 
+Peugeot ,307 ,  1.6 Designtech 
+Peugeot ,207 ,  1.6 VTi Active 
+Peugeot ,106 ,  XN 
+Peugeot ,308 ,  1.5 BlueHDI Style Dynamic 
+Mercedes - Benz ,C Serisi ,  C 220 CDI Classic 
+Mercedes - Benz ,C Serisi ,  C 240 Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 63 AMG 
+Mercedes - Benz ,C Serisi ,  C 300 300 
+Mercedes - Benz ,C Serisi ,  C 220 CDI BlueEfficiency Fascination 
+Mercedes - Benz ,C Serisi ,  C 250 BlueEfficiency AMG  
+Mercedes - Benz ,C Serisi ,  C 200 Fascination 
+Volkswagen ,Passat ,  1.4 TSI BlueMotion R Line 
+Volkswagen ,Passat ,  1.6 TD GL 
+Nissan ,Bluebird ,  2.0 SSS 
+Nissan ,Primera ,  2.0 GT 
+Nissan ,Primera ,  1.6 Special 
+Volkswagen ,Passat ,  2.0 FSI Highline 
+Volkswagen ,Passat ,  2.0 TFSI Comfortline 
+Mercedes - Benz ,E Serisi ,  E 220 d Elegance 
+Mercedes - Benz ,E Serisi ,  E 200 200 D 
+Mercedes - Benz ,E Serisi ,  E 200 CDI Classic 
+Mercedes - Benz ,E Serisi ,  E 350 4Matic Edition 
+Mercedes - Benz ,E Serisi ,  E 200 Coupe 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Dynamic 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Elite Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 350 4Matic Elite 
+Mercedes - Benz ,E Serisi ,  E 350 7G-Tronic 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Avantgarde 
+Honda ,Civic ,  1.4 Hybrid 
+Honda ,CR-Z ,  GT 
+Honda ,Civic ,  1.6 VTEC LS Elegance 
+Mercedes - Benz ,E Serisi ,  E 290 TD Classic 
+Mercedes - Benz ,E Serisi ,  E 350 BlueEfficiency Premium 
+Mercedes - Benz ,E Serisi ,  E 280 Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 250 Premium 
+Mercedes - Benz ,E Serisi ,  E 350 CDI BlueTEC Elite 
+Honda ,Prelude ,  2.2 VTi 
+Volkswagen ,Bora ,  1.6 
+Volkswagen ,Bora ,  2.3 Highline 
+Mazda ,323 ,  1.6 GL 
+Mazda ,3 ,  1.5 SkyActive-G Motion 
+Jaguar ,XE R-Dynamic S ,  2.0 D 
+Jaguar ,S-Type ,  2.7 D Classic 
+Jaguar ,X-Type ,  2.1 Executive 
+Jaguar ,XF ,  2.0 Premium Luxury 
+Toyota ,Corolla ,  1.3 Comfort 
+Ford ,Focus ,  1.5 TDCi ST Line 
+Ford ,Focus ,  1.5 Ti-VCT Titanium 
+Toyota ,Corolla 1.2 T ,  Dream X-Pack 
+Hyundai ,Elantra ,  1.8 GT 
+Ford ,Focus ,  1.6 TDCi Comfort 
+Hyundai ,Elantra ,  1.6 Elegance 
+Hyundai ,Elantra ,  2.0 CRDi GLS 
+Hyundai ,Elantra ,  1.6 CRDi Mode 
+Fiat ,Palio ,  1.2 HL Speedgear 
+Fiat ,Linea ,  1.4 Turbo Dynamic Plus 
+Fiat ,Palio ,  1.2 Go 
+Rover ,216 ,  Coupe 
+Rover ,414 ,  SLi 
+Fiat ,Egea ,  1.4 Fire Lounge 
+Renault ,R 9 ,  1.6 Broadway 
+Fiat ,Egea ,  1.6 Multijet Sport 
+Renault ,Scenic ,  1.9 dCi Dynamique 
+Renault ,Scenic ,  1.5 dCi Exception 
+Renault ,Scenic ,  1.5 dCi Dynamique 
+Renault ,Laguna ,  2.0 dCi Sport Emotion 
+Renault ,Laguna ,  2.0 dCi Executive 
+Dacia ,Logan ,  1.0 MCV Ambiance 
+Dacia ,Sandero ,  1.4 Laureate 
+Dacia ,Sandero ,  0.9 TCe Stepway Style  
+Dacia ,Logan ,  1.6 Ambiance 
+Citroën ,Xsara ,  Picasso 1.6 1.6 
+Chevrolet ,Camaro ,  RS 
+Chevrolet ,Cruze ,  1.4 T Sport 
+Citroën ,C3 ,  1.4 SensoDrive 
+Citroën ,C5 ,  1.6 HDi Executive 
+Chevrolet ,Corvette ,  C5 
+Chevrolet ,Cruze ,  1.4 T LTZ 
+Chevrolet ,Corvette ,  C7 
+Citroën ,C4 Picasso ,  1.6 HDi Dynamique 
+Citroën ,Xsara ,  Picasso 1.6 HDI 
+Porsche ,Panamera ,  Panamera GTS 
+Citroën ,C3 ,  1.4 HDi Collection 
+Citroën ,C-Elysée ,  1.6 BlueHDI Shine 
+Citroën ,C4 ,  2.0 VTS 
+Porsche ,Panamera ,  Panamera 4 E-Hybrid 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Luxury Line 
+BMW ,1 Serisi ,  118i One Edition 
+BMW ,4 Serisi ,  428i xDrive M Sport 
+BMW ,4 Serisi ,  420d xDrive Sport Line 
+BMW ,4 Serisi ,  420d xDrive M Sport 
+Opel ,Meriva ,  1.4 T Enjoy 
+Opel ,Meriva ,  1.7 CDTI Enjoy 
+BMW ,1 Serisi ,  118i Sport Line 
+BMW ,1 Serisi ,  118i Sport Plus 
+Peugeot ,206 ,  1.4 HDi Generation 
+Peugeot ,206 ,  1.4 HDi Trendy 
+BMW ,3 Serisi ,  318d 40th Year Edition 
+BMW ,3 Serisi ,  320d xDrive Prestige 
+BMW ,3 Serisi ,  320d xDrive Sport Plus 
+Opel ,Astra ,  2.0 T GTC Sport 
+BMW ,3 Serisi ,  320d xDrive Premium Line 
+BMW ,3 Serisi ,  325tds Standart 
+BMW ,3 Serisi ,  330xd Standart 
+Opel ,Astra ,  1.4 Start 
+Volvo ,V40 ,  1.8 
+Volvo ,C30 ,  1.6 D R-Design 
+Volvo ,S80 ,  2.4 D5 VIP 
+Volvo ,S40 ,  2.5 T5 
+Volvo ,S60 ,  2.0 T Sports 
+Volvo ,V50 ,  1.6 D Drive 
+Volvo ,C70 ,  2.0 D Premium 
+Volvo ,S60 ,  2.0 D R-Design 
+Audi ,A6 ,  A6 Avant 2.0 TDI Quattro Design  
+Audi ,A4 ,  A4 Sedan 2.0 TFSI Quattro S Line 
+Audi ,A3 ,  A3 Hatchback 1.9 TDI Attraction 
+Audi ,TT ,  2.0 TFSI S Quattro 
+Audi ,A8 ,  4.2 Quattro Long 
+Audi ,A3 ,  A3 Sportback 1.5 TFSI Design Line 
+Mini ,John Cooper ,  1.6 Works Countryman 
+Mini ,Cooper S ,  1.6 Roadster 
+Mini ,Cooper ,  1.5 Pure 
+Audi ,A3 ,  A3 Sportback 1.5 TFSI Sport Line 
+Mercedes - Benz ,S Serisi ,  S 65 AMG 
+Audi ,A3 ,  A3 Sedan 1.5 TFSI Design Line 
+Audi ,A3 ,  A3 Cabrio 1.5 TFSI Sport Line 
+Mercedes - Benz ,S Serisi ,  S 300 300 
+Audi ,A3 ,  A3 Sedan 1.2 TFSI Ambition 
+Mercedes - Benz ,CLS ,  250 CDI Bluetec 4Matic 
+Mercedes - Benz ,A Serisi ,  A 160 160 
+Mercedes - Benz ,A Serisi ,  A 170 CDI Classic 
+Mercedes - Benz ,A Serisi ,  A 170 CDI Avantgarde 
+Kia ,Sephia ,  1.6 SLX 
+Kia ,Carens ,  2.0 CRDi CRDi 
+Kia ,Rio ,  1.4 GSL Trend 
+Kia ,Ceed ,  1.6 CRDi Comfort SW 
+Kia ,Venga ,  1.6 CRDi Panaroma Plus 
+Kia ,Venga ,  1.6 Panaroma 
+Kia ,Carnival ,  2.9 TD Premium 
+Kia ,Pride ,  1.3 GLXi 
+Kia ,Pro Ceed ,  1.6 CRDi Cool Plus 
+Kia ,Rio ,  1.4 WGT CRDI Comfort 
+Kia ,Pride ,  1.3 
+Kia ,Ceed ,  1.6 Concept 
+Kia ,Capital ,  1.5 GLX 
+Kia ,Ceed ,  1.4 Live 
+Volkswagen ,Jetta ,  1.6 GL 
+Volkswagen ,Jetta ,  1.6 Exclusive 
+Volkswagen ,Beetle ,  1.2 TSI Style 
+Toyota ,Avensis 1.6 D-4D ,  Premium 
+Ford ,Fiesta ,  1.6 Sport 
+Skoda ,Fabia ,  1.2 TSI Ambiente 
+Skoda ,Fabia ,  1.4 Scout 
+Skoda ,Forman ,  Silverline 
+Skoda ,Roomster ,  1.2 
+Skoda ,Roomster ,  1.4 Style 
+Skoda ,Roomster ,  1.6 
+Skoda ,Superb ,  1.5 TSI Comfort 
+Skoda ,Rapid ,  1.2 TSI Spaceback Elegance 
+Skoda ,Fabia ,  1.4 TDI Elegance 
+Volkswagen ,Golf ,  1.4 TSI Allstar 
+Volkswagen ,Golf ,  2.0 TDI Comfortline 
+Fiat ,Bravo ,  1.6 Mjet Easy 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Bi-Color 
+BMW ,5 Serisi ,  520d Gran Turismo M Sport 
+BMW ,5 Serisi ,  535d Standart 
+Renault ,Megane ,  1.6 dCi GT-Line 
+BMW ,5 Serisi ,  530i M Sport 
+BMW ,5 Serisi ,  530 xDrive Standart 
+Renault ,Megane ,  1.4 T Sport Tourer Privilege 
+Renault ,Megane ,  1.6 Icon 
+Audi ,A3 ,  A3 Sportback 1.2 TFSI Ambiante 
+BMW ,2 Serisi ,  218i Sport Line  
+BMW ,2 Serisi ,  216d Active Tourer M Sport 
+Volkswagen ,Passat Variant ,  2.0 GT 
+Volkswagen ,Passat Variant ,  1.4 TSI BlueMotion Highline 
+Volkswagen ,Passat Variant ,  1.9 TDI Comfortline 
+Seat ,Cordoba ,  1.4 TDI Basic 
+BMW ,7 Serisi ,  730d Long Comfort 
+BMW ,7 Serisi ,  730d xDrive Standart 
+BMW ,7 Serisi ,  725d Long M Sport 
+Seat ,Toledo ,  1.4 TSI Style 
+Seat ,Ibiza ,  1.9 TDI FR 
+Seat ,Ibiza ,  1.4 Stylance 
+Seat ,Cordoba ,  1.9 TDI Signo 
+Hyundai ,i30 ,  1.6 CRDi Sports 
+Hyundai ,i30 ,  1.6 CVVT Style 
+Tata ,Indigo ,  1.4 MPFI Comfort 
+Chrysler ,PT Cruiser ,  2.0 Limited 
+Chrysler ,Sebring ,  2.7 LX 
+Subaru ,BRZ ,  2.0R Premium 
+Renault ,Clio ,  1.2 Night & Day 
+Renault ,Clio ,  1.6 RS 
+Renault ,Clio ,  1.5 BlueDCI Touch 
+Opel ,Vectra ,  1.6 Edition 
+Peugeot ,508 ,  1.5 BlueHDi Allure Dynamic 
+Peugeot ,308 ,  1.6 VTi Active 
+Peugeot ,308 ,  1.6 HDi Premium Plus 
+Peugeot ,307 ,  1.6 HDi Designtech 
+Peugeot ,207 ,  1.4 HDi Sportium 
+Peugeot ,306 ,  1.6 XT 
+Opel ,Corsa ,  1.2 Dynamic 
+Peugeot ,607 ,  3.0 Standart 
+Peugeot ,508 ,  2.0 HDi Active 
+Peugeot ,508 ,  1.6 VTi Active 
+Peugeot ,508 ,  1.6 BlueHDi Business 
+Peugeot ,308 ,  1.2 Puretech Access 
+Peugeot ,205 ,  1.4 GR 
+Peugeot ,407 ,  2.2 Executive 
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Sport 
+Volkswagen ,Passat ,  1.6 FSI Exclusive 
+Volkswagen ,Passat ,  2.0 GL 
+Hyundai ,Accent Era ,  1.4 Select Expo Gold 
+Hyundai ,Accent Era ,  1.6 Expo Platinyum 
+Nissan ,Almera ,  1.8 Luxury 
+Honda ,Civic ,  1.5 LS 
+Mercedes - Benz ,E Serisi ,  E 280 280 
+Mercedes - Benz ,E Serisi ,  E 230 Elegance 
+Toyota ,Corolla ,  1.6 GLi Liftback 
+Mazda ,3 ,  1.6 Sport Comfort 
+Mazda ,323 ,  1.8 Familia 
+Mazda ,323 ,  1.8 F Astina 
+Jaguar ,XF ,  3.0 D Premium Luxury 
+Hyundai ,i20 ,  1.4 MPI Style Design 
+Ford ,Focus ,  1.6 Gold Collection 
+Hyundai ,Accent ,  1.5 GLX 
+Hyundai ,Accent ,  1.3 LX Allegro 
+Rover ,45 ,  2.0 Club 
+Ford ,Escort ,  1.8 XR3i 
+Renault ,Scenic ,  1.5 dCi Expression 
+Renault ,Scenic ,  2.0 Privilege 
+Fiat ,Egea ,  1.6 E-Torq Mirror 
+Fiat ,Linea ,  1.4 Turbo Active Plus 
+Citroën ,C4 Picasso ,  1.6 BlueHDi Feel 
+Mercedes - Benz ,CLA ,  200 Style 
+BMW ,1 Serisi ,  116d First Edition Luxury Line 
+BMW ,3 Serisi ,  320d xDrive Premium 
+Mitsubishi ,Colt ,  1.3 Invite CZ3 AMT 
+Suzuki ,Swift ,  1.0 GLS 
+Suzuki ,Swift ,  1.0 GA 
+Suzuki ,SX4 ,  1.6 DDIS GL 
+Mitsubishi ,Lancer ,  1.8 Intense 
+Mitsubishi ,Space Star ,  1.6 
+Mitsubishi ,Attrage ,  1.2 Intense Plus 
+Toyota ,Yaris ,  1.0 Active 
+Mini ,Cooper S ,  1.6 Paceman 
+Audi ,A3 ,  A3 Cabrio 1.5 TFSI Design  
+Volvo ,V40 Cross Country ,  1.6 D Advance 
+Ford ,Mondeo ,  2.0 Selective 
+Renault ,R 19 ,  1.8 1.8 Cabriolet 
+Volkswagen ,Golf ,  1.4 Edition 
+Skoda ,Octavia ,  1.6 Active 
+Skoda ,Octavia ,  2.0 TDI CR RS 
+Skoda ,Octavia ,  1.8 SLX 
+Alfa Romeo ,Giulietta ,  1.4 TB MultiAir Super TCT 
+BMW ,7 Serisi ,  730i Standart 
+Seat ,Ibiza ,  1.4 TSI Sport Coupe FR 
+Seat ,Ibiza ,  1.6 SXE 
+Seat ,Ibiza ,  1.4 Sport 
+Subaru ,Legacy ,  2.0 
+Subaru ,Impreza ,  1.5 Elegance 
+Opel ,Corsa ,  1.5 D Edition 
+Volkswagen ,Passat ,  1.8 CL 
+Peugeot ,207 ,  1.6 VTi Dynamic 
+Peugeot ,307 ,  1.4 HDi Profil 
+Peugeot ,206 ,  1.4 HDi Sporty 
+Nissan ,Altima ,  2.0 Laurel 
+Nissan ,NX Coupe ,  1.6 
+Renault ,Megane ,  1.9 dCi Dynamique 
+Opel ,Astra ,  1.6 T Sport 
+BMW ,3 Serisi ,  316i Exclusive 
+BMW ,3 Serisi ,  318d Prestige 
+BMW ,4 Serisi ,  428i Sport Line 
+Suzuki ,Liana ,  1.6 GLX 
+Suzuki ,Baleno ,  1.6 GLX 
+Mini ,Cooper Clubman ,  1.5 D One Signature 
+Audi ,100 Serisi ,  2.5 TDI 
+Volvo ,C70 ,  2.5 
+Volvo ,V50 ,  1.6 D Premium 
+Renault ,R 19 ,  1.6 Europa RTE 
+Fiat ,500 Ailesi ,  500C 1.2 Cult 
+Skoda ,Favorit ,  1.4 Sportline 
+BMW ,5 Serisi ,  530d Exclusive 
+BMW ,5 Serisi 520d xDrive ,  M Sport 
+BMW ,5 Serisi 530i xDrive ,  Special Edition M Sport  
+Toyota ,Avensis ,  2.0 D-4D Premium 
+Skoda ,Roomster ,  1.4 TDI 
+Skoda ,Roomster ,  1.2 Panorama 
+Skoda ,Octavia ,  1.6 GLX 
+Alfa Romeo ,75 ,  2.0 Twin Spark 
+Volkswagen ,Passat Variant ,  1.6 CL 
+Renault ,R 11 ,  GTL 
+Ford ,C-Max 1.5 ,  Titanium 
+Seat ,Toledo ,  1.9 TDI SXE 
+Renault ,Megane ,  1.6 Cabrio Cabrio 
+Renault ,Megane ,  1.9 dCi Expression 
+Renault ,Clio ,  1.8 RSi 
+Opel ,Vectra ,  1.7 TD GLS 
+Volkswagen ,Passat ,  1.8 T Basic 
+Mercedes - Benz ,C Serisi ,  C 200 200 
+Peugeot ,206 + ,  1.4 Sportium 
+Peugeot ,607 ,  2.2 Executive 
+Honda ,Shuttle ,  2.3 ES 
+Volkswagen ,Bora ,  1.9 TDI Pacific 
+Honda ,Civic ,  1.4 S Euro Civic 
+Nissan ,Primera ,  2.0 Elegance 
+Nissan ,Primera ,  1.8 Luxury 
+Mercedes - Benz ,E Serisi ,  E 300 TD Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 300 DE 4Matic 
+Hyundai ,i20 ,  1.4 CVVT Style 
+Rover ,25 ,  1.6 Club 
+Rover ,75 ,  2.5 CDTi Club 
+Rover ,200 ,  Vi 
+Mazda ,6 ,  2.0 
+Mazda ,6 ,  2.0 Dynamic 
+Renault ,Scenic ,  1.5 dCi Conquest 
+Renault ,Laguna ,  1.6 
+Jaguar ,S-Type ,  3.0 Sport 
+Jaguar ,Daimler ,  4.0 
+Jaguar ,X-Type ,  2.2 D Executive 
+Jaguar ,F-Type ,  3.0 S Plus 
+Jaguar ,X-Type ,  2.5 Executive 
+Hyundai ,i20 ,  1.2 MPI Elite Smart 
+Fiat ,Egea ,  1.6 E-Torq Urban Plus 
+Hyundai ,Accent ,  1.5 CRDi LS 
+Porsche ,911 ,  Carrera 2 
+Porsche ,Boxster ,  Boxster 
+Opel ,Astra ,  1.7 DTI Sport 
+Citroën ,C5 ,  1.6 THP Exclusive 
+Citroën ,C5 ,  2.2 HDi SX 
+BMW ,3 Serisi ,  320si 
+BMW ,3 Serisi ,  320d xDrive GT Techno Plus 
+BMW ,3 Serisi ,  320d xDrive Edition M Sport 
+BMW ,3 Serisi ,  330i M Sport 
+BMW ,3 Serisi ,  320d xDrive GT Modern Line 
+Dacia ,Logan ,  1.4 
+Renault ,R 19 ,  1.9 RN 
+Mercedes - Benz ,A Serisi ,  A 140 Classic 
+Kia ,Pro Ceed ,  1.6 GDI GT 
+Hyundai ,i20 Troy ,  1.4 CVVT Team 
+Hyundai ,i20 Troy ,  1.4 CRDi Prime 
+Audi ,A4 ,  A4 Avant 1.8 T 
+Audi ,S Serisi ,  S8 4.0 TFSI Quattro 
+BMW ,4 Serisi ,  420d Luxury Line 
+Audi ,A8 ,  1997
+BMW ,4 Serisi ,  428i Luxury Line 
+BMW ,4 Serisi ,  428i xDrive Sport Line 
+BMW ,4 Serisi ,  430i xDrive M Sport 
+Audi ,A3 ,  A3 Sportback 1.0 TFSI Standart 
+Audi ,A4 ,  A4 Avant 2.4 
+BMW ,1 Serisi ,  120d 
+BMW ,1 Serisi ,  116d Comfort 
+BMW ,1 Serisi ,  116i Pure 
+BMW ,1 Serisi ,  116i Advantage 
+BMW ,1 Serisi ,  116d ED Joy 
+BMW ,1 Serisi ,  118d 
+Audi ,A5 ,  A5 Sportback 3.0 TDI Quattro 
+Volkswagen ,Passat ,  1.4 TSI Highline 
+Audi ,A3 ,  A3 Hatchback 1.2 TFSI Attraction 
+Audi ,A4 ,  A4 allroad quattro 2.0 TFSI 
+Audi ,A3 ,  A3 Cabrio 1.8 TFSI 
+Suzuki ,S-Cross ,  1.6 GLX 
+Audi ,A6 ,  A6 allroad quattro 3.0 TDI 
+Ford ,Mondeo ,  1.5 Ecoboost Style 
+Audi ,A8 ,  4.2 Quattro 
+Toyota ,Yaris ,  1.3 Sol Special 
+Toyota ,Yaris ,  1.33 Style Skypack  
+Toyota ,Yaris ,  1.33 Style Red Skypack 
+Toyota ,Yaris ,  1.3 Blue 
+Peugeot ,206 ,  1.4 HDi Premium 
+Peugeot ,206 ,  1.6 Sport 
+Volvo ,V60 ,  1.6 D Advance 
+Volvo ,440 ,  1.7 Turbo 
+Volvo ,S60 ,  1.6 R-Design 
+Volvo ,340 ,  GL 
+Volvo ,S80 ,  1.6 D Premium 
+Volvo ,S80 ,  1.6 T4 Premium 
+Volvo ,S40 ,  2.0 D 
+Volvo ,S60 ,  2.3 T5 
+Fiat ,500 Ailesi ,  500 1.2 Cult 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet Lounge 
+BMW ,5 Serisi ,  535i 
+Volkswagen ,Polo ,  1.4 Primeline 
+BMW ,5 Serisi ,  520d Gran Turismo Luxury Line 
+Alfa Romeo ,Giulietta ,  1.6 JTD Progression 
+Alfa Romeo ,Giulietta ,  1.6 JTD Super TCT 
+Alfa Romeo ,GT ,  2.0 JTS Distinctive 
+Alfa Romeo ,Giulietta ,  1.6 JTD Sprint 
+Volkswagen ,Passat Variant ,  1.6 TDI BlueMotion Highline 
+BMW ,7 Serisi ,  725d Pure Excellence 
+Volkswagen ,Golf ,  1.6 Goal 
+BMW ,7 Serisi ,  750i Long 
+BMW ,7 Serisi ,  725d M Sport 
+Mercedes - Benz ,B Serisi ,  B 180 BlueEfficiency Style 
+Volkswagen ,Jetta ,  1.8 CL 
+Tata ,Vista ,  1.3 TDI Mystic  
+Chrysler ,Sebring ,  2.0 CRD Limited 
+Peugeot ,301 ,  1.6 VTi Allure 
+Toyota ,Auris ,  1.4 D-4D Class 
+Toyota ,Auris ,  1.4 D-4D Touch Skypack 
+Renault ,Clio ,  1.2 RN 
+Seat ,Leon ,  1.4 TSI Reference 
+Seat ,Cordoba ,  1.6 SE 
+Seat ,Cordoba ,  1.4 Elegance 
+Seat ,Leon ,  2.0 TFSI Sport Up 
+Renault ,Clio ,  1.2 Grandtour Authentique 
+Skoda ,Fabia ,  1.4 TDI Style 
+Renault ,Clio ,  2.0 Renault Sport 
+Renault ,Clio ,  1.6 Expression 
+Skoda ,Roomster ,  1.4 Panorama 
+Renault ,Megane ,  1.5 dCi Sport Edition 
+Volkswagen ,Passat ,  2.0 Trendline 
+Renault ,Megane ,  2.0 CC Privilege 
+Volkswagen ,Passat ,  1.8 TSI Exclusive 
+Opel ,Corsa ,  1.0 Enjoy 
+Mercedes - Benz ,C Serisi ,  C 250 TD Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. BlueEfficiencyStart 
+Mercedes - Benz ,C Serisi ,  C 250 CDI Enerji 
+Mercedes - Benz ,C Serisi ,  C 270 CDI Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 240 Elegance 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Sport 
+Renault ,Fluence ,  1.6 dCi Icon 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. Elegance 
+Honda ,Civic 1.6i DTEC ,  Comfort 
+Toyota ,Corolla ,  1.6 Comfort Verso 
+Toyota ,Corolla ,  1.8 Hybrid Flame 
+Toyota ,Corolla ,  1.6 XEi Family 
+Peugeot ,308 ,  1.6 VTi Millesim 
+Peugeot ,607 ,  3.0 Pack 
+Peugeot ,206 ,  1.4 Executive 
+Peugeot ,407 ,  3.0 Premium 
+Peugeot ,206 ,  2.0 HDi 2.0 HDi Premium 
+Peugeot ,407 ,  2.0 HDi Executive 
+Peugeot ,308 ,  1.6 THP Sportium 
+Peugeot ,207 ,  1.6 THP GT CC 
+Peugeot ,308 ,  1.6 THP Premium Pack 
+Opel ,Insignia ,  1.6 CDTI Grand Sport 120.Yýl 
+Opel ,Insignia ,  1.6 CDTI Sports Tourer Cosmo 
+Rover ,75 ,  1.8 Club 
+Renault ,R 9 ,  1.4 TX 
+Nissan ,Pulsar ,  1.2 Visia 
+Renault ,Laguna ,  1.6 Authentique 
+Renault ,Laguna ,  3.0 Privilege 
+Mercedes - Benz ,E Serisi ,  E 63 AMG 
+Mercedes - Benz ,E Serisi ,  E 230 Classic 
+Mercedes - Benz ,E Serisi ,  E 500 Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 250 CGI BlueEfficiency Elegance 
+Fiat ,Palio ,  1.2 Feel 
+Mercedes - Benz ,CLA ,  45 S AMG 
+Mazda ,3 ,  1.6 Sport CE 
+Mazda ,323 ,  1.8 GT 
+Porsche ,Panamera ,  Panamera 4 Sport Turismo  
+Jaguar ,XF ,  3.0 D Luxury 
+Jaguar ,XJ ,  2.0 Premium 
+Jaguar ,XF ,  2.0 R-Sport Plus 
+Hyundai ,i20 ,  1.4 CVVT Tune 
+Opel ,Astra ,  1.6 Coupe 
+Hyundai ,Elantra ,  2.0 GLS 
+Mitsubishi ,Lancer ,  1.8 GLD 
+Hyundai ,Elantra ,  1.6 D-CVVT Mode 
+Fiat ,Punto ,  1.3 Multijet Urban 
+BMW ,3 Serisi ,  316i Lifestyle Edition 
+BMW ,3 Serisi ,  318tds Standart 
+Mini ,Cooper ,  1.6 Paceman 
+Mini ,Cooper ,  1.6 D Türkiye Paketi 
+BMW ,3 Serisi ,  320i ED Luxury M Plus 
+Mercedes - Benz ,S Serisi ,  S 350 350 L BlueEfficiency 
+Kia ,Rio ,  1.4 CVVT Elegance Tekno 
+Kia ,Rio ,  1.4 WGT CRDI Elegance 
+Kia ,Rio ,  1.4 CVVT Elegance  
+Kia ,Cerato ,  1.6 EX Advance 
+Kia ,Venga ,  1.4 CRDi TX 
+Kia ,Picanto ,  1.25 MPI Comfort 
+Kia ,Rio ,  1.3 Comfort 
+Kia ,Ceed ,  1.6 GDI Comfort 
+Audi ,A1 ,  1.4 TFSI Ambition 
+Audi ,A3 ,  A3 Hatchback 2.0 TDI Ambition 
+Audi ,A4 ,  A4 Avant 1.9 TDI 
+Ford ,Mondeo ,  1.8 TDCi Ghia 
+Ford ,Mondeo ,  2.0 Titanium 
+Audi ,A5 ,  A5 Sportback 1.8 TFSI 
+Chevrolet ,Lacetti ,  1.4 WTCC 
+Ford ,Fiesta ,  1.1 Titanium X  
+Ford ,Fiesta ,  1.4 Ghia 
+BMW ,4 Serisi ,  428i xDrive Gran Coupe Luxury Line 
+BMW ,4 Serisi ,  418i Sport Line 
+BMW ,1 Serisi ,  118i One Edition M 
+Hyundai ,i10 ,  1.2 D-CVVT Star 
+Mitsubishi ,Carisma ,  1.8 GDI L 
+Fiat ,Bravo ,  1.9 JTD 
+BMW ,5 Serisi ,  540i Standart 
+Volvo ,V70 ,  2.5 T Momentum 
+Volvo ,V50 ,  1.6 D 1.6 D  
+Volvo ,V50 ,  1.6 D Dynamic 
+Volvo ,S60 ,  2.0 T R-Design 
+Volvo ,V50 ,  1.6 D Prime 
+Volvo ,C70 ,  2.0 T 
+Volvo ,C30 ,  1.6 Premium 
+Volvo ,V70 ,  2.4 D5 Premium 
+Volvo ,S40 ,  2.0 D Prime 
+Volkswagen ,Golf ,  1.4 TSI Pulse 
+Volkswagen ,Golf ,  1.8 
+Renault ,Latitude ,  2.0 dCi Privilege 
+Volkswagen ,Polo ,  1.9 TDI 
+Subaru ,Impreza ,  2.5 WRX STI 
+Subaru ,Legacy ,  2.0 GL 
+Seat ,Ibiza ,  1.8 GLX 
+Seat ,Ibiza ,  1.2 TSI Sport Coupe Sport 
+Seat ,Ibiza ,  1.6 Elegance 
+Seat ,Leon ,  1.4 TSI Copa Plus 
+Skoda ,Superb ,  2.8 Elegance 
+Skoda ,Roomster ,  1.2 Dinamik 
+Renault ,Megane ,  1.6 Sport Tourer Expression 
+Renault ,Megane ,  1.9 D RN 
+Mercedes - Benz ,C Serisi ,  C 200 Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 200 Sport 
+Toyota ,Corolla ,  1.6 Linea Luna 
+Toyota ,Corolla ,  1.6 Linea 
+Toyota ,Corolla ,  1.6 Sport 
+Honda ,Accord ,  3.0 
+Peugeot ,405 ,  1.8 SR 
+Peugeot ,RCZ ,  1.6 THP Asphalt 
+Renault ,Laguna ,  1.6 RXT 
+Renault ,Laguna ,  1.9 dCi Dynamique 
+Nissan ,Note ,  1.5 dCi Tekna Pack 
+Mercedes - Benz ,E Serisi E 200 d ,  E 200 d 
+Mazda ,323 ,  1.3 1.3i 
+Mazda ,6 ,  2.0 CD CE 
+Jaguar ,XJ ,  3.0 D Premium 
+Citroën ,C2 ,  1.4 HDi X Pack 
+Hyundai ,i20 ,  1.4 CVVT Elite 
+Kia ,Ceed ,  1.6 CRDi Motion SW 
+Fiat ,Punto ,  1.2 Dynamic 
+Ford ,Fiesta ,  1.0 GTDi Black 
+Chevrolet ,Spark ,  0.8 LS 
+Mitsubishi ,Colt ,  1.5 Instyle 
+BMW ,2 Serisi ,  216d Gran Tourer Gran Tourer 
+BMW ,7 Serisi ,  735i 
+Mercedes - Benz ,B Serisi ,  B 180 CDI BlueEfficiency Sport 
+Volvo ,S80 ,  2.4 D5 Advance 
+Volkswagen ,Polo ,  1.6 Trendline Classic 
+Renault ,Fluence ,  1.5 dCi Elegance 
+Peugeot ,207 ,  1.4 VTi Active 
+Renault ,Laguna ,  2.0 dCi Dynamique 
+Opel ,Astra ,  1.7 CDTI Enjoy 
+Jaguar ,XKR ,  4.2 
+Citroën ,C4 ,  1.6 Collection 
+Mini ,Cooper ,  2.0 John Cooper Works Iconic  
+Citroën ,C6 ,  2.7 HDi 
+Mercedes - Benz ,A Serisi ,  A 170 Special Edition 
+Hyundai ,i20 Troy ,  1.4 CRDi Start 
+BMW ,3 Serisi ,  330Cd 
+BMW ,3 Serisi ,  320d xDrive Edition Luxury Line 
+Ford ,Mondeo ,  1.6 GLX 
+Audi ,A3 ,  A3 Hatchback 1.8 T Ambition 
+Audi ,A3 ,  A3 Sportback 1.9 TDI 1.9 TDI 
+Fiat ,500 Ailesi ,  500 1.3 Mjet Lounge 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet RockStar 
+Alfa Romeo ,GT ,  2.0 JTS Dis.Selespeed 
+Volkswagen ,Passat Variant ,  1.5 TSI Business 
+BMW ,7 Serisi ,  730d xDrive Long Executive Lounge 
+Mercedes - Benz ,B Serisi ,  B 180 CDI Boyut 
+Suzuki ,Alto ,  0.8 GL 
+Hyundai ,i30 ,  1.6 GDi Style Desing Pack 
+Tata ,Vista ,  1.3 TDI Quadrojet  
+Volkswagen ,Golf ,  1.6 Midline Plus 
+Volkswagen ,Golf ,  1.8 4motion 
+Volvo ,S40 ,  1.6 Prime 
+Volvo ,S60 ,  2.0 D 
+Renault ,Clio ,  1.5 dCi Tom Tom Edition 
+Volkswagen ,Polo ,  1.4 Comfortline Classic 
+Seat ,Leon ,  2.0 TDI Stylance 
+Seat ,Ibiza ,  1.9 TDI Signo 
+Seat ,Toledo ,  2.0 GLX 
+Seat ,Cordoba ,  1.9 TDI Stella 
+Skoda ,Superb ,  1.8 TSI Elegance 
+Skoda ,Scala ,  1.0 TSI Elite 
+Skoda ,Roomster ,  1.6 CR TDI Active 
+Renault ,Megane ,  1.4 T Dynamique 
+Hyundai ,Accent Era ,  1.6 Mode 
+Honda ,Civic ,  1.6i VTEC ES 
+Honda ,Stream ,  2.0 Si 
+Honda ,Accord ,  2.0 S 
+Honda ,Concerto 1.6 ,  1993
+Honda ,Civic ,  1.6i VTEC Eco Dream 
+Rover ,75 ,  2.0 Club 
+Rover ,216 ,  Cabrio 
+Peugeot ,308 ,  1.6 HDi Sportium 
+Peugeot ,307 ,  1.6 Base 
+Opel ,Astra ,  1.9 CDTI Caravan 
+Opel ,Astra ,  1.6 Expression 
+Peugeot ,208 ,  1.6 THP Allure 
+Peugeot ,207 ,  1.4 HDi Allure 
+Peugeot ,206 + ,  1.4 HDi Sportium 
+Peugeot ,RCZ ,  1.6 THP Evolution 
+Opel ,Astra ,  1.6 CDTI Dynamic Elite 
+Peugeot ,207 ,  1.6 VTi Allure 
+Opel ,Astra ,  1.7 DTI GL 
+Opel ,Insignia ,  2.0 T Sports Tourer Cosmo 
+Nissan ,Almera ,  2.0 D GX 
+Mercedes - Benz ,S Serisi ,  S 420 420 L 
+Nissan ,Primera ,  1.6 
+Mercedes - Benz ,CLS ,  53 AMG 
+Kia ,Rio ,  1.4 WGT CRDI Concept 
+Kia ,Rio ,  1.5 Trend 
+Kia ,Rio ,  1.5 Luxury 
+Kia ,Opirus ,  3.5 V6 
+Kia ,Cerato ,  1.6 MPI Concept 
+Mercedes - Benz ,E Serisi ,  E 300 CGI AMG 
+Mercedes - Benz ,E Serisi ,  E 350 CDI Elegance 
+Citroën ,Xsara ,  2.0 VTS 
+Mercedes - Benz ,E Serisi ,  E 300 Avantgarde 
+Citroën ,Xantia ,  2.0 SX 
+Mazda ,MX ,  MX-5 1.6 
+Mazda ,Premacy ,  1.8 
+Mazda ,323 ,  1.8 TE 
+Mazda ,3 ,  1.5 SkyActive-D Power 
+Mazda ,MPV ,  3.0i V6 
+BMW ,3 Serisi ,  328i M Sport 
+Ford ,Fiesta ,  1.6 TDCi Comfort 
+Hyundai ,i20 ,  1.4 MPI Coupe 
+Fiat ,Uno ,  60 SX 
+Hyundai ,Accent ,  1.3 GLS Active 
+Fiat ,Bravo ,  1.4 T-Jet Sport Style 
+Fiat ,500 Ailesi ,  500 1.2 8V RockStar Dualogic 
+BMW ,5 Serisi ,  530i Prestige 
+Audi ,A5 ,  A5 Cabrio 2.0 TFSI Quattro 
+Audi ,80 Serisi ,  1.8 
+Audi ,A7 ,  3.0 TFSI 
+BMW ,5 Serisi ,  530i Executive Sport  
+Ford ,Escort ,  1.4 CLX 
+Ford ,Escort ,  1.8 Fun 
+BMW ,5 Serisi ,  525tds Standart 
+BMW ,5 Serisi ,  530i Executive Luxury 
+Alfa Romeo ,Brera ,  2.2 JTS Sky Window 
+Volkswagen ,Passat Variant ,  1.6 GL 
+Fiat ,Linea ,  1.4 Fire Mood 
+Mercedes - Benz ,B Serisi ,  B 180 BlueEfficiency Urban 
+Dacia ,Lodgy ,  1.6 SCE Ambiance 
+Chevrolet ,Cruze ,  1.4 T LT 
+Chevrolet ,Aveo ,  1.2 SX 
+BMW ,4 Serisi ,  418i Standart 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Modern Line 
+BMW ,1 Serisi ,  118i Urban Line 
+Mitsubishi ,Eclipse ,  2.0 
+Toyota ,Auris ,  1.6 Sport 
+Seat ,Alhambra ,  1.9 TDI 
+Seat ,Cordoba ,  1.4 Stylance 
+Seat ,Leon ,  1.9 TDI Style 
+Volkswagen ,Passat ,  2.0 TDI Sportline 
+Seat ,Ibiza ,  1.6 Style 
+Seat ,Ibiza ,  1.4 Copa Plus 
+Volvo ,S60 ,  2.0 T Business 
+Toyota ,Corolla ,  1.6 XEi Special Limited 
+Opel ,Vectra ,  1.9 CDTI Design 
+Opel ,Corsa ,  1.3 CDTI Black&White 
+Opel ,Corsa ,  1.5 D Dynamic 
+Mercedes - Benz ,C Serisi ,  C 200 D Sport 
+Skoda ,Rapid ,  1.6 CR TDI Spaceback Ambition 
+Skoda ,Octavia ,  1.6 Business 
+Skoda ,Fabia ,  1.6 TDI Combi Scout 
+Skoda ,Octavia ,  2.0 TDI RS 
+Renault ,Megane ,  1.6 CC Dynamique 
+Renault ,Megane ,  2.0 T Sport 
+Opel ,Astra ,  1.6 CDX 
+Renault ,Megane ,  1.6 GT Line 
+Renault ,Megane ,  1.6 dCi GT-Line Energy 
+Mini ,Cooper Electric ,  SE Classic 
+Mini ,Cooper Electric ,  SE Signature 
+Mercedes - Benz ,CLS ,  63 AMG 
+Kia ,Carens ,  2.0 CRDi EX 
+Kia ,Rio ,  1.4 CVVT Cool  
+Ford ,Fiesta ,  1.8 D C 
+Peugeot ,RCZ ,  1.6 THP R 
+Peugeot ,206 ,  1.4 Generation 
+BMW ,3 Serisi ,  328i xDrive 
+BMW ,2 Serisi ,  218d Active Tourer M Sport 
+Ford ,Focus ,  1.0 EcoBoost GTDi ST Line 
+Mercedes - Benz ,B Serisi ,  B 150 150 
+Opel ,Insignia ,  1.6 CDTI Sports Tourer Exclusive 
+Mercedes - Benz ,B Serisi ,  B 180 D Style  
+Renault ,Talisman ,  1.5 dCi Icon 
+Fiat ,Palio ,  1.6 Sporting 
+Chrysler ,300 C ,  6.1 SRT 
+Mazda ,2 ,  1.3 Mid 
+Jaguar ,XF ,  3.0 Luxury  
+Citroën ,Xsara ,  1.9 TD SX 
+Citroën ,C1 ,  1.0 Confort 
+Citroën ,Xantia ,  2.0 2.0i 
+Fiat ,Linea ,  1.6 Multijet Easy 
+Audi ,A3 ,  A3 Sportback 1.0 TFSI Design Line 
+Audi ,A5 ,  A5 Sportback 2.0 TFSI 
+Audi ,A3 ,  A3 Sportback 3.2 Ambition Quattro 
+Audi ,A5 ,  A5 Sportback 2.0 TFSI Quattro Sport 
+BMW ,4 Serisi ,  430i xDrive Ultimate M Sport 
+Volvo ,S70 ,  2.0 
+Volvo ,V70 ,  2.0 D3 
+Toyota ,Auris ,  1.6 Blue 
+Seat ,Ibiza ,  1.6 TDI Reference 
+Seat ,Alhambra ,  2.0 TSI Style 
+Seat ,Toledo ,  1.6 GL 
+Seat ,Leon ,  2.0 TSI Cupra 
+Porsche ,Boxster ,  S 
+Porsche ,Panamera ,  Panamera Turbo 
+Renault ,Symbol ,  1.2 SL Collection 
+Volkswagen ,Beetle ,  2.0 Diamond 
+Skoda ,Fabia ,  1.9 TDI Ambiente 
+Skoda ,Superb ,  2.5 TDI Elegance 
+Mercedes - Benz ,S Serisi ,  S 350 350 TD 
+Kia ,Cerato ,  1.6 CRDi Comfort 
+Kia ,Ceed ,  1.6 Motion 
+BMW ,2 Serisi ,  216d Gran Tourer Luxury Plus 
+BMW ,2 Serisi ,  218i Gran Coupe First Edition Luxury Line  
+Ford ,Focus ,  1.4 Trend 
+Peugeot ,605 ,  2.0 SRi 
+Renault ,Clio ,  1.2 Grandtour Dynamique 
+Nissan ,Micra ,  1.2 Desire 
+Jaguar ,XF ,  2.0 Luxury 
+Audi ,A3 ,  A3 Sportback 2.0 TFSI Ambition 
+Renault ,Scenic ,  1.9 dCi Authentique 
+Opel ,Astra ,  1.4 GLS 
+Volvo ,940 ,  2.0 GL 
+Opel ,Vectra ,  2.2 CDX 
+Mercedes - Benz ,CLS ,  350 Bluetec AMG 
+Volkswagen ,Polo ,  1.6 Sportline Classic 
+Kia ,Pro Ceed ,  1.6 CRDi Premium 
+Ford ,Fiesta ,  1.0 ST Line 
+Fiat ,Uno ,  1.4 ie 
+Skoda ,Octavia ,  1.6 Ambition 
+Skoda ,Octavia ,  1.8 T Elegance 
+Skoda ,Felicia ,  1.9 D GLX 
+Alfa Romeo ,156 ,  2.0 TS Distinctive 
+BMW ,7 Serisi ,  750i 
+BMW ,7 Serisi ,  730i Long Pure Excellence 
+Tata ,Vista ,  1.4 Safire Aura 
+Subaru ,Justy ,  1.0 
+Citroën ,C5 ,  2.0 HDi Dynamique 
+Citroën ,Xsara ,  Picasso 1.8 1.8 
+Peugeot ,208 1.2 PureTech ,  GT Line 
+Peugeot ,607 ,  2.7 HDi Titanium 
+BMW ,3 Serisi ,  330i xDrive Edition M Sport 
+Audi ,A4 ,  A4 Sedan 3.0 
+Audi ,A3 ,  A3 Hatchback 1.4 TFSI 1.4 TFSI 
+Opel ,Insignia ,  2.0 CDTI Cosmo Flexride 
+Audi ,A6 ,  A6 Sedan 2.8 2.8 
+Nissan ,350 Z ,  3.5 Coupe 
+Audi ,A4 ,  A4 Sedan 1.8 Quattro 
+Nissan ,Primera ,  1.9 dCi Visia 
+Nissan ,Note ,  1.2 Visia 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Elegance 
+Mercedes - Benz ,E Serisi ,  E 350 D 4Matic AMG 
+Opel ,Astra ,  1.7 CDTI Classic 
+Opel ,Astra ,  1.4 T Opc Line Sport 
+Opel ,Astra ,  1.7 DTI Comfort 
+Opel ,Astra ,  1.6 T T GTC Sport 
+Mazda ,MX ,  MX-5 2.0 
+Mazda ,6 ,  2.0 Sky-G Power 
+Jaguar ,Sovereign ,  3.6 
+Jaguar ,XJR ,  4.0 
+Renault ,R 19 ,  1.7 Europa RNE Alize 
+Mercedes - Benz ,S Serisi ,  S 280 280 
+Mercedes - Benz ,A Serisi ,  A 35 AMG 
+Volkswagen ,Golf ,  1.9 TDI Variant  
+Kia ,Magentis ,  2.0 LX 
+Kia ,Carnival ,  2.9 CRDI EX 
+Volkswagen ,Golf ,  1.6 Variant 
+Hyundai ,i20 Troy ,  1.2 Team 
+Hyundai ,Getz ,  1.3 GL 
+Toyota ,Auris ,  1.8 Hybrid Active Skypack 
+Toyota ,Auris ,  1.6 Class 
+Toyota ,Auris ,  1.4 D-4D Blue 
+Ford ,Mondeo ,  2.5 Titanium  
+Ford ,Fiesta ,  1.6 Festival 
+Seat ,Ibiza ,  1.4 Sport Tourer Reference 
+Seat ,Ibiza ,  1.2 Stella 
+Ford ,Fiesta ,  1.6 Ghia 
+Seat ,Cordoba ,  1.4 Reference 
+Seat ,Ibiza ,  1.2 TDI Reference 
+Fiat ,Bravo ,  1.4 Turbo Emotion 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Cross Dualogic 
+BMW ,5 Serisi ,  520d Prestige 
+BMW ,5 Serisi ,  530d Comfort 
+Alfa Romeo ,Giulietta ,  1.4 TB MultiAir Progression Pluse 
+Alfa Romeo ,159 ,  1.9 JTS Distinctive 
+Alfa Romeo ,MiTo ,  1.6 JTD Progression 
+Volkswagen ,Passat Variant ,  2.0 TDI BlueMotion Exclusive 
+Renault ,R 11 ,  GTE 
+BMW ,7 Serisi ,  740d xDrive Long M Excellence 
+BMW ,7 Serisi ,  730i Long Standart 
+Hyundai ,i30 ,  1.6 CVVT Mode Plus 
+Renault ,Talisman ,  1.3 Tce Touch 
+Chrysler ,Concorde ,  3.5 
+Volvo ,V70 ,  2.3 T-5 
+Volvo ,V40 ,  1.9 D 
+Volvo ,V60 ,  1.6 D Premium 
+Volvo ,C30 ,  1.6 D Advance 
+Volvo ,V40 ,  1.6 D 
+Volvo ,V40 ,  1.6 
+Volvo ,V40 Cross Country ,  1.6 D 
+Opel ,Corsa ,  1.5 D Swing 
+Renault ,Clio ,  1.6 Grandtour Night & Day 
+Mercedes - Benz ,C Serisi ,  C 250 CGI Fascination 
+Mercedes - Benz ,C Serisi ,  C 200 BlueEfficiency Fascination 
+Honda ,Shuttle ,  2.2 ES 
+Skoda ,Octavia ,  1.5 TSI Sport  
+Skoda ,Octavia ,  1.6 TDI Combi Style 
+Volkswagen ,Bora ,  1.8 4Motion 
+Toyota ,Corolla ,  1.6 VVT-i Terra 
+Ford ,Focus ,  1.0 EcoBoost GTDi Trend X 
+Seat ,Leon ,  2.0 TDI CR FR 
+Renault ,Megane ,  1.6 Business 
+Fiat ,Palio ,  1.2 HL Weekend 
+Renault ,Clio ,  1.9 D RL 
+Renault ,Megane ,  1.5 dCi Legend 
+Renault ,Megane ,  1.6 Dynamique Wagon  
+Citroën ,C-Elysée ,  1.5 BlueHDI Live 
+Citroën ,C4 Picasso ,  1.6 THP Exclusive 
+Citroën ,Xantia ,  1.6 
+Citroën ,C4 ,  1.4 VTi Easy 
+Citroën ,Saxo ,  1.6 VTR 
+Peugeot ,207 ,  1.6 Dynamic 
+Peugeot ,307 ,  2.0 HDi Premium 
+Peugeot ,308 ,  1.6 HDi Envy 
+Peugeot ,406 ,  2.2 SV 
+Volkswagen ,Golf ,  1.8 GL 
+Peugeot ,405 ,  1.9 SRi 
+Volkswagen ,Golf ,  1.9 TDI Tour 
+Opel ,Insignia ,  2.0 T Edition 
+Nissan ,Almera ,  1.6 SLX 
+Nissan ,Primera ,  2.0 TD Elegance 
+Mercedes - Benz ,E Serisi ,  E 220 Classic 
+Mercedes - Benz ,E Serisi ,  E 200 Cabrio 
+Mercedes - Benz ,E Serisi ,  E 280 CDI Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 300 Exclusive 
+Seat ,Exeo ,  1.6 Reference 
+Seat ,Cordoba ,  1.9 TDI Signo Vario 
+Volvo ,S60 ,  2.4 D 
+Volvo ,C30 ,  1.6 D 
+Volvo ,S60 ,  2.5 R 
+Volvo ,V40 Cross Country ,  1.6 T4 Premium 
+Volvo ,S60 ,  2.0 T5 Premium 
+Volvo ,S40 ,  1.9 T4 
+Volvo ,S60 ,  2.4 T 
+Volkswagen ,Polo ,  1.4 TDI Primeline 
+Volkswagen ,Jetta ,  1.6 GTD 
+Rover ,214 ,  Si 
+Rover ,420 ,  Si 
+Mercedes - Benz ,C Serisi ,  C 200 Komp. Classic 
+Renault ,R 9 ,  1.4 GTS 
+Mercedes - Benz ,C Serisi ,  C 200 CGI Fascination 
+Renault ,Laguna ,  1.9 dCi Authentique 
+Skoda ,Fabia ,  1.4 Ambition 
+Skoda ,Roomster ,  1.4 
+Skoda ,Fabia ,  1.0 Ambition 
+Hyundai ,Accent Era ,  1.6 Style Sports 
+Opel ,Meriva ,  1.4 Enjoy 
+Honda ,S-MX ,  2.0 
+Honda ,Jazz ,  1.5 Dynamic 
+Renault ,Megane ,  1.2 TCe Touchrome 
+Mercedes - Benz ,S Serisi ,  S 400 400 CDI 
+Mercedes - Benz ,CLS 300 D ,  AMG 
+Mercedes - Benz ,A Serisi ,  A 180 Progressive 
+Mercedes - Benz ,A Serisi ,  A 150 Polarstar 
+Kia ,Rio ,  1.25 CVVT Elegance 
+Hyundai ,Getz ,  1.3 GLS Cool 
+Ford ,Fiesta ,  1.3 Flair 
+Peugeot ,406 ,  1.8 SR 
+Nissan ,Micra ,  1.2 Sport 
+Mercedes - Benz ,E Serisi ,  E 250 D 250 D 
+Mercedes - Benz ,E Serisi ,  E 180 Edition 
+Mercedes - Benz ,E Serisi ,  E 240 Avantgarde 
+Mazda ,Xedos ,  9 
+Volvo ,S80 ,  2.9 T6 Executive 
+Volvo ,940 ,  2.3 GL 
+Jaguar ,XE R-Dynamic SE ,  2.0 D 
+Jaguar ,X-Type ,  2.0 Executive 
+Jaguar ,Sovereign ,  4.0 Long 
+Toyota ,Corolla ,  1.6 Verso 
+Rover ,Streetwise ,  1.4 
+Honda ,Civic ,  1.6 ES 
+Fiat ,Uno ,  70 SL 
+BMW ,5 Serisi ,  525d Touring 
+Peugeot ,106 ,  XT 
+Peugeot ,207 ,  1.6 VTi Outdoor 
+Mercedes - Benz ,E Serisi ,  E 250 CDI BlueEfficiency Elegance 
+Jaguar ,XJ ,  2.0i Premium Luxury  
+Jaguar ,XF ,  3.0 Premium Luxury 
+Hyundai ,i20 ,  1.4 MPI Star 
+Hyundai ,Elantra ,  1.6 D-CVVT Style Desing Pack 
+Toyota ,Auris ,  1.6 Touring Sports Advance 
+Seat ,Ibiza ,  1.2 Reference 
+Fiat ,Tipo ,  1.6 ie 
+Seat ,Leon ,  1.6 TDI X-Perience 
+Seat ,Ibiza ,  1.2 TSI Sport Tourer Reference 
+Seat ,Leon ,  1.4 TSI SC  
+Seat ,Ibiza 1.0 EcoTSI ,  FR 
+Fiat ,Punto ,  1.4 Urban S&S 
+Peugeot ,206 ,  1.6 GTI 
+Peugeot ,206 ,  1.4 XS 
+Toyota ,Corolla ,  1.6 GTi 
+Toyota ,Corolla ,  1.6 Premium Verso 
+Volvo ,V50 ,  1.6 1.6 
+Volvo ,S60 1.5 T3 ,  R-Design 
+Volvo ,S60 ,  2.4 T5 
+Volvo ,S80 ,  2.4 D5 Executive 
+Volvo ,V40 1.5 T3 ,  Premium 
+Volkswagen ,Polo ,  1.9 TDI Comfortline Classic 
+Volkswagen ,Passat ,  1.8 
+Seat ,Altea ,  2.0 FSI Stylance 
+Seat ,Leon ,  1.9 TDI Stella 
+Skoda ,Fabia ,  1.4 Sport 
+Skoda ,Rapid ,  1.2 TSI GreenTec Ambition 
+Skoda ,Fabia ,  1.6 TDI Ambiente Dynamic 
+Skoda ,Rapid ,  1.0 TSI GreenTec Ambition 
+Skoda ,Octavia ,  1.4 TSI Style 
+Renault ,Megane ,  1.4 Alize 
+Renault ,Megane ,  1.5 dCi Touchrome 
+Mercedes - Benz ,C Serisi ,  C 250 BlueEfficiency Fascination 
+Peugeot ,308 1.2 VTi ,  Allure 
+Peugeot ,307 ,  1.4 Designtech 
+Honda ,Prelude ,  2.0 2.0i 
+Peugeot ,107 ,  1.4 HDi Trendy 
+Honda ,Accord ,  1.8 ES 
+Peugeot ,307 ,  2.0 XT 
+Peugeot ,207 ,  1.4 Dynamic 
+Peugeot ,207 ,  1.6 THP RC Le Mans 
+Peugeot ,405 ,  2.0 SR 
+Peugeot ,308 ,  1.5 BlueHDI Active Dynamic 
+Peugeot ,308 ,  1.6 HDi Business Line 
+Rover ,45 ,  1.6 Standart 
+Rover ,623 ,  Si 
+Nissan ,Micra ,  1.3 SLX 
+Renault ,Scenic ,  1.9 dCi Privilege 
+Renault ,Laguna ,  2.0 T Sport 
+Volvo ,S60 ,  2.4 D R-Design 
+Volkswagen ,Polo ,  1.9 TDI Trendline 
+Citroën ,Xsara ,  1.8 SX 
+Citroën ,C3 ,  1.4 Pluriel 
+Citroën ,C2 ,  1.4 HDi Tonic 
+BMW ,3 Serisi ,  320d Prestige 
+BMW ,3 Serisi ,  320d GT Techno Plus 
+Skoda ,Octavia ,  1.9 TDI GLX 
+BMW ,3 Serisi ,  320d Style 
+BMW ,3 Serisi ,  320d xDrive GT Luxury 
+Renault ,Megane ,  1.6 CC Privilege 
+Volkswagen ,Golf ,  1.9 TDI Goal 
+Seat ,Ibiza ,  1.4 Premium 
+Seat ,Ibiza ,  1.9 TDI Sport 
+Seat ,Leon ,  2.0 FSI Stylance 
+Volkswagen ,Passat ,  2.0 TDI BlueMotion Business 
+Renault ,Laguna ,  2.0 Initiale 
+Renault ,Laguna ,  2.0 T Dynamique 
+Mercedes - Benz ,E Serisi ,  E 350 Avantgarde 
+Mercedes - Benz ,E Serisi ,  E 220 Elegance 
+Mercedes - Benz ,E Serisi ,  E 270 CDI Classic 
+Mercedes - Benz ,E Serisi ,  E 320 CDI Classic 
+Porsche ,Panamera ,  Panamera S 
+Mazda ,2 ,  1.5 Go 
+Jaguar ,S-Type ,  2.5 
+Jaguar ,XF ,  2.2 D Premium Luxury 
+Opel ,Astra ,  1.6 Sportive 
+Hyundai ,i20 ,  1.4 CRDi Select 
+Hyundai ,Accent ,  1.3 GL Active 
+Mini ,Cooper Clubman ,  1.5 Chili 
+Ford ,Escort ,  1.3 Ghia 
+Honda ,Accord ,  1.6 S 
+Mini ,Cooper ,  1.6 Roadster 
+Mercedes - Benz ,S Serisi ,  S 55 AMG 
+Mercedes - Benz ,A Serisi ,  A 170 CDI Elegance 
+Mercedes - Benz ,A Serisi ,  A 200 Style  
+Fiat ,Punto ,  Grande 1.2 S5  
+Kia ,Pro Ceed ,  1.6 CRDi Concept 
+Dacia ,Sandero ,  1.5 dCi Laureate 
+Fiat ,500 Ailesi ,  500L 1.4 Pop 
+BMW ,5 Serisi ,  518i Standart 
+BMW ,5 Serisi ,  520i Pure 
+BMW ,5 Serisi ,  524td 
+BMW ,5 Serisi ,  520i Executive Sport 
+BMW ,2 Serisi ,  220d Standart 
+BMW ,2 Serisi ,  216d Active Tourer Sport Line 
+Alfa Romeo ,145 ,  1.7 
+Alfa Romeo ,166 ,  2.0 TS Distinctive 
+Alfa Romeo ,147 ,  1.6 TS Black Line 
+Alfa Romeo ,159 ,  2.4 JTD Distinctive 
+Volkswagen ,Passat Variant ,  1.8 T Highline 
+Volkswagen ,Passat Variant ,  2.0 TDI BlueMotion Highline 
+BMW ,7 Serisi ,  740e xDrive Long Executive Lounge 
+BMW ,7 Serisi ,  730d xDrive Long Pure Excellence 
+BMW ,7 Serisi ,  740d xDrive Pure Excellence 
+Lada ,VAZ ,  2102 
+Volkswagen ,VW CC ,  2.0 TSI 
+Hyundai ,i30 ,  1.4 T-GDI Elite 
+Chrysler ,Neon ,  2.0 LE 
+Subaru ,Levorg ,  1.6 GT-S CVT 
+Subaru ,Legacy ,  1.8 GL 
+Skoda ,Fabia ,  1.6 Elegance 
+Volkswagen ,Passat ,  2.5 TDI Highline 
+Renault ,Megane ,  1.5 dCi Color Edition 
+Rover ,220 ,  Turbo 
+Opel ,Astra ,  1.4 T Business  
+Opel ,Astra ,  1.4 T Elegance 
+Peugeot ,307 ,  1.4 Feline 
+Opel ,Vectra ,  1.7 GL 
+Mini ,Cooper ,  1.5 Iconic  
+Kia ,Capital ,  1.8 
+Opel ,Insignia ,  2.0 T Cosmo 
+Mercedes - Benz ,C Serisi ,  C 220 d Esprit 
+Nissan ,Sunny ,  1.6 LX 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Mirror 
+BMW ,5 Serisi ,  535d xDrive Exclusive 
+Volvo ,V40 Cross Country ,  1.6 T4 Advance 
+BMW ,2 Serisi ,  216d Gran Tourer Sport Line 
+Alfa Romeo ,146 ,  1.7 
+Alfa Romeo ,146 ,  1.6 L 
+Volvo ,S40 ,  2.0 D Dynamic 
+Volvo ,S60 ,  2.4 D Advance 
+BMW ,7 Serisi ,  725d Long Pure Excellence 
+Mercedes - Benz ,B Serisi ,  B 200 200 
+Hyundai ,i30 ,  1.6 GDi Blue Drive 
+Tata ,Vista ,  1.4 Safire Mystic Plus 
+Chrysler ,PT Cruiser ,  2.4 Limited 
+Subaru ,Justy ,  1.2 GLi 
+Skoda ,Octavia ,  1.4 TSI Ambition Optimal 
+Skoda ,Rapid ,  1.2 Spaceback Ambition 
+Renault ,Megane ,  1.6 Sport Edition 
+Rover ,820 ,  Si 
+Rover ,45 ,  1.6 Club 
+Rover ,75 ,  1.8 T 
+Toyota ,Auris ,  1.4 D-4D Touring Sports Advance Skypack 
+Renault ,R 9 ,  1.6 GTD 
+Renault ,Megane ,  1.9 CC Privilege 
+Renault ,Scenic ,  2.0 RXi 
+Seat ,Alhambra ,  1.4 TSI Style 
+Opel ,Meriva ,  1.3 DTI Essentia 
+Opel ,Astra ,  1.4 Sport 
+Opel ,Astra ,  2.0 T GTC OPC 
+Mini ,Cooper Clubman ,  1.5 Pepper 
+Opel ,Vectra ,  1.6 GLS 
+Mercedes - Benz ,S Serisi ,  S 500 500 AMG 
+Mercedes - Benz ,S Serisi ,  S 430 430 L 
+Mercedes - Benz ,CLS ,  350 CDI Innovation  
+Mercedes - Benz ,A Serisi ,  A 170 Elegance 
+Peugeot ,308 ,  1.5 BlueHDI Style Tech 
+Kia ,Optima ,  2.0 CVVT 
+Peugeot ,607 ,  2.2 HDi Standart 
+Peugeot ,205 ,  1.1 GR 
+Mercedes - Benz ,C Serisi ,  C 250 Fascination 
+Mercedes - Benz ,C Serisi ,  C 250 TD Esprit 
+Mercedes - Benz ,C Serisi ,  C 180 Comfort 7G-Tronic 
+Opel ,Insignia ,  1.6 D Sports Tourer Innovation 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Beats Edition 
+Fiat ,500 Ailesi ,  500 1.3 Mjet Pop 
+BMW ,5 Serisi ,  525 xDrive Touring Premium 
+BMW ,5 Serisi 530i xDrive ,  Executive Sport 
+Mercedes - Benz ,E Serisi ,  E 350 CDI Dynamic 
+BMW ,2 Serisi ,  216d Active Tourer Joy 
+BMW ,2 Serisi ,  218i Active Tourer Sport Plus 
+Peugeot ,206 ,  1.4 Panoramic 
+Volvo ,S90 ,  2.0 D D4 Momentum 
+Volkswagen ,Jetta ,  1.6 CL 
+Volkswagen ,Beetle ,  1.6 Highline 
+Volkswagen ,Beetle ,  1.9 TDi 
+Toyota ,Avensis ,  1.6 
+Skoda ,Superb ,  2.0 TDI Laurin&Klement Crystal  
+Skoda ,Fabia ,  1.4 TDI Sport 
+Skoda ,Rapid ,  1.4 TSI GreenTec Style 
+Renault ,Megane ,  1.2 TCe Joy 
+Renault ,R 19 ,  1.9 Europa RL 
+Peugeot ,406 ,  2.0 Premium 
+Peugeot ,308 ,  1.2 Puretech Allure 
+Toyota ,Corolla ,  1.3 LE 
+Mercedes - Benz ,E Serisi ,  E 290 TD Avantgarde 
+Mazda ,6 ,  2.0 Sport 
+Mazda ,6 ,  2.0 TE 
+Jaguar ,XJ ,  3.0 D Portfolio 
+Hyundai ,Elantra ,  1.6 D-CVVT Prime 
+Ford ,Fiesta ,  1.25 Fun 
+Fiat ,Bravo ,  2.0 HGT 
+Fiat ,Bravo ,  1.6 Mjet Pop 
+Volkswagen ,Passat Variant ,  1.4 TSI Highline 
+Subaru ,Impreza ,  2.0 Comfort 
+Toyota ,Auris ,  1.8 Hybrid Active 
+Seat ,Ibiza ,  1.4 Sport Coupe Reference 
+Seat ,Toledo ,  1.6 Signum 
+Seat ,Toledo ,  2.0 SXE 
+Peugeot ,407 ,  1.6 HDi Blackline 
+Peugeot ,308 1.2 VTi ,  Access 
+Rover ,75 ,  2.5 Connoisseur 
+Opel ,Insignia ,  1.6 CDTI Edition 
+Mercedes - Benz ,200 ,  200 CE 
+Porsche ,911 ,  Carrera Targa 
+Porsche ,Cayman ,  GTS 
+Mercedes - Benz ,S Serisi ,  S 350 350 
+Peugeot ,301 ,  1.6 BlueHDI Access 
+Mercedes - Benz ,C Serisi ,  C 250 TD Sport 
+Mercedes - Benz ,C Serisi ,  C 250 D Sport 
+Volkswagen ,Golf ,  1.6 FSI Goal Plus 
+Toyota ,Avensis ,  2.0 Premium Plus 
+Seat ,Ibiza ,  1.6 Sport Coupe Sport 
+Seat ,Cordoba ,  1.4 TDI Style 
+Seat ,Cordoba ,  1.6 Signo Vario 
+Skoda ,Fabia ,  1.4 TDI Comfort 
+Renault ,R 12 ,  TN 
+Renault ,Megane ,  1.5 Blue DCI Joy 
+Peugeot ,306 ,  2.0 XSi 
+Peugeot ,806 ,  2.0 SR 
+Peugeot ,306 ,  2.0 XRDT 
+Peugeot ,307 ,  2.0 HDi XT 
+Peugeot ,206 ,  1.6 Executive 
+Peugeot ,207 ,  1.6 HDi Allure 
+Toyota ,Corolla 1.2 T ,  Flame X-Pack 
+Toyota ,Corolla ,  1.8 TS 
+Peugeot ,307 ,  1.4 Profil 
+Renault ,R 19 ,  1.8 
+Toyota ,Verso ,  1.6 D-4D Elegant 
+Volvo ,V50 ,  1.6 Premium 
+Volvo ,850 ,  2.0 GLE 
+Toyota ,Verso ,  2.0 D-4D Comfort Extra 
+Toyota ,Verso ,  1.6 Comfort Extra 
+Toyota ,Verso ,  1.6 Elegant 
+Volkswagen ,Polo ,  1.0 
+Skoda ,Roomster ,  1.6 CR TDI Style 
+Toyota ,Yaris ,  1.0 ECO 
+Toyota ,Avensis ,  1.6 Premium 
+Suzuki ,Swift ,  1.6 Sport 
+Suzuki ,Swift ,  1.3 DDiS GL 
+Volkswagen ,Arteon ,  1.5 TSI Elegance 
+Volkswagen ,Arteon ,  1.5 TSI R Line 
+Volkswagen ,Arteon ,  2.0 TDI R-Line 
+Volkswagen ,Arteon ,  2.0 TDI Elegance  
+Toyota ,Corolla ,  1.6 Passion 
+Mercedes - Benz ,C Serisi ,  C 200 CDI Avantgarde 
+Mazda ,323 ,  2.0 DITD TE 
+Mazda ,323 ,  1.5 GL 
+Hyundai ,i30 ,  1.6 CVVT Prime 
+Hyundai ,i10 ,  1.2 D-CVVT Go Special Edition 
+Seat ,Leon ,  1.9 TDI Sport 
+Seat ,Cordoba ,  1.9 TDI SXE Vario 
+Opel ,Insignia ,  1.6 T Sport 
+Mitsubishi ,Galant ,  2.0 GLS 
+Mitsubishi ,Carisma ,  1.6 Comfort 
+Honda ,CR-Z ,  Sport 
+Honda ,CRX ,  1.6 1.6i 
+Renault ,Symbol ,  1.2 Limited Edition 
+Mercedes - Benz ,E Serisi ,  E 230 Avantgarde 
+Ford ,Ka ,  1.6 Street 
+Ford ,Ka ,  1.3 
+Ford ,Ka ,  1.3 1.3 Collection 
+Fiat ,Tipo ,  2.0 
+Mercedes - Benz ,E Serisi ,  E 250 CDI 
+Renault ,Laguna ,  3.0 
+Nissan ,Pulsar ,  1.5 Tekna 
+Nissan ,Teana ,  2.3 
+Mercedes - Benz ,300 ,  300 SE 
+Mercedes - Benz ,300 ,  300 SEL 
+Mercedes - Benz ,300 ,  300 D 
+Mercedes - Benz ,B Serisi ,  B 200 Sport 
+Citroën ,C4 Grand Picasso ,  1.6 BlueHDi Shine 
+Citroën ,C4 Picasso ,  1.6 HDi SX 
+Citroën ,Xantia ,  1.9 TD SX 
+Ford ,Taunus ,  1.6 GL 
+Ford ,Taunus ,  1.6 GT 
+Ford ,Taunus ,  1.6 S 
+Ford ,Taunus ,  2.0 GTS 
+Ford ,Taunus ,  1.6 GXL 
+Citroën ,C1 ,  1.0 VTi Feel 
+Citroën ,ZX ,  1.4 SX 
+BMW ,5 Serisi ,  528i xDrive M Sport 
+Fiat ,Punto ,  Grande 1.4 Starjet Emotion 
+BMW ,5 Serisi ,  535d xDrive Luxury Line 
+Fiat ,Punto ,  Grande 1.4 Starjet Fun 
+BMW ,5 Serisi ,  525i Touring 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet PopStar 
+BMW ,5 Serisi ,  520d Executive M Sport 
+Alfa Romeo ,145 ,  1.4 
+BMW ,2 Serisi ,  216d Gran Tourer Luxury Line 
+Alfa Romeo ,Spider ,  2.0 TS 
+Chevrolet ,Epica ,  2.0 LT 
+Alfa Romeo ,MiTo ,  1.4 T MultiAir Quadrifoglio Verde 
+Alfa Romeo ,4C ,  1.8 TBi 
+BMW ,4 Serisi ,  428i xDrive Gran Coupe Gran Coupe 
+BMW ,4 Serisi ,  418d Gran Coupe Joy 
+Fiat ,Stilo ,  1.6 Dynamic 
+Fiat ,Stilo ,  1.6 Actual 
+Fiat ,Stilo ,  1.6 Active 
+Fiat ,Stilo ,  1.4 Active 
+Renault ,Twingo ,  1.2 Base 
+Renault ,Twingo ,  1.2 Alize 
+Renault ,Twingo ,  1.2 Easy 
+Renault ,Twingo ,  1.2 Pack 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Premium 
+Fiat ,Panda ,  1.2 Dynamic 
+Fiat ,Panda ,  1.2 Pop 
+Fiat ,Panda ,  1.2 Active 
+Fiat ,Panda ,  1.2 Fire City Cross 
+Mercedes - Benz ,CLK ,  CLK 200 Komp. Avantgarde 
+Mercedes - Benz ,CLK ,  CLK 200 Elegance 
+Mercedes - Benz ,CLK ,  CLK 200 Komp. Elegance 
+Mercedes - Benz ,CLK ,  CLK 240 Elegance 
+Volkswagen ,Passat Variant ,  2.0 FSI Highline 
+BMW ,1 Serisi ,  116d ED Joy Plus 
+BMW ,7 Serisi ,  730d Exclusive 
+BMW ,7 Serisi ,  750d xDrive Long Executive Lounge 
+BMW ,7 Serisi ,  730i M Excellence 
+Toyota ,Verso ,  1.6 Premium 
+Mitsubishi ,Carisma ,  1.6 Classic 
+BMW ,4 Serisi ,  418d M Plus 
+Citroën ,Xantia ,  2.0 T Activa 
+Mercedes - Benz ,A Serisi ,  A 140 Avantgarde 
+BMW ,5 Serisi ,  520d Touring 
+BMW ,5 Serisi ,  530i Executive M Sport 
+Volvo ,V40 1.5 T3 ,  Advance 
+Volkswagen ,Golf ,  1.6 TD 
+Toyota ,Corolla ,  1.4 XLi 
+Toyota ,Verso ,  1.6 D-4D Premium 
+Skoda ,Roomster ,  1.6 Sport 
+Skoda ,Rapid ,  1.4 CR TDI Monte Carlo 
+Skoda ,Rapid ,  1.2 Active 
+Seat ,Ibiza ,  1.3 CLX 
+Seat ,Toledo ,  1.4 TSI Reference 
+Nissan ,Primera ,  1.6 LX 
+Nissan ,Primera ,  2.0 SRi 
+Mercedes - Benz ,300 ,  300 CE 
+Mercedes - Benz ,300 ,  300 E 
+Lada ,Nova ,  1.7i 
+Lada ,Tavria ,  1.2 
+Ford ,Taunus ,  2.0 GLS 
+Ford ,C-Max 1.5 TDCi ,  Trend 
+Mazda ,323 ,  1.8 GLX 
+BMW ,4 Serisi ,  428i xDrive 
+BMW ,1 Serisi ,  116i Technology 
+BMW ,1 Serisi 120i ,  Standart 
+Honda ,Civic 1.6i DTEC ,  Premium 
+Ford ,Escort ,  1.8 CL 
+Volkswagen ,VW CC 2.0 TDI ,  Sportline 
+Volvo ,S60 ,  2.4 D Sports 
+Volvo ,V40 ,  2.0 
+Volvo ,V40 ,  2.0 T 
+Volvo ,V40 ,  1.6 T4 Premium 
+Volvo ,V40 ,  1.6 T4 Advance 
+Citroën ,C3 Picasso ,  1.4 SX 
+Citroën ,C4 Grand Picasso ,  1.6 BlueHDi Feel 
+BMW ,5 Serisi ,  525tds Touring 
+Peugeot ,307 ,  1.6 HDi Feline 
+Peugeot ,207 ,  1.4 Premium 
+Toyota ,Corolla ,  1.8 Hybrid Dream X-Pack 
+Renault ,R 19 ,  1.4 Europa RTE 
+Toyota ,Verso ,  1.6 D-4D Comfort Extra 
+Skoda ,Fabia ,  1.2 Comfort 
+Skoda ,Favorit ,  1.3 Black Line 
+Renault ,Laguna ,  2.2 dCi Privilege 
+Renault ,Clio ,  1.2 GT Line 
+Toyota ,Yaris ,  1.5 Style X-Trend 
+Suzuki ,S-Cross ,  1.6 DDIS GL 
+Hyundai ,Getz ,  1.3 GL Active 
+Chevrolet ,Spark ,  1.2 LTZ 
+BMW ,4 Serisi ,  420d 
+Porsche ,718 ,  Spyder 
+Mazda ,3 ,  1.5 SkyActive-G Soul 
+Mercedes - Benz ,E Serisi ,  E 220 CDI Business 
+Mercedes - Benz ,E Serisi ,  E 280 CDI Classic 
+Ford ,Ka ,  1.3 1.3 City 
+Ford ,Fiesta ,  2.0 ST 
+Fiat ,Uno ,  45 S 
+Fiat ,Linea ,  1.3 Multijet Mood 
+Dacia ,Sandero ,  1.2 Black Line 
+Dacia ,Logan ,  0.9 Tce Ambiance 
+Toyota ,Corolla ,  2.0 XL 
+BMW ,5 Serisi ,  540i xDrive M Sport 
+Alfa Romeo ,MiTo ,  1.6 JTD Distinctive 
+Alfa Romeo ,145 ,  1.6 L 
+Alfa Romeo ,33 ,  1.5 Giardinetta 
+Fiat ,Stilo ,  1.9 JTD Dynamic 
+Alfa Romeo ,159 ,  1.8 Distinctive Plus 
+Renault ,Twingo ,  1.2 Authentique 
+Fiat ,Panda ,  1.2 Fire Urban 
+Fiat ,Panda ,  0.9 TwinAir S&S 
+Mercedes - Benz ,CLK ,  CLK 240 Avantgarde 
+Volkswagen ,Passat Variant ,  1.6 TDI BlueMotion Business 
+BMW ,7 Serisi ,  740d xDrive M Sport 
+BMW ,7 Serisi ,  730i Pure Excellence 
+BMW ,7 Serisi ,  760i Long 
+BMW ,3 Serisi ,  325ti Compact 
+Audi ,A3 ,  A3 Hatchback 2.0 TDI 2.0 TDI 
+Audi ,S Serisi ,  S2 
+Audi ,S Serisi ,  S7 4.0 TFSI Quattro 
+Audi ,A6 ,  A6 Avant 2.4 Quattro 
+Audi ,A3 ,  A3 Sportback 1.8 Attraction 
+Audi ,A5 ,  A5 Sportback 2.7 TDI 
+Audi ,A3 ,  A3 Cabrio 1.4 TFSI Ambition  
+Renault ,Laguna ,  2.0 dCi GT 
+Nissan ,Primera ,  1.6 Traveler 
+Toyota ,Verso ,  1.8 Elegant 
+Skoda ,Rapid ,  1.6 TDI GreenTec Spaceback Style 
+Volvo ,C30 ,  2.4 2.4  
+Mazda ,626 ,  1.8 
+Mercedes - Benz ,A Serisi ,  A 140 140 
+Citroën ,Saxo ,  1.4 VSX 
+Dacia ,Sandero ,  0.9 TCe Techroad 
+BMW ,3 Serisi ,  320d GT M Sport 
+Alfa Romeo ,147 ,  1.6 TS Collezione 
+Audi ,A3 ,  A3 Sportback 1.4 TFSI 1.4 TFSI 
+Audi ,A3 ,  A3 Sedan 1.2 TFSI Attraction 
+Audi ,A4 ,  A4 Sedan 2.5 TDI Quattro 
+Audi ,A3 ,  A3 Sedan 1.5 TFSI Sport Line 
+Volkswagen ,Passat ,  2.0 TDI 
+Fiat ,500 Ailesi 500 Abarth ,  595 Competizione 
+Peugeot ,308 ,  1.6 THP GTI 
+Peugeot ,208 ,  1.2 VTi Allure 
+Suzuki ,Alto ,  1.1 GL 
+Suzuki ,Splash ,  1.3 DDIS 
+Renault ,Scenic ,  1.9 DTi RXE 
+Renault ,Scenic ,  1.9 DTi RXT 
+Volvo ,V60 ,  1.6 D 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency C-Edition 
+Volkswagen ,Golf ,  1.9 TDI Pacific 
+Mazda ,929 ,  2.0 GLX 
+Hyundai ,i30 ,  1.6 T-GDI Sport 
+Mitsubishi ,Lancer ,  1.6 GLX 
+Mitsubishi ,Carisma ,  1.8 GDI LX 
+Toyota ,Corolla ,  1.6 Sol Family 
+Honda ,Accord ,  1.8 
+Kia ,Ceed ,  1.4 T-GDI Elegance 
+Kia ,Carnival ,  2.5 LS 
+Seat ,Ibiza ,  1.4 TDI Sport 
+Fiat ,Egea ,  1.6 E-Torq S-Design 
+Citroën ,C3 Picasso ,  1.6 e-HDi Confort 
+Citroën ,C4 1.2 PureTech ,  Exclusive 
+Nissan ,Micra ,  1.5 dCi Visia 
+BMW ,5 Serisi ,  520i Special Edition Luxury Line 
+Mercedes - Benz ,300 ,  300 TE 
+Alfa Romeo ,145 ,  1.4 TS STD 
+Alfa Romeo ,145 ,  2.0 Quadrifoglio 
+Mercedes - Benz ,CLK ,  CLK 200 Avantgarde 
+Mercedes - Benz ,CLK ,  CLK 230 Komp. Komp. Elegance 
+Ford ,Fusion ,  1.6 TDCi Cool 
+Fiat ,500 Ailesi 500 Abarth ,  695 Maserati Edizione 
+Peugeot ,207 ,  1.6 VTi Feline CC 
+BMW ,4 Serisi ,  435i 
+BMW ,1 Serisi ,  116d ED Comfort 
+Peugeot ,301 ,  1.6 VTi Active 
+Opel ,Vectra ,  2.2 GTS 
+Ford ,Fiesta ,  1.6 TDCi Titanium X 
+Mercedes - Benz ,C Serisi ,  C 250 CDI BlueEfficiency AMG 
+Mazda ,2 ,  1.5 Sport 
+Mazda ,3 ,  1.6 90. Yýl 
+BMW ,3 Serisi ,  323Ci 
+Seat ,Toledo ,  2.0 TDI Stylance 
+Seat ,Leon ,  1.9 TDI FR 
+Honda ,Legend ,  3.5 
+Audi ,A4 ,  A4 Avant 2.5 TDI 
+Audi ,A6 ,  A6 Sedan 2.7 TDI Quattro 
+Audi ,A6 ,  A6 Avant 1.9 TDI 
+Nissan ,Pulsar ,  1.5 N-Tec 
+Citroën ,C3 ,  1.6 XTR 
+BMW ,5 Serisi 520d xDrive ,  Special Edition M Sport 
+BMW ,5 Serisi ,  520d Executive Luxury Line 
+Mercedes - Benz ,CLK ,  CLK 320 Avantgarde 
+Renault ,Twingo ,  1.3 
+Mercedes - Benz ,CLK ,  CLK 500 Avantgarde 
+Mitsubishi ,Carisma ,  1.8 GDI Avance 
+Mitsubishi ,Airtrek ,  2.0 T 
+Mitsubishi ,Lancer ,  1.6 Plus 
+Mercedes - Benz ,E Serisi ,  E 300 TD Elegance 
+Skoda ,Octavia ,  1.0 TSI Optimal 
+Fiat ,Linea ,  1.4 Turbo Active 
+Audi ,80 Serisi ,  1.6 
+Audi ,A3 ,  A3 Sportback 2.0 TDI 2.0 TDI 
+Opel ,Astra ,  1.4 Enjoy Plus 
+BMW ,5 Serisi ,  528i Touring 
+Toyota ,Yaris ,  1.4 D-4D Cool 
+Renault ,Scenic ,  1.5 dCi Extreme 
+Renault ,Scenic ,  2.0 Dynamique 
+Mercedes - Benz ,A Serisi ,  A 160 CDI Avantgarde 
+Volkswagen ,Beetle ,  2.0 Highline 
+Seat ,Leon ,  2.0 TFSI FR 
+Skoda ,Fabia ,  1.4 TDI Special 
+Renault ,R 11 ,  GTD 
+Mercedes - Benz ,S Serisi ,  S 350 350 L Business  
+Lada ,Nova ,  1.4 
+Ford ,Taunus ,  2.0 GL 
+BMW ,3 Serisi ,  328i Luxury Line 
+BMW ,3 Serisi ,  330i xDrive 
+Audi ,A3 ,  A3 Sedan 35 TFSI Limousine 
+Audi ,A6 ,  A6 Sedan 2.4 Quattro 
+Audi ,A3 ,  A3 Sportback 1.0 TFSI Sport  
+Audi ,A3 ,  A3 Hatchback 2.0 TFSI Ambition 
+Volvo ,S60 ,  2.0 T5 Advance 
+Citroën ,ZX ,  1.4 X 
+Citroën ,C5 ,  2.0 
+Volkswagen ,Polo ,  1.2 TSI Trendline 
+Citroën ,AX ,  1.0 K-Way 
+BMW ,5 Serisi ,  520 
+Suzuki ,S-Cross ,  1.6 DDIS GL+ 
+Mercedes - Benz ,CLK ,  CLK 200 200 
+Volkswagen ,Passat Variant ,  2.0 FSI Comfortline 
+Renault ,R 11 ,  TSE 
+Porsche ,Cayman ,  S 
+Porsche ,911 ,  Turbo S Cabriolet 
+Porsche ,Boxster ,  S Black Edition 
+Renault ,R 19 ,  1.4 GTR 
+Toyota ,Verso ,  1.6 D-4D Advance 
+Skoda ,Roomster ,  1.4 Scout 
+Skoda ,Rapid ,  1.4 TSI Style  
+Ford ,Fiesta ,  1.0 GTDi Titanium X 
+BMW ,3 Serisi ,  325i Cabrio 
+Mercedes - Benz ,C Serisi ,  C 250 AMG 
+Audi ,A3 ,  A3 Sportback 1.8 TFSI Attraction 
+Audi ,A6 ,  A6 Sedan 2.0 Quattro 
+Audi ,A3 ,  A3 Hatchback 1.8 T Ambiente 
+Toyota ,Yaris ,  1.0 Terra Plus 
+Toyota ,Avensis ,  2.0 Base 
+Fiat ,Panda ,  1.1 Active 
+Volkswagen ,Passat Variant ,  1.9 TDI Trendline 
+Peugeot ,207 ,  1.6 HDi Dynamic CC 
+Mitsubishi ,Colt ,  1.3 Sport 
+BMW ,3 Serisi ,  320d xDrive GT Gran Turismo 
+Audi ,A8 ,  3.7 Quattro 
+Audi ,A3 ,  A3 Hatchback 1.8 TFSI Ambition 
+Hyundai ,i10 ,  1.0 MPI Jump 
+Honda ,Civic ,  1.4 Elegance 
+Peugeot ,508 ,  1.6 THP Access 
+Mitsubishi ,Lancer ,  1.3 Comfort 
+Kia ,Carnival ,  2.5 
+Ford ,Mondeo ,  1.8 CLX 
+Peugeot ,207 ,  1.4 Sportium 
+Skoda ,Octavia ,  1.5 TSI Style 
+Skoda ,Roomster ,  1.2 Sport 
+Audi ,A4 ,  A4 Avant 3.0 Quattro 
+Audi ,A1 ,  1.6 TDI Dynamic 
+Audi ,A8 ,  4.0 TDI Quattro 
+Mercedes - Benz ,C Serisi ,  C 250 CDI BlueEfficiency Fascination 
+Mercedes - Benz ,C Serisi ,  C 250 BlueTEC Fascination 
+Honda ,Civic ,  1.6 Comfort 
+Toyota ,Yaris ,  1.33 Style X-Trend Skypack 
+Citroën ,C4 Picasso ,  1.6 BlueHDi Shine 
+Citroën ,AX ,  1.0 E 
+Alfa Romeo ,145 ,  1.6 TS 
+Mercedes - Benz ,E Serisi ,  E 250 TD Avantgarde 
+Mercedes - Benz ,A Serisi ,  A 200 Style Blackart 
+Volkswagen ,Jetta ,  1.3 GL 
+Toyota ,Verso ,  1.6 Advance 
+Dacia ,Sandero ,  0.9 TCe Turbo Stepway 
+Skoda ,Roomster ,  1.2 Active 
+BMW ,3 Serisi ,  320Cd 
+Audi ,A3 ,  A3 Cabrio 1.4 TFSI Attraction 
+Audi ,200 Serisi ,  2.2 
+Audi ,A6 ,  A6 Sedan 2.0 TFSI Quattro Design 
+Peugeot ,308 ,  1.6 e-HDi Classic Edition 
+Honda ,Civic ,  1.6 i LS 
+Citroën ,Xantia ,  2.0 HDI 
+Porsche ,911 ,  Carrera GTS 
+Mercedes - Benz ,E Serisi ,  E 300 Classic 
+BMW ,5 Serisi ,  525d xDrive Sport 
+Volvo ,V40 ,  1.6 T4 R-Design 
+Volvo ,V50 ,  2.4 
+Renault ,R 19 ,  1.4 TS 
+Volkswagen ,Polo ,  1.3 CL 
+Volkswagen ,Jetta ,  2.8 
+Dacia ,Logan ,  0.9 Tce MCV Ambiance 
+Volkswagen ,Polo ,  1.9 TDI Trendline Classic 
+BMW ,3 Serisi ,  325tds Touring 
+BMW ,3 Serisi ,  320d 40th Year Edition 
+Volkswagen ,Golf ,  1.4 TSI Tour 
+Audi ,A3 ,  A3 Sportback 2.0 TFSI 2.0 TFSI 
+Audi ,A6 ,  A6 Avant 2.0 Quattro 
+Toyota ,Corolla ,  1.8 Luna Verso 
+Seat ,Ibiza ,  1.2 TSI Sport 
+Seat ,Ibiza ,  1.8 TSI Sport Coupe Cupra 
+Seat ,Ibiza ,  1.9 D CLX 
+Toyota ,Yaris ,  1.5 Style 
+Fiat ,Tipo ,  1.4 ie Super 
+Ford ,Fiesta ,  1.6 Cool 
+Ford ,Fiesta ,  1.0 GTDi ST Line 
+Dacia ,Lodgy ,  1.5 BlueDCI Stepway 
+BMW ,3 Serisi ,  320d M Plus 
+Skoda ,Roomster ,  1.2 TSI Scout 
+Audi ,TT ,  2.0 TFSI S 
+Mini ,Cooper ,  1.5 Salt 
+Mercedes - Benz ,C Serisi ,  C 180 Komp. GP 
+Ford ,Escort ,  1.3 CLX 
+Volvo ,460 ,  1.8i 
+Peugeot ,207 ,  1.4 VTi Premium 
+Toyota ,Verso ,  2.0 D-4D Premium 
+Toyota ,Auris ,  1.4 D-4D Touch 
+Skoda ,Fabia ,  1.2 Dinamik 
+Skoda ,Fabia ,  1.2 Elegance 
+Mini ,Cooper ,  1.5 D Salt Pepper 
+Mini ,Cooper Clubman ,  1.5 Signature 
+Mercedes - Benz ,C Serisi ,  C 280 Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 250 CDI Fascination 
+Mazda ,2 ,  1.3 High 
+Hyundai ,i10 ,  1.1 CRDi Team 
+Citroën ,Xsara ,  1.4 
+Citroën ,Xantia ,  1.9 1.9 D 
+BMW ,5 Serisi ,  528i xDrive Comfort 
+BMW ,5 Serisi ,  524d 
+Fiat ,Panda ,  1.2 Fire Cross 
+Alfa Romeo ,MiTo ,  1.4 T Progression 
+Fiat ,Panda ,  0.9 TwinAir Joy 
+Volvo ,V60 1.5 T3 ,  Advance 
+Volvo ,S80 ,  2.9 
+BMW ,5 Serisi 530i xDrive ,  Executive Luxury Line 
+Renault ,Megane ,  1.6 GT 
+Toyota ,Verso ,  1.6 Active 
+Volvo ,440 ,  1.7 GLT 
+Mazda ,6 ,  2.0 Mid 
+Honda ,Accord ,  2.2 EX 
+Honda ,Civic ,  1.5 DXi 
+Seat ,Ibiza ,  1.6 TDI CR Copa 
+Seat ,Toledo ,  1.9 TDI Sport 
+Renault ,Laguna ,  1.6 Dynamique 
+Renault ,Laguna ,  1.8 Privilege 
+Opel ,Meriva ,  1.3 CDTI Cosmo 
+Nissan ,Primera ,  1.6 Si 
+Nissan ,300 ZX ,  3.0 Twin Turbo 
+Citroën ,Saxo ,  1.1 
+Mercedes - Benz ,S Serisi ,  S 500 500 Coupe 
+Hyundai ,i20 Troy ,  1.2 Start 
+Ford ,Taunus ,  1.3 L 
+BMW ,5 Serisi ,  523i Touring 
+Fiat ,Punto ,  1.8 HGT 
+Fiat ,500 Ailesi ,  500L 1.3 Mjet Opening Edition 
+Chevrolet ,Nubira ,  2010
+Chevrolet ,Caprice ,  5.0 LS 
+BMW ,1 Serisi ,  116d Urban Line 
+Volkswagen ,Passat ,  2.0 TDI Trendline 
+Volvo ,S80 ,  3.2 Executive 
+Volkswagen ,Scirocco ,  2.0 TFSI Sportline 
+Volkswagen ,Jetta ,  2.0 FSI Comfortline 
+Volkswagen ,Polo ,  1.9 SDI 
+Volkswagen ,Passat ,  2.0 TDI BlueMotion Trendline 
+Peugeot ,208 ,  1.6 HDi Access 
+Skoda ,Roomster ,  1.4 Comfort 
+Toyota ,Avensis ,  1.8 Comfort 
+Renault ,R 11 ,  GTX 
+Suzuki ,Swift ,  1.3 GLS 
+Seat ,Ibiza ,  1.8 CLX 
+Opel ,Insignia ,  1.6 T Sports Tourer Edition 
+Opel ,Insignia ,  1.6 CDTI Sports Tourer Excellence 
+Mitsubishi ,Colt ,  1.5 GLX 
+Mazda ,6 ,  2.0 CDH TE 
+Mazda ,Xedos ,  6 
+Mercedes - Benz ,E Serisi ,  E 320 320 
+Mercedes - Benz ,E Serisi ,  E 53 AMG 
+Mercedes - Benz ,A Serisi ,  A 160 Classic 
+Kia ,Rio ,  1.4 CVVT Sporty 
+Kia ,Ceed ,  1.4 Cool Tekno 
+Hyundai ,i20 ,  1.4 MPI Active Elite 
+Ford ,Mondeo ,  1.5 TDCI Style 
+Citroën ,C8 ,  2.2 HDi SX 
+Alfa Romeo ,147 ,  2.0 TS Distinctive 
+Alfa Romeo ,159 ,  1.8 Distinctive 
+Mercedes - Benz ,B Serisi ,  B 180 Style  
+Renault ,R 19 ,  1.7 TXE 
+Peugeot ,307 ,  1.6 HDi X-Design 
+Renault ,Megane ,  1.6 Sport 
+Opel ,Astra ,  1.6 Merit 
+Volkswagen ,Passat ,  1.5 TSI Trendline  
+Opel ,Astra ,  1.4 Comfort 
+Peugeot ,308 ,  1.6 VTi Premium Pack 
+Peugeot ,206 ,  1.6 XSi 
+Peugeot ,208 ,  1.6 VTi Allure 
+Toyota ,Yaris ,  1.4 D-4D Executive 
+Volkswagen ,Beetle ,  2.0 Pearl 
+Skoda ,Octavia ,  1.6 TDI Active 
+Skoda ,Octavia ,  1.9 TDI 
+Porsche ,Boxster ,  Spyder 
+Opel ,Insignia ,  1.6 Sport 
+Opel ,Insignia ,  1.6 D Grand Sport Enjoy 
+Opel ,Vectra ,  3.2 GTS 
+Mitsubishi ,Lancer Evolution ,  VI 
+Mercedes - Benz ,E Serisi ,  E 240 Classic 
+Mercedes - Benz ,E Serisi ,  E 420 Avantgarde 
+Kia ,Cerato ,  1.6 GSL Cool 
+Kia ,Rio ,  1.3 Trend 
+Kia ,Rio ,  1.4 EX EX 
+Kia ,Opirus ,  3.8 GL 
+Hyundai ,i20 ,  1.2 D-CVVT Elite 
+Hyundai ,Accent ,  1.3 LX World Cup Special Edition 
+Dacia ,Sandero ,  1.5 BlueDCI Ambiance 
+Dacia ,Solenza ,  1.4 Comfort 
+Dacia ,Lodgy ,  1.5 BlueDCI Laureate 
+BMW ,3 Serisi ,  320i ED M Sport 
+BMW ,3 Serisi ,  324td Standart 
+BMW ,3 Serisi ,  330d xDrive 
+BMW ,3 Serisi ,  325i xDrive Standart 
+Toyota ,Avensis ,  1.8 Linea 
+Mazda ,3 ,  1.6 Sport  
+Peugeot ,206 ,  2.0 HDi 2.0 HDi Sport 
+Volvo ,S80 ,  2.5 T VIP 
+Ford ,Focus ,  1.6 Darkline 
+Volvo ,V50 ,  2.0 D 
+Volvo ,C30 ,  2.0 Premium 
+Volvo ,S80 ,  4.4 VIP 
+Volvo ,S60 ,  2.5 T 
+Volkswagen ,Polo ,  1.3 
+Seat ,Leon ,  1.8 T Sport 
+Volkswagen ,Golf ,  2.0 TDI Goal 
+Porsche ,Panamera ,  Panamera 
+Porsche ,911 ,  GT3 
+Porsche ,911 ,  GT3 RS 
+Mitsubishi ,Lancer ,  1.6 Inform 
+Volkswagen ,Jetta ,  2.5 SE 
+Toyota ,Avensis ,  2.0 Linea 
+Opel ,Vectra ,  2.5 Sport 
+Mercedes - Benz ,E Serisi ,  E 430 Avantgarde 
+Mini ,Cooper ,  1.5 Salt Pepper Chili 
+Mercedes - Benz ,A Serisi ,  A 180 d Style Blackart Edition 
+Mercedes - Benz ,A Serisi ,  A 45 S AMG 
+Mercedes - Benz ,A Serisi ,  A 170 Classic 
+Mercedes - Benz ,A Serisi ,  A 140 Elegance 
+Seat ,Cordoba ,  1.4 Costa 
+Mercedes - Benz ,C Serisi ,  C 180 Sportcoupe 
+Mercedes - Benz ,C Serisi ,  C 220 Sport 
+Mazda ,2 ,  1.5 Fun 
+BMW ,5 Serisi 520d xDrive ,  Sport Line 
+BMW ,2 Serisi ,  218i 
+Mercedes - Benz ,B Serisi ,  B 200 200 CDI 
+Alfa Romeo ,166 ,  2.5 Sportronic 
+Fiat ,Stilo ,  1.6 Dynamic MultiWagon 
+Mercedes - Benz ,CLK ,  CLK 320 Elegance 
+Toyota ,Verso ,  1.6 D-4D Premium Navi 
+Opel ,Vectra ,  2.2 Cosmo 
+Renault ,Clio ,  1.2 Extreme Edition 
+Nissan ,Primera ,  2.0 GX 
+Nissan ,Almera ,  2.2 DCI 
+Nissan ,Note ,  1.6 Visia 
+Mercedes - Benz ,300 ,  300 TD 
+Mercedes - Benz ,S Serisi ,  S 550 550 L 
+Mercedes - Benz ,S Serisi ,  S 420 420 L CDI 
+Mercedes - Benz ,B Serisi ,  B 180 CDI Prestige  
+Chevrolet ,Corvette ,  Z06 
+Mercedes - Benz ,C Serisi ,  C 250 TD Classic 
+Fiat ,Punto ,  1.4 Multiair Lounge 
+Chevrolet ,Corvette ,  C8 
+BMW ,4 Serisi ,  420d Gran Coupe Luxury Line 
+BMW ,4 Serisi ,  428i xDrive Gran Coupe Sport Line 
+BMW ,4 Serisi ,  418d Gran Coupe M Sport 
+BMW ,4 Serisi ,  420d Luxury Plus 
+BMW ,4 Serisi ,  430i xDrive Gran Coupe M Sport 
+Volvo ,940 ,  2.0 GL Turbo 
+Alfa Romeo ,156 ,  1.9 JTD Sportwagon 
+Fiat ,Panda ,  1.2 
+Toyota ,Yaris ,  1.33 Sport 
+Mercedes - Benz ,A Serisi ,  A 180 d Progressive 
+Volkswagen ,Polo ,  1.9 TDI Comfortline 
+Seat ,Altea ,  1.9 TDI Stylance XL 
+Seat ,Ibiza ,  1.4 TSI FR 
+Citroën ,Xsara ,  Picasso 1.6 Exclusive 
+BMW ,5 Serisi ,  550 xDrive 
+Nissan ,Almera ,  1.6 SR 
+Fiat ,Panda ,  0.9 TwinAir Lounge 
+Ford ,Focus ,  1.6 Ti-VCT Comfort 
+Fiat ,500 Ailesi ,  500C 1.4 Lounge 
+Peugeot ,206 ,  1.4 Trendy 
+Volvo ,S80 ,  3.2 VIP 
+Volvo ,S80 ,  2.4 Kinetic 
+Mitsubishi ,Carisma ,  1.8 GDI Classic 
+Mercedes - Benz ,C Serisi ,  C 180 BlueEfficiency Estate 
+Toyota ,Corolla ,  1.8 Hybrid Passion  
+Seat ,Ibiza ,  1.9 TDI Cupra 
+Seat ,Ibiza ,  1.2 Sport Coupe Elegance 
+Seat ,Toledo ,  1.8 Sport 
+Fiat ,Palio ,  1.2 SL Weekend 
+Opel ,Meriva ,  1.6 CDTI Active 
+BMW ,5 Serisi ,  518i Touring 
+Mercedes - Benz ,CLK ,  CLK 230 Komp. Komp. Avantgarde 
+Toyota ,Avensis ,  1.6 Wagon 
+Opel ,Astra ,  1.6 CDTI Black Edition 
+Renault ,Clio ,  1.0 TCe RS Line 
+Porsche ,911 ,  Targa 4 
+Mercedes - Benz ,A Serisi ,  A 150 Kesif 
+Mercedes - Benz ,A Serisi ,  A 200 Progressive 
+Mini ,Cooper ,  1.5 D Salt Chili 
+BMW ,3 Serisi ,  315 
+BMW ,3 Serisi ,  318i Touring 
+Audi ,80 Serisi ,  1.9 TDI 
+Audi ,A3 ,  A3 Hatchback 1.8 Attraction 
+Fiat ,500 Ailesi ,  500L 0.9 TwinAir RockStar  
+Citroën ,XM ,  2.0 Classic 
+Skoda ,Roomster ,  1.4 Sport 
+Mercedes - Benz ,C Serisi ,  C 200 CDI Sportcoupe 
+Mazda ,2 ,  1.5 Play 
+Hyundai ,i10 ,  1.1 Plus 
+Fiat ,Bravo ,  1.4 Turbo Sport 
+Audi ,A4 ,  A4 Avant 2.0 TFSI 
+Chevrolet ,Camaro ,  3.4 
+BMW ,4 Serisi ,  418i Gran Coupe Sport Plus 
+Alfa Romeo ,146 ,  1.4 TS Ritmo 
+Fiat ,Panda ,  1.0 CL Plus 
+Volkswagen ,Golf ,  2.0 FSi Sportline 
+Seat ,Ibiza ,  1.3 CL 
+Skoda ,Forman ,  Blackline 
+Kia ,Ceed ,  1.4 GSL 
+Kia ,Carnival ,  2.9 TD RS 
+Ford ,Fiesta ,  1.1 CLX 
+Mini ,Cooper Electric ,  SE Iconic 
+Mazda ,3 ,  1.5 SkyActive-D Motion 
+Fiat ,500 Ailesi ,  500 1.4 Abarth 
+Fiat ,500 Ailesi ,  500L 1.4 Mirror 
+Volvo ,S60 ,  2.0 T Advance 
+BMW ,5 Serisi ,  530xd Gran Turismo M Sport 
+Alfa Romeo ,Giulietta ,  1.6 JTD Super 
+Seat ,Cordoba ,  1.6 Latino 
+Chevrolet ,Cruze ,  1.4 LXT 
+BMW ,1 Serisi ,  116d Standart 
+BMW ,3 Serisi ,  325i xDrive Touring 
+Citroën ,C3 ,  1.6 VTi Shine 
+Seat ,Exeo ,  2.0 TDI Style 
+BMW ,5 Serisi ,  525xi Standart 
+Fiat ,Bravo ,  1.4 Fire Pop 
+Chevrolet ,Geo Storm ,  1.6 
+Skoda ,Rapid ,  1.2 TSI GreenTec Active 
+Opel ,Insignia ,  2.0 T Grand Sport Excellence 
+Opel ,Corsa ,  1.0 Sport 
+Opel ,Corsa ,  1.4 Black & White 
+Hyundai ,i20 ,  1.4 CVVT Go 
+Ford ,Fiesta ,  1.6 TDCi Trend 
+Toyota ,Corolla 1.2 T ,  Dream 
+Toyota ,Corolla ,  1.8 Hybrid Vision  
+Seat ,Ibiza ,  1.6 Sport 
+Audi ,A4 ,  A4 Sedan 2.0 TDI Quattro S Line 
+Audi ,A8 ,  4.2 FSI Quattro 
+Audi ,A3 ,  A3 Hatchback 2.0 FSI Attraction 
+Citroën ,C4 1.2 PureTech ,  Confort 
+Citroën ,Evasion ,  1.9 TD SX 
+Nissan ,Micra ,  1.2 Tekna Pack 
+BMW ,5 Serisi 520d xDrive ,  Special Edition Luxury Line 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Sport Plus 
+Volvo ,V40 ,  1.6 T3 Advance 
+Volvo ,V40 Cross Country ,  1.6 T4 
+Suzuki ,S-Cross ,  1.6 DDIS GLX 
+Skoda ,Octavia 2.0 TSI ,  RS 
+Opel ,Insignia ,  1.6 CDTI Country Tourer Cosmo  
+Opel ,Insignia ,  2.0 CDTI Country Tourer Cosmo 
+Mitsubishi ,Lancer Evolution ,  IX 
+Mitsubishi ,Space Star ,  1.8 GDI 
+Mercedes - Benz ,200 ,  200 TE 
+Seat ,Cordoba ,  1.6 Sport 
+Kia ,Clarus ,  1.8 SLX 
+Renault ,R 9 ,  1.7 GTX 
+Hyundai ,i20 ,  1.6 
+Nissan ,Micra ,  1.6 SR 
+Peugeot ,308 ,  1.6 THP Allure 
+Opel ,Insignia ,  2.0 CDTI Sports Tourer Sport 
+Kia ,Carens ,  1.6 GSL 
+Seat ,Toledo ,  1.6 GLX 
+Mazda ,3 ,  1.6 Mid 
+Nissan ,Micra ,  1.6 C+C 
+Fiat ,Tempra ,  1.6 ie 
+Citroën ,C5 ,  1.6 THP Confort 
+Citroën ,Xsara ,  Picasso 2.0 Exclusive 
+Citroën ,C4 Grand Picasso ,  2.0 HDi Dynamique 
+Citroën ,BX ,  15 TGE 
+Volvo ,460 ,  1.7 Turbo 
+Skoda ,Forman ,  LE 
+Mazda ,5 ,  2.0 D 
+Volvo ,460 ,  1.7 GLE 
+Renault ,R 19 ,  1.4 TR 
+Seat ,Ibiza ,  1.3 GLX 
+Mercedes - Benz ,C Serisi ,  C 250 CDI BlueEfficiency Avantgarde 
+Renault ,Safrane ,  2.0 RXE 
+Renault ,Espace ,  2.2 DT RXE 
+Renault ,R 21 ,  1.7 GTS Manager 
+Renault ,Safrane ,  2.5 RXT 
+Renault ,Modus ,  1.4 Authentique 
+Renault ,R 25 ,  2.2 TX 
+Renault ,Grand Scenic ,  1.5 dCi Privilege 
+Ford ,B-Max ,  1.5 TDCi Titanium 
+Ford ,Mustang ,  2.3 Fastback 
+Ford ,B-Max ,  1.4 Trend 
+Ford ,B-Max ,  1.6 TDCi Titanium 
+Ford ,Grand C-Max ,  1.6 TDCI Titanium 
+Ford ,B-Max ,  1.4 Titanium 
+Ford ,B-Max ,  1.0 GTDi Titanium 
+Ford ,Festiva ,  1.3 XL 
+Ford ,B-Max ,  1.6 Titanium 
+Hyundai ,Excel ,  1.5 GLS 
+Hyundai ,Excel ,  1.5 LS 
+Hyundai ,Matrix ,  1.5 CRDi Style 
+Hyundai ,Matrix ,  1.5 CRDi GLS 
+Hyundai ,Sonata ,  2.0 GLS 
+Hyundai ,i20 Active ,  1.4 MPI Elite 
+Hyundai ,Atos ,  1.0 GLS 
+Hyundai ,iX20 ,  1.6 Prime 
+Hyundai ,Ioniq ,  1.6 GDI Elite Plus 
+Hyundai ,iX20 ,  1.4 Mode 
+Hyundai ,i20 Active ,  1.4 MPI Elite Smart 
+Hyundai ,Matrix ,  1.6 GLS 
+Hyundai ,Trajet ,  2.0 
+Hyundai ,Coupe ,  1.6 FX 
+Hyundai ,Atos ,  1.1 GLS 
+Hyundai ,Sonata ,  2.0 CRDi Style 
+Hyundai ,Sonata ,  2.0 CRDi H-Matic 
+Hyundai ,Getz ,  1.3 GL Cool 
+Hyundai ,Matrix ,  1.5 CRDi Team 
+Hyundai ,i40 ,  1.6 GDI Prime 
+Hyundai ,Coupe ,  2.0 FX 
+Peugeot ,205 ,  1.1 GL 
+Peugeot ,205 ,  1.0 Junior 
+Peugeot ,207 ,  1.4 VTi Limited 
+DS Automobiles ,DS 4 ,  1.6 BlueHDi Start&Stop 
+DS Automobiles ,DS 4 ,  1.6 e-HDi D-Sport 
+DS Automobiles ,DS 3 ,  1.6 VTi Style 
+DS Automobiles ,DS 3 ,  1.6 THP D-Sport 
+DS Automobiles ,DS 5 ,  1.6 THP D-Sport 
+DS Automobiles ,DS 5 ,  1.6 BlueHDi So Chic 
+Mini ,Cooper ,  1.6 Baker Street 
+Toyota ,Carina ,  2.0 GLi 
+Toyota ,Verso ,  2.2 D-CAT Luna 
+Toyota ,Cressida ,  2.0 GLX 
+Toyota ,Starlet ,  1.3 XLi 
+Toyota ,Celica ,  1.8 GTi 
+Toyota ,Camry ,  2.5 Hybrid Passion 
+Toyota ,Corolla ,  2.0 D-4D Sol 
+Toyota ,Camry ,  2.2 GL 
+Kia ,Venga ,  1.4 CRDi EX 
+Peugeot ,307 ,  2.0 HDi XSI 
+Peugeot ,205 ,  1.9 GTI 
+Peugeot ,308 ,  1.6 THP Premium 
+Peugeot ,405 ,  1.9 GR 
+Opel ,Corsa ,  1.0 Color Edition 
+Honda ,Civic ,  1.4 i-VTEC 
+Ford ,Fiesta ,  1.6 RS 
+Citroën ,C4 Grand Picasso ,  2.0 HDi Exclusive 
+Citroën ,ZX ,  1.8 Aura 
+Citroën ,C4 ,  1.4 Collection 
+Citroën ,C5 ,  2.7 HDi Exclusive 
+Citroën ,C5 ,  2.0 HDi Break 
+BMW ,3 Serisi ,  323i Standart 
+BMW ,3 Serisi ,  320td Compact 
+BMW ,3 Serisi ,  330d M Sport 
+Proton ,415 ,  GLSi 
+Proton ,315 ,  GLSi 
+Proton ,420 ,  TD GLS 
+Proton ,418 ,  GLXi 
+Proton ,415 ,  GLi 
+Proton ,Waja ,  1.6 Premium 
+Proton ,Gen-2 ,  1.6 Low Line 
+Proton ,413 ,  GLSi 
+Proton ,Gen-2 ,  1.6 Base Line 
+BMW ,M Serisi ,  M5 
+BMW ,M Serisi ,  M3 Coupe 
+Opel ,Zafira ,  1.8 Comfort 
+Daewoo ,Tico ,  0.8 SL 
+Daewoo ,Lanos ,  1.5 SE 
+Daewoo ,Espero ,  2.0i 
+Daewoo ,Racer ,  1.5i 
+Daewoo ,Nubira ,  1.6 SX 
+Daewoo ,Nexia ,  1.5 GLX 
+Daewoo ,Nexia ,  1.5 GLE 
+Daewoo ,Tico ,  0.8 SX 
+Opel ,Zafira ,  1.6 Edition 
+Opel ,Zafira ,  1.6 Cosmo 
+Opel ,Zafira ,  1.6 CDTI Enjoy 
+Opel ,Zafira ,  1.6 Comfort 
+Ferrari ,F8 Tributo ,  2020
+Ferrari ,458 ,  Italia 
+Ferrari ,812 Superfast ,  2018
+Ferrari ,458 ,  Spider 
+Lancia ,Delta ,  1.6 Mjet 
+Lancia ,Y ( Ypsilon ) ,  1.3 Mjet 
+Lancia ,Y ( Ypsilon ) ,  1.4 
+Lancia ,Delta ,  1.4 T 
+Hyundai ,Sonata ,  2.0 SOHC GLS 
+Toyota ,GT86 ,  2.0 
+BMW ,3 Serisi ,  328i Technology 
+Audi ,S Serisi ,  S6 3.0 TDI Quattro 
+Audi ,S Serisi ,  S8 5.2 Quattro 
+Audi ,A4 ,  A4 Avant 2.0 TFSI Quattro 
+Audi ,R8 ,  5.2 FSI Quattro 
+Audi ,A8 ,  2.0 TFSI Quattro 
+Audi ,A3 ,  A3 Sportback 1.8 Ambiente 
+BMW ,M Serisi ,  M3 
+Opel ,Zafira ,  1.6 Elegance 
+Toyota ,Avensis ,  1.8 Elegant Extra 
+Toyota ,Carina ,  2.0 
+Audi ,A5 ,  A5 Sportback 2.0 TDI Quattro Dynamic 
+Audi ,A5 ,  A5 Sportback 40 G-Tron TFSI 
+BMW ,M Serisi ,  M6 
+Daewoo ,Lanos ,  1.6 SX 
+Opel ,Zafira ,  1.6 Enjoy 
+Ferrari ,California ,  T 
+Volkswagen ,Passat ,  1.6 GL 
+Toyota ,Corona ,  2.0 GLi 
+Toyota ,Avensis ,  2.0 D Verso 
+Toyota ,Corolla ,  1.4 Linea Sol 
+Peugeot ,207 ,  1.6 VTi Urban Move 
+Ford ,Fiesta ,  1.6 ST 
+Volkswagen ,Passat ,  2.0 TSI R Line 
+Mercedes - Benz ,300 ,  300 
+Volvo ,V60 Cross Country 2.0 D4 Advance ,  2015
+Mercedes - Benz ,S Serisi ,  S 400 400 L CDI 
+Volvo ,S60 ,  2.4 D Business 
+Volvo ,S80 ,  2.9 T6 
+Volvo ,740 ,  GLE 
+Toyota ,Corona ,  2.0 XL 
+Volkswagen ,Golf ,  1.6 GT 
+Toyota ,Prius ,  1.8 Premium 
+Toyota ,Camry ,  3.0 
+Tata ,Indica ,  1.4 TDI 
+Smart ,Fortwo ,  1.0 Passion 
+Smart ,Fortwo ,  EQ 
+Smart ,Fortwo ,  0.6 
+Smart ,Forfour ,  1.1 Passion 
+Smart ,Forfour ,  1.5 CDI Passion 
+Toyota ,Avensis ,  1.8 Terra 
+Renault ,Scenic ,  1.6 Extreme 
+Skoda ,Octavia ,  1.9 TDI Tour 
+Porsche ,Cayman ,  718 
+Renault ,Clio ,  1.2 Grandtour Executive 
+Seat ,Ibiza ,  2.0 GLX 
+Renault ,R 9 ,  1.4 TL 
+Peugeot ,306 ,  1.6 SR 
+Peugeot ,406 ,  3.0 SV 
+Peugeot ,306 ,  1.6 Diamond 
+Peugeot ,306 ,  2.0 Cabrio 
+Opel ,Corsa ,  1.4 Viva 
+Opel ,Astra ,  1.3 CDTI ecoFLEX Sport 
+Opel ,Astra ,  1.8 Enjoy 
+Opel ,Astra ,  1.3 CDTI ecoFLEX Enjoy 
+DS Automobiles ,DS 3 ,  1.6 e-HDi D-Style 
+DS Automobiles ,DS 3 ,  1.2 PureTech Start&Stop 
+DS Automobiles ,DS 5 ,  1.6 e-HDi D-Sport 
+Honda ,Civic ,  1.6 GL 
+Dacia ,Logan ,  1.6 Prestige 
+BMW ,i Serisi ,  i8 
+BMW ,i Serisi ,  i8 Premium Techno 
+BMW ,i Serisi i3 ,  i3 
+Jaguar ,XJS ,  6.0 
+Jaguar ,X-Type ,  3.0 Executive 
+Jaguar ,F-Type ,  3.0 S 
+Jaguar ,X-Type ,  2.5 Sport 
+BMW ,4 Serisi ,  418d Gran Coupe Prestige 
+BMW ,4 Serisi ,  420d xDrive Luxury Line 
+Hyundai ,i30 ,  1.4 CVVT Prime 
+Opel ,Tigra ,  1.4 
+Opel ,Tigra ,  1.6 
+Hyundai ,i10 ,  1.1 CRDi Select 
+Daihatsu ,Cuore ,  1.0 Low Grade 
+Daihatsu ,YRV ,  1.3 
+Daihatsu ,Sirion ,  1.0 
+Daihatsu ,YRV ,  1.3 CX 
+Daihatsu ,Sirion ,  1.3 
+Renault ,R 21 ,  2.0 Concorde 
+Renault ,R 21 ,  2.2 TXE 
+Opel ,Tigra ,  1.4 TT Sport 
+Maserati ,GranTurismo ,  4.2 
+Maserati ,Ghibli ,  3.0 
+Maserati ,Ghibli ,  3.0 D 
+Maserati ,GranTurismo ,  4.7 S 
+Hyundai ,Matrix ,  1.5 CRDi Select 
+Hyundai ,Matrix ,  1.5 CRDi Start 
+Hyundai ,Matrix ,  1.6 Select 
+Hyundai ,Matrix ,  1.6 Team 
+Ford ,Mustang ,  3.7 V6 
+Ford ,Mustang ,  5.0 Fastback 
+Ford ,Mustang ,  4.6 GT 
+Mercedes - Benz ,CLK ,  CLK 200 200 Komp. 
+Mercedes - Benz ,CLK ,  CLK 430 Elegance 
+Mercedes - Benz ,CLK ,  CLK 230 Komp. 230 Komp. 
+Renault ,Modus ,  1.6 Dynamique 
+Renault ,Modus ,  1.5 dCi Dynamique 
+Renault ,Modus ,  1.4 Dynamique 
+Ford ,B-Max ,  1.6 Trend 
+Geely ,Familia ,  1.5 Comfort 
+Geely ,FC ,  1.5 GSL 
+Geely ,Emgrand ,  1.5 GSL Premium 
+Geely ,Echo ,  1.3 Comfort 
+BMW ,7 Serisi ,  728i Long 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet Bi-Color 
+BMW ,3 Serisi ,  318i M Sport 
+Mitsubishi ,Lancer Evolution ,  VIII 
+Renault ,Laguna ,  2.0 Dynamique 
+Fiat ,Punto ,  1.2 
+Audi ,A3 ,  A3 Sedan 1.0 TFSI Sport Line 
+Audi ,A8 ,  4.2 TDI Quattro 
+Kia ,Cerato ,  1.6 LX Base 
+Audi ,A6 ,  A6 Sedan 1.8 Quattro 
+Audi ,A4 1.4 TFSI ,  A4 Sedan 
+Audi ,A4 ,  A4 Avant 2.5 TDI Quattro 
+Audi ,A5 ,  A5 Sportback 1.4 TFSI Dynamic 
+Audi ,A3 ,  A3 Hatchback 1.8 TFSI Attraction 
+BMW ,M Serisi ,  M3 Cabrio 
+BMW ,M Serisi ,  M2 Competition 
+BMW ,M Serisi ,  M8 Coupe xDrive Competition 
+BMW ,M Serisi ,  M235i xDrive 
+Renault ,Grand Scenic ,  1.5 dCi Expression 
+Daewoo ,Nexia ,  1.5 GTX 
+Daewoo ,Nubira ,  2.0 CDX 
+Opel ,Zafira ,  2.0 DTI Comfort 
+Opel ,Zafira ,  1.6 GL 
+Ferrari ,599 ,  GTB F1 
+Ferrari ,FF ,  6.3 
+Renault ,Twingo ,  1.2 Expression 
+Hyundai ,Sonata ,  2.7 GLS 
+Ford ,Taunus ,  2.3 LS 
+Volkswagen ,Passat ,  2.0 TFSI Sportline 
+Volkswagen ,Passat ,  2.8 Highline 
+Volkswagen ,Golf ,  1.6 TDI Allstar 
+Fiat ,Panda ,  1.2 Lounge 
+BMW ,5 Serisi 530i xDrive ,  Special Edition Luxury  
+BMW ,5 Serisi ,  525td Standart 
+BMW ,5 Serisi ,  528i xDrive Exclusive 
+BMW ,2 Serisi ,  216d Active Tourer Prestige 
+BMW ,2 Serisi ,  216d Active Tourer Premium Line 
+Alfa Romeo ,GT ,  1.9 JTD Q2 
+Alfa Romeo ,155 ,  2.0 TS Sport 
+Renault ,Clio ,  1.4 Executive 
+Nissan ,GT-R ,  Premium Edition 
+Mazda ,626 ,  2.0 DITD 
+Renault ,Clio ,  1.4 Tom Tom Edition 
+Seat ,Cordoba ,  2.0 GTI 
+Daihatsu ,Sirion ,  1.3 Sporty 
+BMW ,Z Serisi ,  Z4 3.0i sDrive 
+BMW ,Z Serisi ,  Z4 2.3i sDrive 
+BMW ,Z Serisi ,  Z3 1.9 
+BMW ,Z Serisi ,  Z4 3.0Si 
+Fiat ,500 Ailesi ,  500 0.9 TwinAir Sport 
+Suzuki ,S-Cross ,  1.6 GL 
+Renault ,Megane ,  1.9 CC Dynamique 
+BMW ,3 Serisi ,  318i Joy 
+Jaguar ,X-Type ,  2.5 SE High 
+Jaguar ,XJ ,  XJ6 2.7 D 
+BMW ,M Serisi ,  M4 Competition 
+Mazda ,6 ,  2.0 Skyactive-G Power Sense 
+BMW ,i Serisi ,  i8 Halo 
+BMW ,4 Serisi ,  435i M Sport 
+Hyundai ,Matrix ,  1.6 Start 
+Mitsubishi ,Galant ,  2.0 GLX 
+Ford ,Escort ,  1.4 Ghia 
+Audi ,A3 ,  A3 Hatchback 2.0 FSI Ambition 
+Mercedes - Benz ,E Serisi ,  E 250 D Classic 
+Mercedes - Benz ,E Serisi ,  E 400 CDI Avantgarde 
+Proton ,218 ,  GLXi 
+Renault ,Twingo ,  1.2 Wind 
+Mitsubishi ,Galant ,  1.6 GL 
+Toyota ,Verso ,  2.2 D-CAT Sol 
+Rover ,820 ,  Ti 
+Rover ,620 ,  Si 
+Seat ,Toledo ,  1.6 Magnus 
+Mazda ,MPV ,  2.0 
+Renault ,Megane ,  2.0 T RS 
+Renault ,Megane ,  2.0 Coupe Privilige 
+Peugeot ,306 ,  1.8 XS 
+Peugeot ,205 ,  1.4 XS 
+Ford ,C-Max 1.0 EcoBoost ,  Trend 
+Jaguar ,XJ ,  XJ8 3.5 Executive 
+Geely ,Emgrand ,  1.5 GSL Premium SR 
+Renault ,R 21 ,  1.6 Optima 
+Renault ,R 21 ,  1.7 GTS 
+Ford ,Mustang ,  2.3 Convertible 
+BMW ,Z Serisi ,  Z4 2.0 
+BMW ,Z Serisi ,  Z4 2.2 
+Ford ,B-Max ,  1.6 TDCi Trend 
+BMW ,5 Serisi ,  520d Dynamic 
+BMW ,5 Serisi ,  525d xDrive Executive Sport 
+Fiat ,500 Ailesi ,  500 1.2 Collozione Winter 
+Mercedes - Benz ,E Serisi ,  E 250 TD Classic 
+Citroën ,Xantia ,  1.8 
+Mercedes - Benz ,190 ,  190 D 2.5 Turbo 
+Volvo ,V60 ,  2.0 D3 R-Design 
+Volvo ,V40 ,  1.9 T4 
+Volkswagen ,Polo ,  1.6 Highline Classic 
+Audi ,A5 ,  A5 Coupe 2.0 TDI Design 
+Audi ,S Serisi ,  S3 1.8 T Quattro 
+Audi ,S Serisi ,  S6 4.2 Quattro 
+Audi ,A6 ,  A6 Avant 2.4 
+Audi ,A3 ,  A3 Sportback 1.6 TDI Standart 
+BMW ,M Serisi ,  M2 
+Smart ,Forfour ,  1.0 Passion 
+Seat ,Cordoba ,  1.4 TDI Reference 
+Seat ,Ibiza ,  1.2 Basic 
+Porsche ,Panamera ,  Panamera Turbo S 
+Toyota ,Camry ,  3.0 GX 
+Toyota ,Urban Cruiser ,  1.33 Elegant 
+Toyota ,Corona ,  1.6 XL 
+Toyota ,Camry ,  2.4 
+Nissan ,Almera ,  1.5 Mood 
+Opel ,Astra ,  1.3 CDTI ecoFLEX Cosmo 
+Jaguar ,XJ ,  2.0i Portfolio 
+BMW ,i Serisi i3 ,  Premium Techno 
+Daihatsu ,Sirion ,  1.3 Touring 
+Daihatsu ,Applause ,  1.6 Xi 
+Daihatsu ,Charade 1.5 ,  Classic 
+Maserati ,Quattroporte ,  3.0 TDi 
+Maserati ,GranCabrio ,  4.7 
+Maserati ,Quattroporte ,  4.7 S 
+Peugeot ,607 ,  2.0 HDi 
+Ford ,Mustang ,  4.0 
+BMW ,Z Serisi ,  Z4 2.0i sDrive Luxury  
+BMW ,Z Serisi ,  Z4 3.0 
+BMW ,Z Serisi ,  Z4 2.5 
+Peugeot ,607 ,  2.7 HDi Ivoire 
+BMW ,7 Serisi ,  760i xDrive Long M Sport  
+Peugeot ,407 ,  2.7 HDi Coupe 
+Honda ,Civic ,  1.5 VTEC Sport Plus 
+Volvo ,S80 ,  2.4 D Momentum 
+Volvo ,V70 ,  2.5 
+Volvo ,C30 ,  1.6 R-Design 
+Mercedes - Benz ,B Serisi ,  B 200 CDI BlueEfficiency 
+Mercedes - Benz ,CLS ,  55 AMG 
+Daewoo ,Nexia ,  1.5 GL 
+Ferrari ,F12 ,  Berlinetta 
+Hyundai ,Sonata ,  2.0 CRDi Select 
+Rover ,416 ,  SLi 
+Rover ,218 ,  Vi 
+Jaguar ,XJ ,  XJ8 3.2  
+Mercedes - Benz ,E Serisi ,  E 350 Exclusive 
+Renault ,Modus ,  1.5 dCi Authentique 
+Fiat ,500 Ailesi ,  500C 1.3 Mjet Pop 
+Ford ,Grand C-Max ,  1.6 TDCI Titanium X 
+Skoda ,Octavia ,  2.0 TDI Scout 
+Opel ,Astra ,  2.0 Coupe 
+Hyundai ,Elantra ,  1.5 GLS 
+Opel ,Corsa ,  1.4 Black Edition 
+BMW ,Z Serisi ,  Z4 3.5i sDrive 
+Mitsubishi ,Colt ,  1.5 DI-D Invite 
+Seat ,Leon ,  1.8 Signo 
+Smart ,Fortwo ,  0.7 Passion 
+DS Automobiles ,DS 4 ,  1.6 VTi D-Style 
+Volkswagen ,Passat Variant ,  1.6 FSI Exclusive 
+Peugeot ,406 ,  3.0 Coupe 
+Honda ,Civic ,  1.5 Shuttle 
+Citroën ,C5 ,  3.0 
+Ford ,Mustang ,  3.8 
+Audi ,A5 ,  A5 Cabrio 2.0 TDI 
+Jaguar ,XF ,  2.7 D Luxury  
+Daihatsu ,Materia ,  1.5 Silver 
+Daihatsu ,Applause ,  1.6 X 
+Daihatsu ,Materia ,  1.5 Gold 
+Mercedes - Benz ,E Serisi ,  E 200 Premium  
+Geely ,Emgrand ,  1.5 GSL Basic 
+Toyota ,Verso ,  1.6 Elegant Plus 
+Toyota ,Corolla 1.2 T ,  Flame 
+Volvo ,C30 ,  1.6 D Prime 
+Volvo ,V40 ,  1.9 TD 
+Volvo ,240 ,  GLE 
+Tata ,Manza ,  Ignis 1.4 Safire 
+Nissan ,Note ,  1.5 dCi Platinum 
+Renault ,R 19 ,  1.7 GTS 
+Citroën ,XM ,  2.5 
+BMW ,4 Serisi ,  418i Gran Coupe Luxury Plus 
+Maserati ,GranTurismo ,  MC-Stradale 
+Maserati ,Quattroporte ,  FL Sports GTS 
+Hyundai ,Matrix ,  1.5 CRDi GL 
+Chrysler ,300 C ,  3.6 
+Mitsubishi ,Colt ,  1.3 Inform 
+BMW ,3 Serisi ,  330i Premium  
+BMW ,3 Serisi ,  318tds Touring 
+Fiat ,Punto ,  1.9 D  
+Kia ,Cerato ,  1.6 GSL Core 
+Kia ,Carnival ,  2.5 LS Premium 
+Kia ,Venga ,  1.4 CRDi LX 
+Hyundai ,Accent Era ,  1.4 Prime 
+Opel ,Zafira ,  2.2 DTI Elegance 
+Fiat ,Panda ,  0.9 TwinAir Pop 
+Audi ,A6 ,  A6 allroad quattro 2.5 TDI 
+Jaguar ,XF 2.0 D ,  Portfolio Plus 
+Subaru ,Legacy ,  2.0 Elegance 
+Jaguar ,XF 2.0 D ,  R-Sport Plus 
+Mercedes - Benz ,C Serisi ,  C 220 d 220 d 
+Daewoo ,Matiz ,  0.8 S 
+Smart ,Roadster ,  Roadster 
+Volvo ,S80 ,  2.5 T Premium 
+Volkswagen ,Passat Variant ,  1.8 T 
+Volvo ,S40 ,  1.9 TD 
+Volkswagen ,Polo ,  1.6 Trendline Variant 
+Volkswagen ,Passat ,  1.9 CL 
+Toyota ,Celica ,  1.6 STi 
+Seat ,Ibiza ,  1.2 Sport Coupe Reference 
+Nissan ,Primera ,  2.0 Tekna 
+Mazda ,Premacy ,  2.0 DiTD 
+Ford ,Ka ,  1.2 Titanium 
+Citroën ,C4 Grand Picasso ,  2.0i 
+BMW ,4 Serisi ,  440i xDrive 
+Kia ,Rio ,  1.4 GSL Basic 
+Opel ,Zafira ,  1.4 Prestij 
+Hyundai ,Accent ,  1.3 GL Comfort 
+Citroën ,C3 ,  1.4 Collection 
+Suzuki ,Swift ,  1.2 GA 
+Mercedes - Benz ,A Serisi ,  A 180 Prime 
+Alfa Romeo ,164 ,  2.0 Turbo 
+Proton ,416 ,  GLXi 
+Proton ,Gen-2 ,  1.6 Medium Line 
+Seat ,Ibiza ,  1.9 D CL 
+Seat ,Ibiza ,  1.6 CLX 
+Renault ,Megane ,  1.9 DTi RXE 
+Maserati ,Quattroporte ,  Sport GT 
+Seat ,Ibiza ,  1.4 Costa 
+Opel ,Astra ,  1.9 CDTI GTC Sport 
+BMW ,7 Serisi ,  750d xDrive Long M Excellence 
+BMW ,5 Serisi ,  540i xDrive Executive M 
+Audi ,A6 ,  A6 Avant 3.0 TDI Quattro 
+Audi ,TT ,  1.8 TFSI 
+Audi ,A3 ,  A3 Cabrio 1.4 TFSI Dynamic 
+Audi ,A6 ,  A6 Sedan 1.8 T Quattro Advance 
+Mercedes - Benz ,C Serisi ,  C 320 CDI Avantgarde 
+Audi ,A4 ,  A4 Cabrio 3.0 
+Subaru ,Impreza ,  2.0 Elegance 
+Volvo ,S60 ,  1.6 D Momentum 
+Hyundai ,Sonata ,  2.4 GLS 
+Volvo ,C70 ,  2.0 D 
+Daihatsu ,YRV ,  1.3 Plus 
+Daihatsu ,Applause ,  1.6 Li 
+Daihatsu ,Charade ,  1.3 CS 
+Daihatsu ,Cuore ,  0.9 GLX 
+Daihatsu ,Cuore ,  1.0 High Grade 
+Daewoo ,Matiz ,  0.8 SE 
+Daewoo ,Leganza ,  2.0 CDX 
+DS Automobiles ,DS 4 ,  1.6 e-HDi D-Style 
+Toyota ,Corolla ,  1.4 
+Toyota ,Supra ,  2.0 
+Rover ,827 ,  Si 
+Renault ,Fluence ,  1.6 Bold Edition 
+Renault ,Clio ,  1.2 RL 
+Porsche ,Panamera ,  Panamera 4 - 10 Years Edition E-Hybrid 
+Opel ,Vectra ,  3.0 CDTI Elegance 
+Peugeot ,1007 ,  1.4 Trendy 
+Fiat ,Egea ,  1.6 E-Torq Sport  
+Citroën ,Xsara ,  1.6 VTR 
+BMW ,5 Serisi ,  530d xDrive M Sport 
+Renault ,Modus ,  1.6 Authentique 
+Ford ,B-Max ,  1.5 TDCi Trend 
+BMW ,3 Serisi ,  320d GT Modern Line 
+BMW ,3 Serisi ,  320d GT Sport Line 
+Toyota ,Avensis ,  2.0 D Sol Technic 
+Renault ,Laguna ,  1.8 
+Mercedes - Benz ,C Serisi ,  C 280 Elegance 
+Audi ,S Serisi ,  S4 2.7 Quattro 
+Jaguar ,XJ ,  2.0i Luxury 
+Seat ,Cordoba ,  1.4 SXE 
+Skoda ,Octavia ,  1.9 TDI Business 
+Hyundai ,Accent ,  1.3 1.3i L 
+Audi ,RS ,  RS 7 
+Citroën ,Xsara ,  1.9 D 
+Jaguar ,XJ ,  2.0i Premium Luxury Sport Plus 
+Daewoo ,Espero ,  2.0i CD 
+Smart ,Fortwo ,  1.0 Pulse 
+Smart ,Forfour ,  0.9 T 
+Toyota ,Crown ,  2.8 Super Saloon 
+BMW ,5 Serisi ,  520d Executive Sport 
+Peugeot ,405 ,  1.6 GR 
+Alfa Romeo ,MiTo ,  1.4 T MultiAir TCT 
+Honda ,Civic ,  1.6i VTEC LS 
+Porsche ,Panamera ,  Panamera S Hybrid 
+Jaguar ,XJ ,  XJ6 3.0 Executive 
+BMW ,Z Serisi ,  Z8 
+Volvo ,V50 ,  1.8 
+Toyota ,Previa ,  2.4 
+Skoda ,Roomster ,  1.4 TDI Scout 
+Renault ,Megane ,  1.9 D RNA 
+Opel ,Astra ,  1.4 T Black Edition 
+Audi ,A6 ,  A6 Sedan 2.8 Advance 
+Audi ,A6 ,  A6 Avant 2.0 TDI Quattro Sport 
+Audi ,A5 ,  A5 Coupe 3.0 TDI Quattro 
+Jaguar ,XJ ,  XJ8 4.2 Sovereign 
+Daihatsu ,Move ,  1.5 Gran Move 
+BMW ,2 Serisi ,  216d Gran Coupe First Edition Luxury Line  
+Volvo ,C70 ,  2.3 
+Volvo ,S60 ,  2.5 T Business 
+Toyota ,Urban Cruiser ,  1.4 D-4D Comfort 
+BMW ,4 Serisi ,  418i Joy 
+Maserati ,Quattroporte ,  4.2 Automatica 
+Ford ,Mustang ,  5.0 GT 
+Fiat ,Bravo ,  1.4 T-Jet Dynamic 
+Renault ,Megane ,  1.6 Legend 
+Ford ,Fiesta ,  1.4 Fashion 
+Mercedes - Benz ,B Serisi ,  B 180 CDI Special Edition 
+Volvo ,S80 ,  2.4 D Kinetic 
+BMW ,5 Serisi ,  520i Sport 
+Alfa Romeo ,GTV ,  2.0 TS 
+Alfa Romeo ,Giulia ,  2.0 T Sprint  
+Audi ,A3 ,  A3 Sedan 1.2 TFSI Ambiente 
+Audi ,A5 ,  A5 Cabrio 3.0 TDI Quattro 
+Hyundai ,Sonata ,  2.5 GLS 
+Volkswagen ,Polo ,  1.9 SDI Trendline 
+Mercedes - Benz ,E Serisi ,  E 250 TD Elegance 
+Mercedes - Benz ,E Serisi ,  E 250 CGI Prime 
+Citroën ,C4 ,  2.0 HDi Exclusive 
+Renault ,Laguna ,  2.0 Expression 
+Mercedes - Benz ,A Serisi ,  A 150 Classic 
+Opel ,Zafira ,  1.9 CDTI Enjoy 
+BMW ,3 Serisi ,  325td 
+Jaguar ,XF ,  3.0i R-Sport Plus 
+Smart ,Forfour ,  1.0 Proxy 
+Mercedes - Benz ,E Serisi ,  E 350 Classic 
+Mercedes - Benz ,CLK ,  CLK 270 CDI Avantgarde 
+Fiat ,500 Ailesi ,  500C 1.3 Mjet Lounge 
+Opel ,Zafira ,  2.0 OPC 
+Lancia ,Y ( Ypsilon ) ,  0.9 
+Kia ,Ceed ,  1.6 CRDi Project 
+Honda ,Civic ,  1.3 
+Honda ,Accord ,  2.2 VTEC 
+Ford ,Ka ,  1.3 TDCi Titanium 
+Citroën ,ZX ,  1.9 D X 
+Subaru ,Leone ,  1.6 
+Jaguar ,XE Portfollio ,  2.0 D 
+Jaguar ,XJ ,  XJ8 4.2 Executive 
+Hyundai ,Matrix ,  1.6 GL 
+Ford ,Mustang ,  Shelby GT 350 
+Kia ,Shuma ,  GS 
+DS Automobiles ,DS 3 ,  1.6 e-HDi D-Sport 
+Toyota ,Verso ,  2.0 D-4D 
+Toyota ,Prius ,  1.5 Hybrid 
+Peugeot ,308 ,  1.6 e-HDi Active Plus 
+Porsche ,944 ,  944 
+Audi ,A4 ,  A4 Sedan 2.0 TFSI Quattro Advanced 
+Jaguar ,XF ,  2.0 
+Daewoo ,Lanos ,  1.5 SX 
+Renault ,Grand Scenic ,  1.4 T Privilege 
+Toyota ,Avensis ,  2.2 D-4D Executive 
+Kia ,Cerato ,  1.6 LX Basic 
+Opel ,Zafira ,  1.9 CDTI Cosmo 
+Opel ,Zafira ,  1.8 Elegance 
+Skoda ,Roomster ,  1.6 CR TDI Scout 
+Skoda ,Fabia ,  1.0 TSI Style 
+Peugeot ,1007 ,  1.6 Trendy 
+Peugeot ,508 ,  1.6 Puretech GT Line 
+Opel ,Astra ,  1.7 DTI Coupe 
+Hyundai ,i30 ,  1.6 DOHC Team 
+Ford ,Escort ,  1.4 GLX 
+Chevrolet ,Caprice ,  4.3 STD 
+Chevrolet ,Impala ,  5.7 
+Mercedes - Benz ,E Serisi ,  E 55 AMG 
+BMW ,5 Serisi ,  530 xDrive Touring 
+Mercedes - Benz ,E Serisi ,  E 280 Classic 
+BMW ,Z Serisi ,  Z4 2.0i sDrive M Sport  
+Mercedes - Benz ,CLA ,  220 CDI  
+Volvo ,S90 ,  2.0 D D5 R-Design 
+Volvo ,460 ,  1.9 GLT 
+Volvo ,850 ,  2.5 GLT 
+Toyota ,Picnic ,  2.0 
+Seat ,Toledo ,  1.8 GLX 
+Renault ,R 19 ,  1.9 TD 
+Renault ,Symbol ,  1.6 Authentique 
+Renault ,Megane ,  1.4 Premiere 
+Renault ,Megane ,  1.6 Grandtour Dynamique 
+Renault ,Megane ,  1.4 T Color Edition 
+Dacia ,Sandero ,  1.6 Laureate 
+Mazda ,MX ,  MX-5 1.8 
+Audi ,A4 ,  A4 Cabrio 2.0 TFSI 
+Jaguar ,F-Type ,  5.0 S Plus 
+Jaguar ,XJ ,  3.0 D Premium Luxury 
+Hyundai ,Atos ,  1.0 GL Prime 
+Smart ,Fortwo ,  0.7 Pure 
+BMW ,1 Serisi ,  116d Urban Plus 
+Mitsubishi ,Galant ,  2.0 GTi 
+Kia ,Stinger 2.0 GDI GT Line ,  2018
+Rover ,400 ,  2.0 
+Ford ,Mondeo ,  2.5 Ghia 
+Ford ,Fiesta ,  1.0 GTDi Red 
+BMW ,3 Serisi ,  320i ED Joy 
+BMW ,5 Serisi ,  520d Gran Turismo Pure 
+Ford ,Focus ,  2.3 RS 
+Audi ,A2 ,  1.4 
+Hyundai ,Atos ,  1.0 GL 
+Renault ,Grand Scenic ,  1.5 dCi Icon 
+Mercedes - Benz ,E Serisi ,  E 350 CDI BlueEfficiency Dynamic 
+Mercedes - Benz ,E Serisi ,  E 320 Classic 
+Volkswagen ,Polo ,  1.9 SDI Comfortline 
+BMW ,4 Serisi ,  420d xDrive Premium 
+Hyundai ,Matrix ,  1.6 Prime 
+Hyundai ,Matrix ,  1.6 Style 
+Fiat ,500 Ailesi ,  500C 1.2 Dolcevita  
+Kia ,Shuma ,  RS 
+Mercedes - Benz ,S Serisi ,  S 500 500 L Prestige 
+Audi ,A4 ,  A4 Sedan 2.0 TFSI Quattro Dynamic 
+Subaru ,Legacy ,  2.0 LX 
+Hyundai ,Atos ,  1.0 GLS Prime 
+Ford ,Taunus ,  2.0 L 
+BMW ,Z Serisi ,  Z4 3.5is sDrive 
+Smart ,Fortwo ,  0.7 Pulse 
+Mercedes - Benz ,E Serisi ,  E 250 D Avantgarde 
+Mercedes - Benz ,C Serisi ,  C 200 D Elegance 
+Volvo ,S70 ,  2.5 T 
+Lancia ,Thema ,  3.0 CRD 
+Fiat ,Panda ,  1.2 Climbing 4x4 
+DS Automobiles ,DS 3 ,  1.2 VTi D-Style 
+Renault ,Scenic ,  1.9 dCi Sportway 
+Nissan ,Bluebird ,  2.0 GL 
+Lada ,VAZ ,  1.6 
+Mercedes - Benz ,CLK ,  CLK 320 CDI Avantgarde 
+Fiat ,500 Ailesi ,  500 0.9 TwinAir Cinquecento 
+Mitsubishi ,3000GT ,  1997
+Lancia ,Delta ,  1.8 
+Mercedes - Benz ,300 ,  300 CE 24 
+Porsche ,928 ,  S4 
+Skoda ,Superb ,  1.8 T Elegance 
+Nissan ,Primera ,  2.2 TD Visia 
+Volkswagen ,Polo ,  1.9 
+Volkswagen ,Beetle ,  1.6 
+Mercedes - Benz ,C Serisi ,  C 200 CDI Esprit 
+Peugeot ,205 ,  1.1 XR 
+Honda ,CRX ,  1.6 VTi 
+Peugeot ,307 ,  2.0 HDi Pack 
+Peugeot ,306 ,  1.9 XRD 
+Jaguar ,XJ ,  XJ6 4.0 
+Jaguar ,XJS ,  4.0 
+Ford ,Escort ,  Cosworth 
+Fiat ,Tipo ,  1.4 ie S 
+Ford ,Fiesta ,  1.6 XR2i 
+Fiat ,500 Ailesi ,  500C 1.2 Popstar 
+Fiat ,500 Ailesi ,  500 0.9 TwinAir GQ 
+BMW ,5 Serisi ,  535d xDrive Comfort 
+BMW ,3 Serisi ,  320d xDrive Advantage 
+Chevrolet ,Kalos ,  1.4 S 
+BMW ,7 Serisi ,  730i Long Luxury 
+Audi ,A6 ,  A6 Avant 2.8 
+Chrysler ,200 C ,  2.4 
+Subaru ,Legacy ,  2.0 TD Elegance 
+Volkswagen ,Passat ,  1.5 TSI Highline  
+Audi ,A6 ,  A6 Avant 2.7 TDI 
+Volvo ,S40 ,  1.9 D 
+Volkswagen ,Jetta ,  1.8 GL 
+Volkswagen ,Golf ,  1.9 TDI Trendline 
+Volkswagen ,Golf ,  1.8 GTI 
+Honda ,Civic ,  1.5i VTEC RS 
+Rover ,75 ,  2.5 Club  
+Rover ,45 ,  1.6 Classic 
+Citroën ,Evasion ,  2.0 X 
+Kia ,Rio ,  1.3 Classic 
+Audi ,100 Serisi ,  2.0 D 
+Audi ,A3 ,  A3 Sportback 1.8 T Attraction 
+Alfa Romeo ,145 ,  1.6 TS Sportivo 
+BMW ,7 Serisi ,  740e xDrive Long M Excellence 
+Volkswagen ,Golf ,  1.1 
+BMW ,3 Serisi ,  318i Sport Line 
+Audi ,A3 ,  A3 Sportback 1.8 T Ambiente 
+Renault ,Scenic ,  1.5 dCi Authentique 
+Skoda ,Octavia ,  2.0 RS 
+Ford ,Fiesta ,  1.1 Fashion 
+Peugeot ,307 ,  2.0 XS 
+Peugeot ,407 ,  2.0 HDi Dynamic Premium 
+Peugeot ,306 ,  1.6 Cabrio 
+Peugeot ,308 ,  1.6 HDi Allure 
+Mercedes - Benz ,E Serisi ,  E 250 CDI Prime 
+Jaguar ,XKR ,  5.0 
+Jaguar ,XF ,  3.0 D S Portfolio 
+Volkswagen ,Passat ,  2.0 FSI Trendline 
+Volkswagen ,Bora ,  1.9 TDI Trendline 
+BMW ,4 Serisi ,  418i Ultimate M Sport 
+Suzuki ,Alto ,  1.0 
+Audi ,90 Serisi ,  2.0 
+Audi ,80 Serisi ,  2.0 Quattro 
+BMW ,5 Serisi ,  540i Touring 
+BMW ,2 Serisi ,  218i Active Tourer Luxury Line 
+BMW ,7 Serisi ,  730d Long Prestige 
+Mazda ,6 ,  2.0 Comfort 
+Citroën ,C4 Picasso ,  1.6 HDi Grand Intensive 
+Audi ,TT ,  2.0 TDI Quattro 
+BMW ,1 Serisi ,  116d Sport Line 
+Audi ,A4 ,  A4 Avant 1.8 
+Kia ,Stinger 2.0 GDI GT Line ,  2019
+Fiat ,Bravo ,  1.4 Turbo Active 
+Fiat ,500 Ailesi ,  500L 1.6 Mjet Beats Edition 
+BMW ,5 Serisi ,  550d xDrive M Sport 
+Alfa Romeo ,155 ,  2.0 TS Super Losso 
+BMW ,7 Serisi ,  750d xDrive Executive Lounge 
+Peugeot ,308 ,  1.6 THP Active 
+Peugeot ,405 ,  1.6 GLi 
+Nissan ,Note ,  1.6 Tekna Pack 
+Ford ,Escort ,  1.6 Fun 
+Chevrolet ,Malibu ,  3.1 
+Mitsubishi ,Lancer ,  1.3 GLX 
+Mercedes - Benz ,CLS ,  250 CDI BlueEfficiency 
+Chrysler ,Sebring ,  2.0 CRD Convertible 
+Renault ,Megane ,  1.6 Grandtour Privilege 
+Volkswagen ,Passat ,  2.8 
+Peugeot ,605 ,  3.0 
+Rover ,214 ,  Cabriolet 
+Mini ,Cooper ,  1.6 Bayswater 
+Mercedes - Benz ,A Serisi ,  A 150 Trend 
+Citroën ,C5 ,  1.8 
+Alfa Romeo ,156 ,  1.9 JTD Impression 
+Mitsubishi ,Galant ,  2.4 GDI Elegance 
+Volkswagen ,Passat ,  2.5 TDI Trendline 
+Mercedes - Benz ,S Serisi ,  S 450 Sport 
+Ford ,Mondeo ,  2.0 TDCi Vignale 
+Fiat ,500 Ailesi 500 Abarth ,  695 Biposto 
+Fiat ,500 Ailesi 500 Abarth ,  595 Pista 
+Citroën ,ZX ,  1.8 Avantage 
+BMW ,5 Serisi ,  535d xDrive xDrive 
+Audi ,A4 ,  A4 Avant 2.0 
+Audi ,A8 ,  2.5 TDI 
+Ford ,Focus ,  1.6 SCTi Trend Plus 
+Volkswagen ,Jetta ,  1.8 GT 
+Toyota ,Avensis ,  2.0 Executive Comfort 
+Fiat ,Palio ,  1.6 Weekend 
+Renault ,Megane ,  2.0 Privilege 
+Kia ,Sephia ,  1.5 RS 
+BMW ,7 Serisi ,  730d xDrive Long M Sport 
+Fiat ,Linea ,  1.4 Fire VIA 
+Audi ,S Serisi ,  S4 4.2 Quattro 
+Alfa Romeo ,166 ,  2.4 JTD 
+Seat ,Leon ,  1.9 TDI Signo 
+Renault ,Megane ,  2.0 RS 
+Mercedes - Benz ,C Serisi ,  C 220 Elegance 
+Opel ,Insignia ,  2.8 OPC 
+Nissan ,Primera ,  2.0 TD SLX 
+Citroën ,XM ,  2.0 CT VSX 
+Mercedes - Benz ,A Serisi ,  A 200 Elegance 
+Peugeot ,206 ,  1.4 HDi Pop Art 
+Chrysler ,PT Cruiser ,  1.6 Classic 
+Chrysler ,Crossfire ,  Coupe 3.2 
+Seat ,Cordoba ,  1.6 SX 
+Skoda ,Favorit ,  135 LSE 
+Renault ,Megane ,  1.4 Sport 
+Renault ,Scenic ,  2.0 Sportway 
+Opel ,Astra ,  2.0 Cosmo 
+Mercedes - Benz ,S Serisi ,  S 300 300 Turbo D 
+Kia ,Picanto ,  1.25 MPI Cool 
+Peugeot ,806 ,  1.9 STDT 
+Peugeot ,205 ,  1.6 GTI 
+Fiat ,500 Ailesi ,  500 1.2 Popstar 
+Volkswagen ,Passat Variant ,  1.6 TDI BlueMotion Elegance 
+Subaru ,Impreza ,  1.6 GX 
+Mazda ,323 ,  1.7 D LX 
+Volvo ,850 ,  2.5 TDI 
+Hyundai ,i20 ,Model  1.2 MPI Style 
+Hyundai ,i20 ,Model  1.4 CRDi Elite 
+Hyundai ,i20 ,Model  1.2 D-CVVT Elite 
+Hyundai ,Elantra ,Model  1.6 D-CVVT Tune 
+Hyundai ,Accent ,Model  1.3 LX 
+Hyundai ,Accent ,Model  1.3 LS 
+BMW ,4 Serisi ,  418i Pure 
+Skoda ,Octavia ,  1.6 LX 
+Citroën ,AX ,  1.1 First 
+Citroën ,C8 ,  2.0 HDi SX 
+Audi ,A3 ,  A3 Sportback 1.9 TDI Attraction 
+Audi ,A6 ,  A6 Sedan 2.0 TDI Design 
+BMW ,5 Serisi ,  530d xDrive Luxury Line 
+BMW ,2 Serisi ,  218i Gran Tourer Luxury Plus 
+BMW ,7 Serisi ,  750d xDrive Long M Sport 
+BMW ,7 Serisi ,  730i Exclusive 
+Opel ,Insignia ,  2.0 T Sport 
+Nissan ,Maxima ,  3.0 QX 
+Mercedes - Benz ,E Serisi ,  E 250 D Elegance 
+Fiat ,Brava ,  1.4 SX 
+Chevrolet ,SSR 5.3 ,  2005
+Chevrolet ,Camaro ,  3.8 
+BMW ,4 Serisi ,  430i xDrive Luxury Plus 
+BMW ,4 Serisi ,  420d xDrive Gran Coupe Luxury Plus 
+Rover ,45 ,  1.6 Comfort Club 
+Opel ,Meriva ,  1.7 CDTI 
+Volvo ,V40 ,  1.6 T3 Premium 
+Volvo ,S80 ,  2.5 T 
+Opel ,Astra ,  1.4 T 120.Yýl 
+Mini ,Cooper S ,  2.0 
+Citroën ,C2 ,  1.4 HDi VTR 
+BMW ,3 Serisi ,  328i Touring 
+Volkswagen ,Passat Variant ,  1.8 CL 
+Mazda ,626 ,  1.9 LX 
+Jaguar ,XK8 ,  4.2 
+Jaguar ,X-Type ,  2.5 Classic 
+Chevrolet ,Lacetti ,  2.0 D Platinum 
+Volvo ,V40 ,  1.6 T4 
+Rover ,25 ,  1.4 Club 
+Dacia ,1310 ,  1310 L 
+Alfa Romeo ,164 ,  2.0 TS 
+Subaru ,Legacy ,  2.5 Outback 
+Renault ,R 19 ,  1.8 RXT 
+Opel ,Vectra ,  2.2 Comfort 
+Nissan ,Altima ,  2.4 GXE 
+Mazda ,6 ,  2.0 CD TE 
+Ford ,Focus ,  1.8 Di Ghia 
+Mini ,Cooper Clubman ,  1.5 Iconic  
+Mini ,Cooper Clubman ,  1.5 Salt 
+BMW ,4 Serisi ,  418i Gran Coupe Pure 

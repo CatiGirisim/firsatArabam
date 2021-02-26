@@ -1,0 +1,15 @@
+her datayı sil:
+
+DELETE FROM firsatarabam.public.server1;
+
+cursor.execute("DELETE FROM {}".format(server_table_name))
+
+
+belli datayı sil:
+
+DELETE FROM firsatarabam.public.server1 WHERE dummy = '' AND brand = 'a';
+
+
+
+
+

@@ -1,0 +1,2722 @@
+alfa-romeo,giulietta,1.4 TB MultiAir Distinctive
+alfa-romeo,giulietta,1.6 JTD Distinctive
+audi,a1,1.6 TDI Attraction
+audi,a3,A3 Cabrio 1.4 TFSI
+audi,a3,A3 Sedan 1.6 TDI Dynamic
+audi,a3,A3 Sedan 1.6 TDI Attraction
+audi,a3,A3 Sportback 1.6 TDI Ambiente
+audi,a3,A3 Sedan 1.6 TDI Sport Line
+audi,a3,A3 Sedan 1.6 TDI Ambition
+audi,a3,A3 Sedan 1.6 TDI Ambiente
+seat,ibiza,1.4 TDI Stylance
+audi,a3,A3 Sedan 30 TFSI Design
+audi,a3,A3 Sportback 1.4 TFSI Ambiente
+audi,a3,A3 Sportback 1.4 TFSI Ambition
+audi,a4,A4 Sedan 2.0 TDI
+fiat,albea,1.3 Multijet Active
+audi,a3,A3 Sportback 1.4 TFSI Attraction
+audi,a3,A3 Sportback 1.6 Standart
+audi,a3,A3 Sportback 1.6 Attraction
+audi,a3,A3 Sportback 1.6 Ambition
+audi,a3,A3 Sportback 1.6 FSI
+audi,a3,A3 Sportback 1.6 Sportback Ambiente
+audi,a3,A3 Sportback 1.6 TDI Attraction
+audi,a3,A3 Sportback 1.6 TDI Sport Line
+ford,escort,1.6 CLX
+audi,a3,A3 Sportback 30 TFSI Sport
+audi,a3,A3 Sportback 30 TFSI Dynamic
+audi,a3,A3 Sportback 35 TFSI Design
+audi,a4,A4 Sedan 1.4 TFSI
+audi,a4,A4 Sedan 1.6
+audi,a4,A4 Sedan 1.8 TFSI
+audi,a4,A4 Sedan 2.0 TDI Advanced
+audi,a4,A4 Sedan 2.0 TDI Dynamic
+audi,a4,A4 Sedan 2.0 TDI Quattro
+audi,a4,A4 Sedan 2.0 TDI S Line
+bmw,1-serisi,116i Standart
+fiat,egea,1.3 Multijet Easy
+audi,a5,A5 Coupe 1.4 TFSI Sport
+audi,a5,A5 Coupe 1.8 TFSI
+audi,a5,A5 Coupe 2.0 TFSI Quattro
+audi,a5,A5 Sportback 1.4 TFSI
+honda,civic,1.5 i-VTEC Sport
+audi,a5,A5 Sportback 2.0 TDI Quattro
+audi,a6,A6 Sedan 2.0 TDI
+bmw,3-serisi,316i Standart
+audi,a6,A6 Sedan 2.0 TDI Quattro
+audi,a6,A6 Sedan 2.0 TFSI
+audi,a8,4.2 Quattro Long
+audi,tt,1.8 1.8 T
+bmw,1-serisi,116d First Edition Sport Line
+bmw,1-serisi,116d Joy Plus
+toyota,corolla,1.6 Comfort Extra
+bmw,1-serisi,116d ED EfficientDynamics
+bmw,1-serisi,116i Comfort
+bmw,1-serisi,116i Joy Edition
+bmw,1-serisi,116i M Sport
+opel,astra,1.6 Classic
+bmw,1-serisi,118i M Plus
+bmw,1-serisi,118i One Edition
+bmw,1-serisi,118i Pure
+bmw,2-serisi,216d Gran Coupe First Edition M Sport
+bmw,2-serisi,218i M Sport
+bmw,3-serisi,316i Comfort
+bmw,5-serisi,520i Standart
+renault,fluence,1.5 dCi Touch
+bmw,3-serisi,316i M Sport
+chevrolet,cruze,1.6 Sport Plus
+peugeot,406,2.0 SV
+bmw,3-serisi,316i Premium
+bmw,3-serisi,316i Technology
+bmw,3-serisi,318d 40th Year Edition
+bmw,3-serisi,318d Prestige
+bmw,3-serisi,318i 40th Year Edition
+bmw,3-serisi,318i Premium Line
+renault,symbol,1.5 dCi Touch
+bmw,3-serisi,318i Standart
+bmw,3-serisi,320d Comfort
+bmw,3-serisi,320d M Sport
+renault,laguna,1.6 Expression
+bmw,3-serisi,320d Premium
+bmw,3-serisi,320d Premium Line
+bmw,3-serisi,320d Standart
+bmw,3-serisi,320d Techno Plus
+citroen,c3,1.4 X Furio
+bmw,3-serisi,320d Touring
+bmw,3-serisi,320d xDrive Techno Plus
+bmw,3-serisi,320d xDrive GT Sport Line
+bmw,3-serisi,320i
+bmw,3-serisi,320i Coupe
+opel,corsa,1.2 Essentia
+bmw,3-serisi,320i First Edition M Sport
+bmw,3-serisi,320i ED 40th Year Edition
+bmw,3-serisi,320i ED Luxury Line
+bmw,3-serisi,320i ED Luxury Line Plus
+bmw,3-serisi,320i ED Sport Line
+bmw,3-serisi,320i ED Sport Plus
+bmw,3-serisi,320i ED Standart
+bmw,4-serisi,418i Gran Coupe M Sport
+citroen,c3,1.4 HDi Attraction
+bmw,4-serisi,428i xDrive M Sport
+bmw,5-serisi,520d Comfort
+bmw,5-serisi,525d xDrive M Sport
+bmw,5-serisi,520d Exclusive
+bmw,5-serisi,520d M Sport
+bmw,5-serisi,520d Premium
+bmw,5-serisi,520d Standart
+bmw,5-serisi,520i Comfort
+bmw,5-serisi,520i Executive
+opel,corsa,1.3 CDTI Essentia
+bmw,5-serisi,520i Executive M Sport
+bmw,5-serisi,520i Executive Plus
+citroen,c3,1.6 HDi SX
+bmw,5-serisi,520i M Sport
+bmw,5-serisi,520i Modern Line
+bmw,5-serisi,520i Premium
+bmw,5-serisi,520i Special Edition Luxury
+bmw,5-serisi,520i Special Edition M Sport
+bmw,5-serisi,520i Sport Line
+volvo,v40,1.5 T3 Inscription
+bmw,5-serisi,525d xDrive Premium
+bmw,5-serisi,525d xDrive xDrive
+bmw,5-serisi,530d Standart
+bmw,5-serisi,530i Standart
+bmw,5-serisi,530xi Standart
+bmw,6-serisi,630i
+bmw,7-serisi,730d xDrive Long Executive Lounge
+renault,megane,1.5 dCi Authentique
+bmw,z-serisi,Z4 2.8i sDrive
+chery,alia,1.6L Acteco Lusso
+chevrolet,aveo,1.2 SE
+chevrolet,aveo,1.3 D LT
+chevrolet,aveo,1.3 D LTZ
+chevrolet,aveo,1.4 LS
+citroen,c-elysee,1.6 HDi Attraction
+opel,astra,1.6 Essentia
+chevrolet,aveo,1.4 LT
+chevrolet,aveo,1.4 LTZ
+chevrolet,aveo,1.4 S
+chevrolet,aveo,1.4 SE
+chevrolet,aveo,1.4 SX
+chevrolet,cruze,1.6 LS
+chevrolet,lacetti,1.6 WTCC
+renault,laguna,1.6 Privilege
+chevrolet,cruze,1.6 LS Plus
+chevrolet,cruze,1.6 LT Plus
+dacia,lodgy,1.5 dCi Laureate
+chevrolet,cruze,1.6 WTCC Edition Plus
+chevrolet,cruze,2.0 D LT
+chevrolet,kalos,1.2 SE
+chevrolet,kalos,1.4 SX
+chevrolet,lacetti,1.4 SE
+chevrolet,lacetti,1.6 SX
+dacia,logan,1.5 dCi Ambiance
+chevrolet,spark,0.8 S
+chevrolet,spark,1.0
+chevrolet,spark,1.0 SE
+citroen,c1,1.0 SX
+citroen,c1,1.0 SX Sensodrive
+citroen,c1,1.0 VTi Airscape
+citroen,c1,1.0 VTi Shine
+citroen,c3,1.4 SX
+citroen,c3,1.4 HDi SX
+citroen,c3,1.4 HDi X
+citroen,c3,1.4 HDi X Furio
+citroen,c3,1.6 BlueHDI Live
+opel,astra,1.6 Essentia Konfor
+citroen,c4,1.4 SX
+citroen,c4,1.4 VTi Attraction
+citroen,c4,1.6 THP Exclusive
+citroen,c4,1.6 e-HDi Confort
+citroen,c4,1.6 e-HDi Confort Plus
+citroen,c4,1.6 HDi Attraction
+citroen,c4,1.6 HDi Confort
+citroen,c4,1.6 HDi Confort Plus
+citroen,c4,1.6 HDi SX
+dacia,logan,1.5 dCi MCV Ambiance
+citroen,c4-grand-picasso,1.6 BlueHDi Intensive
+citroen,c5,1.6 e-HDi Confort
+citroen,c5,1.6 e-HDi Dynamique
+citroen,c5,1.6 e-HDi Executive
+citroen,c5,1.6 HDi Executive
+citroen,c5,1.6 HDi SX
+dacia,logan,1.5 dCi MCV Black Line
+citroen,c5,1.6 HDi SX PK
+citroen,c-elysee,1.2 PureTech Live
+citroen,c-elysee,1.2 VTi Attraction
+citroen,c-elysee,1.2 VTi Exclusive
+citroen,c-elysee,1.5 BlueHDi Feel
+dacia,logan,1.6 MCV Ambiance
+citroen,c-elysee,1.6 BlueHDi Live
+renault,r-9,1.4 Broadway RN
+citroen,c-elysee,1.6 HDi Confort
+dacia,sandero,1.2 Ambiance
+renault,laguna,1.9 DTi RXE
+citroen,c-elysee,1.6 HDi Exclusive
+citroen,c-elysee,1.6 HDi Feel
+fiat,albea,1.2 EL
+renault,laguna,2.0 RXE
+citroen,c-elysee,1.6 HDi Live
+citroen,c-elysee,1.6 HDi Shine
+citroen,saxo,1.5D SX
+citroen,saxo,1.6 VTR
+citroen,saxo,1.6 VTS
+dacia,lodgy,1.5 dCi Allroad
+dacia,logan,1.4 Ambiance
+dacia,logan,1.4 Black Line
+dacia,logan,1.4 Laureate
+dacia,sandero,0.9 TCe Stepway
+dacia,sandero,0.9 TCe Stepway Ambiance
+dacia,sandero,0.9 TCe Stepway Easy-R
+dacia,sandero,0.9 Turbo Stepway
+dacia,sandero,1.5 BlueDCI Stepway
+dacia,sandero,1.5 dCi Ambiance
+dacia,sandero,1.5 dCi Black Line
+dacia,sandero,1.5 dCi Stepway
+renault,r-9,1.4 Broadway RNi
+kia,rio,1.5 CRDi EX Comfort
+dacia,sandero,1.5 dCi Stepway Style
+volkswagen,polo,1.4 Basicline
+dacia,solenza,1.4 Scala
+daihatsu,cuore,0.9 GL
+ds-automobiles,ds3,1.2 PureTech
+fiat,500-ailesi,500 1.2 Lounge
+fiat,500-ailesi,500C 1.2 Cult
+fiat,500-ailesi,500L 1.3 Mjet Cross Plus
+fiat,albea,1.2 HL
+fiat,500-ailesi,500L 1.3 Mjet Panoramic Edition
+fiat,500-ailesi,500L 1.4 PopStar
+fiat,albea,1.2 Active
+fiat,albea,1.2 Dynamic
+fiat,albea,1.3 Multijet Dynamic
+fiat,albea,1.3 Multijet EL
+fiat,albea,1.4 Fire Dynamic
+fiat,albea,Sole 1.3 Multijet Dynamic
+fiat,albea,Sole 1.4 Fire Dynamic
+fiat,albea,Sole 1.4 Fire Premio
+fiat,brava,1.6 ELX
+fiat,brava,1.6 SX
+fiat,bravo,1.4 Turbo Emotion
+fiat,bravo,1.6 Mjet Dynamic
+fiat,egea,1.4 Fire Easy
+fiat,egea,1.3 Multijet Easy Plus
+fiat,egea,1.3 Multijet Urban
+fiat,egea,1.3 Multijet Urban Plus
+fiat,egea,1.6 Multijet Urban Plus
+fiat,egea,1.4 Fire Mirror
+fiat,egea,1.4 Fire Street
+fiat,egea,1.4 Fire Urban
+fiat,egea,1.4 Fire Urban Plus
+fiat,linea,1.3 Multijet Pop
+fiat,egea,1.6 E-Torq Easy
+fiat,egea,1.6 E-Torq Mirror
+fiat,egea,1.6 E-Torq Urban
+ford,focus,1.6 TDCi Titanium
+fiat,egea,1.6 E-Torq Urban Plus
+fiat,egea,1.6 Multijet Comfort
+fiat,egea,1.6 Multijet Easy
+fiat,linea,1.3 Multijet Dynamic
+fiat,egea,1.6 Multijet Easy Plus
+fiat,egea,1.6 Multijet Lounge
+fiat,egea,1.6 Multijet Lounge Plus
+fiat,egea,1.6 Multijet Street
+opel,astra,1.4 Classic
+fiat,idea,1.4 Dynamic Plus
+fiat,linea,1.3 Multijet Active
+fiat,linea,1.3 Multijet Active Plus
+opel,corsa,1.2 Twinport Essentia
+fiat,linea,1.3 Multijet Actual
+fiat,linea,1.3 Multijet Actual Plus
+fiat,palio,1.4 EL
+fiat,linea,1.3 Multijet Easy
+fiat,linea,1.3 Multijet Urban
+fiat,linea,1.4 Fire Actual Plus
+fiat,linea,1.4 Fire Dynamic
+fiat,linea,1.6 Multijet Lounge
+fiat,marea,1.6 ELX
+fiat,marea,1.6 Liberty
+fiat,marea,1.6 SX
+fiat,palio,1.2 EL
+fiat,palio,1.2 EL Speedgear
+fiat,palio,1.4 EL Weekend
+fiat,palio,1.2 EL Weekend
+fiat,palio,1.2 Go
+fiat,palio,1.2 SL
+fiat,palio,1.3 Multijet Active
+fiat,palio,1.3 Multijet EL
+fiat,palio,1.4 Fire Active
+fiat,palio,1.4 Fire Dynamic Sole
+fiat,palio,1.4 Fire Premio Sole
+fiat,palio,1.6 HL
+fiat,palio,1.6 HL Weekend
+fiat,palio,1.6 Sporting
+fiat,panda,1.2 Dynamic
+fiat,panda,1.2 Pop
+fiat,punto,1.2 Popstar
+fiat,punto,1.3 Multijet Dynamic
+fiat,punto,1.3 Multijet Lounge
+fiat,punto,1.3 Multijet Pop
+fiat,punto,EVO 1.3 Multijet Dynamic
+fiat,punto,EVO 1.4 Multiair Dynamic
+fiat,punto,Grande 1.3 Multijet 1.3 Multijet
+fiat,punto,Grande 1.3 Multijet Active
+fiat,punto,Grande 1.3 Multijet Dynamic
+fiat,punto,Grande 1.3 Multijet Emotion
+fiat,punto,Grande 1.4 Fire Fun
+fiat,punto,Grande 1.4 Fire S&S
+fiat,siena,1.2 S
+fiat,stilo,1.6 Active
+fiat,stilo,1.6 Actual
+fiat,tempra,1.6 SX
+fiat,tempra,1.6 SX A
+fiat,tempra,1.6 SX AK
+fiat,tipo,1.6 SLX ie
+fiat,tempra,1.6 SX SW
+fiat,tipo,1.4 ie
+fiat,tipo,1.4 S
+fiat,tipo,1.4 SX
+fiat,tipo,1.4 SX ie
+fiat,tipo,1.6 SLX
+fiat,tipo,1.6 SX
+fiat,tipo,2.0 ie
+ford,b-max,1.4 Trend
+ford,b-max,1.6 TDCi Titanium
+ford,c-max,1.6 Trend
+ford,c-max,1.6 TDCi Ghia
+ford,c-max,1.6 TDCi Titanium
+ford,c-max,1.6 TDCi Titanium X
+ford,c-max,1.6 TDCi Trend
+ford,escort,1.4 CL
+ford,escort,1.6 CL
+ford,fiesta,1.0 GTDi Titanium X
+ford,fiesta,1.25 Flair
+ford,fiesta,1.25 Ghia
+ford,fiesta,1.25 My Fiesta
+ford,fiesta,1.25 Trend
+ford,fiesta,1.4 TDCi Titanium X
+ford,fiesta,1.25 Trend X
+ford,fiesta,1.4 Collection
+ford,fiesta,1.4 Comfort
+ford,fiesta,1.4 Titanium
+ford,fiesta,1.4 Fun
+hyundai,i20,1.4 CRDi Jump
+ford,fiesta,1.4 Titanium X
+ford,fiesta,1.4 Trend
+ford,fiesta,1.4 TDCi Collection
+ford,fiesta,1.4 TDCi Comfort
+ford,fiesta,1.4 TDCi My Fiesta
+ford,fiesta,1.4 TDCi Titanium
+ford,fiesta,1.4 TDCi Trend
+ford,fiesta,1.5 TDCi Titanium
+ford,fiesta,1.5 TDCi Titanium X
+ford,fiesta,1.5 TDCi Trend
+ford,fiesta,1.5 TDCi Trend X
+ford,fiesta,1.6 Comfort
+ford,fiesta,1.6 Cool
+ford,fiesta,1.6 Titanium
+ford,focus,1.5 TDCi Titanium
+ford,focus,1.0 GTDi Style
+ford,focus,1.5 TDCi Style
+honda,civic,1.6 i-VTEC ECO Elegance
+ford,focus,1.6 Comfort
+mazda,323,1.6
+ford,focus,1.5 TDCi Trend X
+ford,focus,1.6 Ambiente
+ford,focus,1.6 Collection
+honda,civic,1.6 i-VTEC Eco Premium
+ford,focus,1.6 Ghia
+ford,focus,1.6 Titanium
+ford,focus,1.6 Trend
+ford,focus,1.6 Trend X
+ford,focus,1.6 TDCi Collection
+ford,focus,1.6 TDCi Comfort
+ford,focus,1.6 TDCi Ghia
+ford,focus,1.6 TDCi Style
+opel,astra,1.6 GLS
+ford,focus,1.6 TDCi Titanium X
+ford,focus,1.6 TDCi Trend
+hyundai,elantra,1.6 D-CVVT Style Design Pack
+ford,focus,1.6 TDCi Trend X
+renault,clio,1.4 RTA
+ford,fusion,1.6 TDCi Lux
+toyota,corolla,1.6 XEi
+ford,mondeo,2.0 Trend
+toyota,corolla,1.4 D-4D Elegant
+ford,focus,1.6 Ti-VCT Style
+ford,focus,1.6 Ti-VCT Titanium
+ford,mondeo,2.0 TDCi Style
+ford,focus,1.6 Ti-VCT Titanium X
+ford,focus,1.6 Ti-VCT Trend
+ford,focus,1.6 Ti-VCT Trend X
+ford,fusion,1.4 TDCi Collection
+ford,fusion,1.4 TDCi Comfort
+ford,fusion,1.6 Lux
+ford,mondeo,1.6 Trend
+ford,mondeo,1.6 TDCi Titanium
+ford,mondeo,2.0 Ghia
+ford,mondeo,2.0 GLX
+ford,mondeo,2.0 TDCi Titanium
+ford,mondeo,2.0 TDCi Trend
+honda,accord,2.0 EX
+honda,accord,2.0 Executive
+honda,accord,2.0 Sport
+honda,city,1.4 Comfort
+honda,civic,1.5 i-VTEC RS
+honda,city,1.4 Elite
+honda,city,1.4 ES
+honda,civic,1.4 1.4i
+honda,civic,1.4 Comfort
+honda,civic,1.4 Sport
+honda,civic,1.5 GL
+toyota,corolla,1.6 Terra
+honda,civic,1.6 Dream
+honda,civic,1.6 ES
+honda,civic,1.6 i ES
+honda,civic,1.6 LS
+hyundai,elantra,1.6 D-CVVT Tune
+honda,civic,1.6 VTi
+honda,civic,1.6 i-DTEC Elegance
+honda,civic,1.6 i-VTEC Dream
+hyundai,getz,1.4 DOHC AB AC
+hyundai,accent-blue,1.6 CRDI Mode Plus
+kia,ceed,1.6 CRDi Concept Plus
+honda,civic,1.6 i-VTEC Elegance
+honda,civic,1.6 i-VTEC Eco Executive
+volkswagen,passat,1.4 TSi BlueMotion Trendline
+hyundai,accent-blue,1.6 CRDI Biz
+honda,civic,1.6 i-VTEC ES
+honda,civic,1.6 i-VTEC Executive
+honda,civic,1.6 i-VTEC LS
+honda,civic,1.6 i-VTEC Premium
+renault,clio,1.2 Authentique
+honda,jazz,1.4 ES Elite
+honda,jazz,1.4 Fun
+honda,jazz,1.4 Joy
+honda,jazz,1.4 LS Sport
+hyundai,accent,1.3 Admire
+hyundai,accent,1.3 GLS
+hyundai,accent,1.3 LS
+hyundai,accent,1.3 LX
+hyundai,accent,1.5 GLS
+hyundai,accent,1.5 1.5i GL
+hyundai,accent,1.5 1.5i GLS
+hyundai,accent-blue,1.4 D-CVVT Mode Plus
+hyundai,accent,1.5 CRDi Admire
+hyundai,accent,1.6 Admire
+hyundai,accent-blue,1.4 CVVT Biz
+hyundai,accent-blue,1.4 CVVT Mode Plus
+hyundai,accent-blue,1.6 CRDI Mode
+hyundai,i20,1.2 D-CVVT Sense
+hyundai,accent-blue,1.6 CRDI Prime
+hyundai,accent-era,1.4 Expo Gold
+hyundai,accent-era,1.4 Mode
+hyundai,accent-era,1.4 Start
+hyundai,accent-era,1.5 CRDi-VGT Team
+hyundai,accent-era,1.4 Team
+hyundai,accent-era,1.5 CRDi-VGT Select
+hyundai,accent-era,1.5 CRDi Mode
+hyundai,accent-era,1.5 CRDi Select
+hyundai,accent-era,1.5 CRDi Start
+hyundai,accent-era,1.5 CRDi Team
+volkswagen,golf,1.6 TDi BlueMotion
+opel,astra,1.6 Edition
+hyundai,accent-era,1.6 Expo Platinum
+hyundai,accent-era,1.6 Select
+hyundai,accent-era,1.6 Style Sport
+hyundai,atos,1.1 GLS
+hyundai,elantra,1.6 GLS
+hyundai,elantra,1.6 CRDi Elite
+hyundai,elantra,1.6 D-CVVT Style
+peugeot,307,1.6 XR
+hyundai,elantra,1.6 MPI Style
+hyundai,elantra,1.6 MPI Style Plus
+hyundai,getz,1.3 GLS
+hyundai,getz,1.3 GLS Style
+hyundai,getz,1.4 DOHC HY KLM
+hyundai,getz,1.4 DOHC Start
+hyundai,getz,1.5 CRDi Active
+hyundai,getz,1.5 CRDi GL Active
+hyundai,getz,1.5 CRDi GL Cool
+hyundai,getz,1.5 CRDi VGT
+hyundai,getz,1.5 CRDi VGT Start
+hyundai,getz,1.5 VGT Start
+hyundai,i10,1.0 D-CVVT Jump
+hyundai,i10,1.0 D-CVVT Style
+hyundai,i10,1.1 Team
+hyundai,i10,1.2 D-CVVT Elite
+hyundai,i20,1.0 T-GDI Style
+opel,corsa,1.4 Twinport Essentia
+hyundai,i20,1.2 D-CVVT Elite
+hyundai,i20,1.2 D-CVVT Jump
+hyundai,i20,1.2 MPI Elite
+hyundai,i20,1.2 MPI Jump
+hyundai,i20,1.2 MPI Style
+hyundai,i20,1.2 MPI Team
+opel,insignia,2.0 CDTI Cosmo
+hyundai,i20,1.4 CRDi Team
+hyundai,i20,1.4 CVVT Sense
+hyundai,i20,1.4 MPI Elite
+hyundai,i20,1.4 MPI Jump
+hyundai,i20,1.4 MPI Style
+hyundai,i30,1.6 CRDi Elite
+hyundai,i20-troy,1.2 DOHC Team
+hyundai,i20-troy,1.4 CRDi Team
+hyundai,i20-troy,1.4 CVVT Team
+hyundai,i30,1.4 CVVT Team
+hyundai,i30,1.6 GDi Style
+hyundai,i30,1.6 CRDi CW Style
+hyundai,i30,1.6 CRDi Elite Plus
+hyundai,i30,1.6 CRDi Mode Plus
+hyundai,i30,1.6 CRDi Style
+volkswagen,passat,1.6 TDi BlueMotion Comfortline
+hyundai,i30,1.6 CRDi Style Design Pack
+hyundai,i30,1.6 CVVT Select
+hyundai,i30,1.6 GDi Elite
+hyundai,matrix,1.5 CRDi Team
+hyundai,sonata,2.0 GLS
+hyundai,trajet,2.0 CRDi GLS
+jaguar,s-type,3.0
+jaguar,xf,3.0 D Premium Luxury
+jaguar,x-type,2.0 D High
+kia,ceed,1.4 MPI Live
+kia,ceed,1.6 CRDi Comfort
+kia,ceed,1.6 CRDi Concept Plus SW
+kia,ceed,1.6 CRDi Cool
+kia,ceed,1.6 CRDi Cool SW
+kia,ceed,1.6 CRDi Motion
+opel,insignia,2.0 CDTI Cosmo Active Select
+kia,ceed,1.6 CRDi Motion SW
+kia,ceed,1.6 CRDi Premium
+kia,cerato,1.5 CRDi EX
+kia,cerato,1.6 CRDi Comfort
+kia,cerato,1.6 CRDi Concept Plus
+renault,r-9,1.4 Broadway GTE
+kia,cerato,1.6 CRDi Concept Techno
+kia,cerato,1.6 GSL Concept
+kia,rio,1.25 CVVT Concept
+kia,rio,1.25 CVVT Fancy
+kia,rio,1.3 Base
+kia,rio,1.4 CRDi Comfort
+kia,sephia,1.5 GTX
+renault,r-19,1.6 Europa RTE
+kia,rio,1.4 CRDi Concept
+kia,rio,1.4 CRDi Concept Plus
+kia,rio,1.4 CRDi Sporty
+kia,rio,1.4 CVVT Comfort
+renault,r-19,1.9 Europa RN
+kia,rio,1.4 CVVT Cool
+kia,rio,1.4 CVVT Elegance
+kia,rio,1.4 CVVT Fancy
+kia,rio,1.4 EX Trend
+kia,rio,1.4 WGT Elegance
+kia,rio,1.5 Comfort
+kia,rio,1.5 CRDi Trend
+mercedes---benz,c,C 180 AMG 7G-Tronic
+mazda,3,1.5 SkyActive-D Power Sense
+mazda,3,1.6 Dynamic
+mazda,3,1.6 Impressive
+mazda,3,1.6 Touring
+mazda,6,2.0 Sport
+mazda,626,2.0
+mercedes---benz,a,A 150 Elegance
+mercedes---benz,a,A 180 BlueEFFICIENCY Style
+mercedes---benz,a,A 180 CDI BlueEFFICIENCY Style
+mercedes---benz,a,A 180 d AMG
+mercedes---benz,b,B 150 Boyut
+mercedes---benz,b,B 150 Prestige
+mercedes---benz,b,B 180 CDI BlueEFFICIENCY Style
+mercedes---benz,b,B 180 CDI BlueEFFICIENCY Urban
+mercedes---benz,c,C 180 Avantgarde
+mercedes---benz,c,C 180 BlueEFFICIENCY AMG
+renault,scenic,1.6 RXT
+mercedes---benz,c,C 180 BlueEFFICIENCY Fascination
+mercedes---benz,c,C 180 Elegance
+mercedes---benz,c,C 180 Fascination
+mercedes---benz,c,C 180 Kompressor BlueEFFICIENCY AMG
+opel,astra,1.6 Cosmo
+mercedes---benz,c,C 180 Kompressor BlueEfficiency Avantgard
+mercedes---benz,c,C 180 Kompressor BlueEfficiency Fascination
+mercedes---benz,c,C 180 Kompressor BlueEfficiency Prime
+mercedes---benz,c,C 180 Kompressor Classic
+mercedes---benz,c,C 200 Esprit
+mercedes---benz,c,C 200 Kompressor Elegance
+mercedes---benz,c,C 200 BlueTEC AMG
+opel,astra,1.3 CDTI Essentia
+mercedes---benz,c,C 200 BlueTEC Exclusive
+mercedes---benz,c,C 200 d BlueTEC AMG
+mercedes---benz,c,C 200 d BlueTEC Comfort
+mercedes---benz,c,C 220 CDI Avantgarde
+mercedes---benz,c,C 240 Elegance
+mercedes---benz,c,C 250 CGI Fascination
+mercedes---benz,c,C 250 D Sport
+mercedes---benz,cla,180 CDI Urban
+mercedes---benz,cla,180 D AMG
+mercedes---benz,cla,200 AMG
+mercedes---benz,clk,CLK 200 200
+mercedes---benz,clk,CLK 200 Kompressor
+volkswagen,jetta,1.6 TDi Trendline
+mercedes---benz,clk,CLK 200 Kompressor Avantgarde
+mercedes---benz,cls,350 D AMG
+mercedes---benz,e,180 Edition E
+mercedes---benz,e,180 Elite
+mercedes---benz,e,200
+mercedes---benz,e,200 Avantgarde
+mercedes---benz,e,200 Elegance
+mercedes---benz,e,200 Exclusive
+mercedes---benz,e,200 Kompressor Avantgarde
+mercedes---benz,e,220 CDI Elegance
+mercedes---benz,e,220 CDI Start
+mercedes---benz,e,220 D AMG
+nissan,micra,1.2 Street
+mercedes---benz,e,230 Elegance
+mercedes---benz,e,240 Avantgarde
+mercedes---benz,e,250 CDI Elite
+volkswagen,new-beetle,1.2 TSi Design
+mercedes---benz,e,250 CDI Premium
+mercedes---benz,e,250 D
+mercedes---benz,e,250 D Elegance
+mercedes---benz,e,300 300 D
+mercedes---benz,e,300 AMG
+mercedes---benz,e,320 CDI Avantgarde
+mercedes---benz,e,350 AMG
+mercedes---benz,e,350 CDI Premium
+mercedes---benz,e,350 CGI AMG
+mercedes---benz,s,320 320 L
+nissan,micra,1.2 Tekna
+mercedes---benz,s,350 350 L BlueTEC
+mercedes---benz,s,500 500 AMG
+mercedes---benz,190,190 E 1.8
+mercedes---benz,190,190 E 2.0
+mercedes---benz,190,190 E 2.6
+mini,cooper,1.5 Chili
+mini,cooper,1.5 D Chili
+skoda,octavia,1.6 FSI Ambiente
+mini,cooper,1.5 D Pepper
+mitsubishi,carisma,1.6 GLX
+mitsubishi,carisma,1.8 GDI Elegance
+mitsubishi,colt,1.3 Elegance
+mitsubishi,colt,1.3 Invite
+mitsubishi,lancer,1.5 Invite
+nissan,almera,1.5 Comfort
+nissan,almera,1.5 Tekna
+nissan,micra,1.0 IG-T Tekna
+nissan,micra,1.2 Match
+nissan,micra,1.2 Passion
+nissan,micra,1.2 Visia Plus
+nissan,micra,1.3 GX
+nissan,micra,1.3 Magic
+nissan,note,1.5 dCi Tekna
+nissan,note,1.5 dCi Tekna Pack
+nissan,primera,2.0 TD Luxe
+nissan,pulsar,1.2 N-Tec
+opel,astra,1.3 CDTI Business
+opel,astra,1.3 CDTI Cosmo
+opel,astra,1.3 CDTI ecoFLEX Sport
+opel,astra,1.3 CDTI Edition
+opel,astra,1.3 CDTI Edition Plus
+opel,astra,1.3 CDTI Enjoy
+opel,astra,1.3 CDTI Enjoy 111.Yýl
+opel,astra,1.3 CDTI Enjoy Elegance
+opel,astra,1.3 CDTI Enjoy Plus
+opel,astra,1.3 CDTI Essentia Konfor
+opel,astra,1.3 CDTI Sport
+opel,astra,1.4 Club
+opel,astra,1.4 Enjoy
+opel,astra,1.4 GL
+opel,astra,1.4 T Cosmo
+opel,astra,1.4 T Edition Plus
+chevrolet,cruze,1.6 Design Edition
+opel,astra,1.4 T Sport
+opel,astra,1.6
+opel,astra,1.6 Business
+peugeot,206,1.4 XR
+opel,astra,1.6 CD
+opel,astra,1.6 Comfort
+opel,astra,1.6 Edition Plus
+opel,astra,1.6 Elegance
+opel,astra,1.6 Enjoy
+opel,astra,1.6 Enjoy 111.Yýl
+peugeot,208,1.2 PureTech Active
+opel,astra,1.6 Enjoy Plus
+volkswagen,golf,1.6 Trendline
+opel,astra,1.6 GL
+volkswagen,new-beetle,1.4 TSi Design
+mercedes---benz,c,C 180 Kompressor BlueEfficiency Luxury
+opel,astra,1.6 Sport
+opel,astra,1.6 CDTI Business
+opel,astra,1.6 CDTI Design
+opel,corsa,1.4 Elegance
+opel,astra,1.6 CDTI Dynamic
+opel,astra,1.6 CDTI Elite
+opel,astra,1.6 CDTI Enjoy
+mercedes---benz,c,C 220 CDI BlueEFFICIENCY AMG
+opel,astra,1.6 CDTI Excellence
+opel,astra,1.6 CDTI Sport
+opel,astra,1.7 CDTI Classic
+opel,corsa,1.0 Essentia
+opel,corsa,1.2 Silverline
+opel,corsa,1.2 Swing
+opel,corsa,1.2 Twinport Enjoy 111
+opel,corsa,1.3 CDTI Active
+opel,corsa,1.3 CDTI Color Edition
+opel,corsa,1.3 CDTI Cosmo
+opel,corsa,1.3 CDTI Enjoy
+opel,corsa,1.3 CDTI Enjoy 111
+opel,corsa,1.4 120.Yýl
+opel,corsa,1.4 Color Edition
+opel,corsa,1.4 Comfort
+opel,corsa,1.4 Design
+renault,r-19,1.4 Europa RNA
+opel,corsa,1.4 Enjoy
+opel,corsa,1.4 Swing
+opel,corsa,1.4 Twinport Enjoy
+opel,corsa,1.6 OPC
+opel,insignia,1.4 T Edition Elegance
+opel,insignia,1.6 CDTI 120.Yýl
+opel,insignia,1.6 CDTI Cosmo
+opel,insignia,1.6 CDTI Grand Sport Design
+opel,insignia,1.6 CDTI Sport
+seat,toledo,1.6 Signo
+opel,insignia,1.6 T Cosmo
+opel,insignia,1.6 T Edition
+opel,insignia,1.6 T Edition Elegance
+opel,insignia,2.0 CDTI Edition
+opel,insignia,2.0 T Cosmo
+opel,meriva,1.4 T Enjoy
+opel,meriva,1.6 Essentia
+opel,omega,2.0 CD
+opel,vectra,1.6 Comfort
+opel,vectra,2.0 GLS
+opel,vectra,1.6 Elegance
+opel,vectra,1.6 GL
+opel,vectra,1.8 GL
+opel,vectra,2.0 CD
+opel,vectra,2.0 CDX
+peugeot,206,1.4 Color Line
+peugeot,206,1.4 Comfort
+peugeot,206,1.4 Desire
+peugeot,206,1.4 Feline
+peugeot,206,1.4 X-Design
+peugeot,206,1.4 X-Line
+peugeot,206,1.4 HDi Fever
+peugeot,206,1.4 HDi Generation
+peugeot,206,1.4 HDi X-Design
+peugeot,206,1.4 HDi X-line
+peugeot,206,1.6 Roland Garros
+peugeot,206,1.6 XS
+peugeot,206,1.6 XT
+peugeot,206,2.0 CC
+peugeot,206,2.0 GTI
+peugeot,206+,1.4 Comfort
+peugeot,206+,1.4 Urban Move
+citroen,saxo,1.4 SX
+peugeot,206+,1.4 HDi Comfort
+peugeot,207,1.4 Comfort
+peugeot,207,1.4 Trendy
+peugeot,301,1.6 HDi Access
+peugeot,207,1.4 HDi Premium
+peugeot,207,1.4 HDi Trendy
+peugeot,207,1.6 HDi Trendy
+peugeot,207,1.6 VTi Outdoor
+peugeot,301,1.2 VTi Access
+peugeot,208,1.2 PureTech Allure
+peugeot,208,1.2 VTi Active
+peugeot,208,1.4 HDi Access
+peugeot,208,1.4 HDi Active
+peugeot,208,1.6 HDi Active
+peugeot,208,1.6 THP Allure
+peugeot,307,1.4 Look
+peugeot,301,1.5 BlueHDI Active
+peugeot,301,1.6 BlueHDI Active
+peugeot,301,1.6 HDi Active
+peugeot,301,1.6 HDi Allure
+peugeot,307,1.4 HDi XR
+peugeot,301,1.6 VTi Allure
+peugeot,306,1.6 Griffe
+peugeot,306,1.6 XN
+peugeot,306,1.8 XR
+peugeot,306,2.0 S 16
+peugeot,307,1.6 Premium
+peugeot,307,1.6 Profil
+peugeot,307,1.6 XT
+peugeot,308,1.2 VTi Active
+peugeot,308,1.6 BlueHdi Active
+peugeot,308,1.6 HDi Comfort
+peugeot,308,1.6 VTi Comfort
+peugeot,308,1.6 VTi Premium
+peugeot,308,1.6 VTi Premium Pack
+peugeot,308,1.6 VTi Premium Plus
+peugeot,406,2.0 HDi ST
+peugeot,407,1.6 HDi Executive Black
+peugeot,407,2.0 Executive
+peugeot,508,1.5 BlueHDI GT Line
+renault,clio,1.5 dCi Touch
+peugeot,508,1.5 BlueHDI Prime
+peugeot,508,1.6 e-HDi Access
+peugeot,508,1.6 e-HDi Active
+peugeot,508,1.6 e-HDi Allure
+peugeot,508,1.6 HDi Access
+renault,clio,1.0 TCe Joy
+volkswagen,golf,1.6 TDi BlueMotion Highline
+peugeot,rcz,1.6 THP Yearling
+renault,clio,0.9 Touch
+renault,clio,0.9 TCe Joy
+renault,clio,1.0 SCe Joy
+renault,clio,1.2 Dynamic
+renault,clio,1.2 Expression
+renault,clio,1.2 Extreme
+renault,clio,1.2 Icon
+renault,clio,1.2 Joy
+renault,clio,1.2 Tom Tom Edition
+renault,clio,1.2 Touchrome
+renault,clio,1.2 Turbo Icon
+renault,clio,1.4 Privilege
+renault,clio,1.2 SportTourer Icon
+renault,clio,1.4 Alize
+renault,clio,1.4 Authentique
+renault,clio,1.4 Dynamique
+renault,clio,1.4 Expression
+renault,clio,1.4 Extreme
+renault,clio,1.4 RN
+renault,clio,1.4 RNA
+renault,clio,1.4 RT
+renault,clio,1.4 RXT
+renault,clio,1.5 BlueDCI Joy
+renault,clio,1.5 dCi Alize
+renault,clio,1.5 dCi GT Line
+renault,clio,1.5 dCi Authentique
+renault,clio,1.5 dCi SportTourer Icon
+renault,clio,1.5 dCi SportTourer Touch
+renault,clio,1.5 dCi Dynamique
+renault,clio,1.5 dCi Expression
+renault,clio,1.5 dCi Extreme
+renault,clio,1.5 dCi Extreme Edition
+renault,clio,1.6 Dynamique
+renault,clio,1.5 dCi Icon
+renault,clio,1.6 RXT
+renault,clio,1.5 dCi Joy
+renault,clio,1.5 dCi Grandtour Authentique
+renault,clio,1.5 dCi Grandtour Executive
+renault,clio,1.5 dCi SportTourer Joy
+renault,fluence,1.5 dCi Business
+renault,fluence,1.5 dCi Extreme
+renault,fluence,1.5 dCi Dynamique
+renault,fluence,1.5 dCi Expression
+renault,fluence,1.5 dCi Icon
+renault,fluence,1.5 dCi Joy
+renault,fluence,1.5 dCi Privilege
+renault,fluence,1.5 dCi Touch Plus
+renault,fluence,1.6 Extreme
+renault,fluence,1.6 Icon
+renault,fluence,1.6 Joy
+renault,fluence,1.6 Touch
+renault,fluence,1.6 Touch Plus
+renault,grand-scenic,1.5 dCi Privilege
+renault,laguna,1.5 dCi Dynamique
+renault,laguna,1.5 dCi Expression
+renault,laguna,2.0 RXT
+renault,latitude,1.5 dCi Expression
+renault,latitude,2.0 dCi Privilege
+renault,megane,1.3 Tce Joy
+renault,megane,1.4 Authentique
+renault,megane,1.5 Blue DCI Touch
+renault,megane,1.5 dCi Color Edition
+renault,megane,1.5 dCi Dynamique
+renault,megane,1.5 dCi Exception
+renault,megane,1.5 dCi Expression
+renault,megane,1.5 dCi Extreme
+renault,megane,1.5 dCi Touch Plus
+renault,megane,1.5 dCi Icon
+renault,megane,1.5 dCi Joy
+renault,megane,1.5 dCi Privilege
+renault,megane,1.5 dCi Sportway
+renault,megane,1.5 dCi Touch
+renault,clio,1.4
+renault,megane,1.5 dCi Grandtour Privilege
+renault,megane,1.5 dCi Sport Tourer Expression
+renault,megane,1.5 dCi Sport Tourer Privilege
+renault,megane,1.6 Alize
+renault,megane,1.6 Authentique
+renault,megane,1.6 Dynamique
+renault,megane,1.9 DTi RTE
+renault,megane,1.6 Exception
+renault,megane,1.6 Expression
+renault,megane,1.6 Joy
+renault,megane,2.0 RXT
+renault,megane,1.6 Privilege
+renault,megane,1.6 RNA
+renault,megane,1.6 RTA
+renault,megane,1.6 RTE
+renault,megane,1.6 RXi
+renault,megane,1.6 RXT
+renault,megane,1.6 Sport Edition
+renault,megane,1.6 Sportway
+renault,megane,1.6 Touch
+renault,megane,1.6 Touch Plus
+renault,megane,1.6 Cabrio Cabrio
+renault,megane,1.6 Coupe Privilege
+renault,megane,1.6 dCi GT-Line Energy Sport Tourer
+renault,megane,2.0 Coupe
+renault,scenic,1.5 dCi Icon
+renault,scenic,1.5 dCi Privilege
+renault,scenic,1.5 dCi Touch
+renault,scenic,1.6 Dynamique
+renault,scenic,1.6 Privilege
+renault,scenic,1.6 RXE
+renault,scenic,2.0 Privilege
+renault,symbol,0.9 Joy
+renault,symbol,0.9 TCe Joy
+renault,symbol,1.0 Joy
+renault,symbol,1.2 Authentique
+renault,symbol,1.5 dCi Authentique
+renault,symbol,1.2 Authentique Edition
+renault,symbol,1.2 Joy
+renault,symbol,1.2 Touch
+renault,symbol,1.4 Authentique
+renault,symbol,1.4 Expression
+renault,symbol,1.5 dCi Joy
+renault,symbol,1.5 dCi Dynamique
+renault,symbol,1.5 dCi Expression
+renault,symbol,1.5 dCi Expression Plus
+renault,symbol,1.5 dCi Extreme
+renault,symbol,1.5 dCi SL Collection
+renault,talisman,1.6 dCi Icon
+renault,talisman,1.6 dCi Touch
+renault,talisman,1.6 Tce Intense
+renault,r-9,1.4 Spring
+renault,r-9,1.4 Broadway
+peugeot,208,1.2 PureTech Access
+renault,r-9,1.4 Broadway RL
+renault,r-9,1.6 Fairway
+renault,r-19,1.4 RN
+renault,r-19,1.4 RT
+renault,r-19,1.4 Europa RL
+renault,r-19,1.4 Europa RN
+renault,r-19,1.6
+renault,r-19,1.6 Europa iE
+renault,r-19,1.6 Europa RNE
+renault,r-19,1.6 Europa RT
+peugeot,208,1.5 BlueHDi Signature
+renault,r-21,2.0 Concorde
+rover,45,1.6 Club
+saab,9-3,1.9 TiD Vector
+seat,altea,1.6 Stylance
+seat,cordoba,1.4 TDI Signo
+seat,cordoba,1.4 TDI Stylance
+seat,cordoba,1.6 SXE
+seat,ibiza,1.0 Referance
+seat,ibiza,1.0 EcoTSI Style
+seat,ibiza,1.2 Elegance
+seat,ibiza,1.2 Reference
+seat,ibiza,1.2 TSI Style
+seat,ibiza,1.4 TDI Stella
+seat,ibiza,1.4 Reference
+seat,ibiza,1.4 Style
+seat,ibiza,1.4 Sport Tourer Copa
+seat,ibiza,1.4 TDI Reference
+seat,leon,1.2 TSI Reference
+seat,leon,1.2 TSI Style
+seat,leon,1.4 EcoTSI FR
+seat,leon,1.4 TSI FR
+seat,leon,1.5 EcoTSI FR
+seat,leon,1.6 TDI CR Style
+seat,leon,1.5 EcoTSI Style
+seat,leon,1.6 Sport
+seat,leon,1.6 Stylance
+seat,toledo,1.4 TDI Style
+skoda,octavia,1.6 Classic
+seat,leon,1.6 TDI FR
+seat,leon,1.6 TDI Style
+seat,toledo,1.6 Reference
+seat,toledo,1.6 Signo Plus
+seat,toledo,1.6 Stella
+seat,toledo,1.6 TDI Style
+skoda,fabia,1.0 GreenTec Ambition
+skoda,fabia,1.0 GreenTec Style
+skoda,fabia,1.2 Ambiente
+skoda,fabia,1.2 Classic
+skoda,fabia,1.2 TSI Style
+skoda,fabia,1.4 Classic
+skoda,fabia,1.4 TDI Ambiente
+skoda,fabia,1.6 TDI Ambiente
+skoda,favorit,1.3 LX
+skoda,favorit,135 LX
+skoda,favorit,136 L
+skoda,felicia,1.3 GLX
+skoda,felicia,1.3 GLXi
+skoda,octavia,1.0 TSI Style
+skoda,octavia,1.2 TSI Ambition
+skoda,octavia,1.4 TSI Elegance
+skoda,octavia,1.6 Ambiente
+skoda,octavia,1.6 Ambiente Optimal
+skoda,octavia,1.6 FSI Elegance
+skoda,octavia,1.6 TDI Ambiente
+skoda,octavia,1.6 TDI Ambition
+skoda,octavia,1.6 TDI Style CR
+skoda,octavia,1.6 TDI Ambition Optimal
+skoda,octavia,1.6 TDI Elegance
+skoda,superb,1.6 TDI Style
+skoda,octavia,1.6 TDI Optimal
+skoda,octavia,1.6 TDI Style
+skoda,octavia,1.9 TDI Ambiente
+skoda,octavia,1.9 TDI Elegance
+skoda,rapid,1.2 TSI Spaceback Style
+skoda,roomster,1.6 TDI Comfort
+skoda,superb,1.4 TSI Comfort
+subaru,impreza,1.5 Active
+skoda,superb,1.5 TSI GreenTec Elite
+skoda,superb,1.6 TDI Active
+skoda,superb,1.6 TDI Ambition
+skoda,superb,1.6 TDI Elegance
+skoda,superb,1.6 TDI Premium
+skoda,superb,1.6 TDI Prestige
+suzuki,alto,1.1 GL
+suzuki,swift,1.3 GLX
+suzuki,swift,1.3 MT 4X2
+suzuki,sx4,1.6 GLX
+toyota,auris,1.33 Comfort
+toyota,auris,1.33 Life
+toyota,auris,1.4 D-4D Active
+toyota,auris,1.4 D-4D Advance Skypack
+toyota,auris,1.4 D-4D Comfort
+toyota,auris,1.4 D-4D Comfort Extra
+toyota,auris,1.6 Comfort Extra
+volkswagen,bora,1.6 Pacific
+toyota,auris,1.6 Advance Skypack
+toyota,auris,1.6 Comfort
+toyota,auris,1.6 Touch
+toyota,avensis,1.6 Elegant Extra
+toyota,corolla,1.4 D-4D Comfort
+toyota,avensis,1.6 Linea
+toyota,avensis,1.6 Premium
+toyota,avensis,1.8 Elegant
+toyota,avensis,2.0 Elegant
+toyota,avensis,2.0 Executive Elegant
+toyota,avensis,2.0 Linea
+toyota,avensis,2.0 Sol Extra
+toyota,corolla,1.3 Base
+toyota,corolla,1.3 ECO
+toyota,corolla,1.3 Terra
+toyota,corolla,1.3 XL
+toyota,corolla,1.33 Comfort
+toyota,corolla,1.33 Life
+toyota,corolla,1.4 Linea Terra
+toyota,corolla,1.4 Terra
+toyota,corolla,1.4 D-4D Active
+toyota,corolla,1.4 D-4D Advance
+toyota,corolla,1.4 D-4D Class
+peugeot,301,1.2 VTi Active
+toyota,corolla,1.4 D-4D Comfort Extra
+toyota,corolla,1.4 D-4D Premium
+toyota,corolla,1.4 D-4D Terra
+toyota,corolla,1.4 D-4D Touch
+toyota,corolla,1.6 Comfort
+toyota,corolla,1.6 Advance
+toyota,corolla,1.6 Comfort Verso
+toyota,corolla,1.6 Dream
+toyota,corolla,1.6 Elegant
+toyota,corolla,1.6 GLi
+toyota,corolla,1.6 Life
+toyota,corolla,1.6 Linea Terra
+toyota,corolla,1.6 Sol VVT-i
+toyota,corolla,1.6 Luna
+toyota,corolla,1.6 Premium
+toyota,corolla,1.6 Sol
+toyota,corolla,1.6 Terra Special
+toyota,corolla,1.6 Touch
+toyota,corolla,1.6 Verso
+toyota,corolla,1.6 Vision
+toyota,corolla,1.6 XL
+toyota,corolla,1.6 XLi
+toyota,urban-cruiser,1.4 D-4D Elegant
+toyota,yaris,1.0
+toyota,yaris,1.0 Terra
+volkswagen,bora,1.6 Comfortline
+toyota,yaris,1.3 Sol
+toyota,yaris,1.33 Fun
+toyota,yaris,1.33 Style
+toyota,yaris,1.33 Terra Sporty
+toyota,yaris,1.4 D-4D Sol
+toyota,yaris,1.4 D-4D Terra
+toyota,yaris,1.5 Hybrid Cool
+toyota,yaris,1.5 Hybrid Spirit
+volkswagen,bora,1.6 Trendline
+volkswagen,golf,1.0 TSi Comfortline
+volkswagen,golf,1.2 TSi Comfortline
+volkswagen,golf,1.4 TSi Comfortline
+volkswagen,golf,1.2 TSi Midline Plus
+volkswagen,golf,1.4 TSi Highline
+volkswagen,golf,1.4 TSi Midline
+volkswagen,golf,1.4 TSi Trendline
+volkswagen,golf,1.6 Comfortline
+volkswagen,golf,1.6 Midline
+volkswagen,golf,1.6 Pacific
+volkswagen,golf,1.6 Primeline
+volkswagen,golf,1.6 Sport
+volkswagen,golf,1.6 FSi Comfortline
+volkswagen,golf,1.6 FSi Midline
+volkswagen,golf,1.6 FSi Tour
+volkswagen,golf,1.6 TDi BlueMotion Comfortline
+volkswagen,golf,1.6 TDi BlueMotion Midline Plus
+volkswagen,golf,1.6 TDi Comfortline
+volkswagen,golf,1.6 TDi Trendline
+mazda,323,1.6 GLX
+volkswagen,golf,1.8 CL
+volkswagen,golf,1.9 TDi Comfortline
+volkswagen,golf,2.0 GTi
+volkswagen,jetta,1.2 TSi Comfortline
+volkswagen,jetta,1.2 TSi Trendline
+volkswagen,jetta,1.2 TSi BlueMotion Comfortline
+volkswagen,jetta,1.2 TSi BlueMotion Highline
+volkswagen,jetta,1.2 TSi BlueMotion Trendline
+volkswagen,jetta,1.4 TSi Comfortline
+volkswagen,jetta,1.4 TSi Highline
+volkswagen,jetta,1.4 TSi Trendline
+volkswagen,jetta,1.4 TSi BlueMotion Comfortline
+volkswagen,jetta,1.6 Comfortline
+volkswagen,jetta,1.6 FSi Comfortline
+volkswagen,jetta,1.6 Primeline
+volkswagen,jetta,1.6 TDi Comfortline
+volkswagen,passat,1.4 TSi Comfortline
+volkswagen,jetta,1.6 TDi Exclusive
+volkswagen,jetta,1.6 TDi Highline
+volkswagen,jetta,1.6 TDi Primeline
+volkswagen,passat,1.4 TSi Trendline
+volkswagen,passat,1.4 TSi BlueMotion Comfortline
+volkswagen,jetta,2.0 FSi Comfortline
+volkswagen,passat,1.4 TSi BlueMotion Highline
+volkswagen,passat,1.5 TSi
+volkswagen,passat,1.5 TSi Elegance
+volkswagen,passat,1.5 TSi Trendline
+volkswagen,passat,1.6
+volkswagen,passat,1.6 Trendline
+volkswagen,passat,1.6 FSi Comfortline
+volkswagen,polo,1.6
+volkswagen,passat,1.6 FSi Exclusive
+volkswagen,passat,1.6 FSi Trendline
+volkswagen,passat,1.6 TDi Elegance
+volkswagen,passat,1.6 TDi BlueMotion
+peugeot,308,1.6 HDi Comfort Pack
+volkswagen,passat,1.6 TDi BlueMotion Exclusive
+volkswagen,passat,1.6 TDi BlueMotion Highline
+volkswagen,passat,1.6 TDi BlueMotion Impression
+volkswagen,passat,1.6 TDi BlueMotion Trendline
+volkswagen,polo,1.2 TSi Comfortline
+volkswagen,passat,1.8
+volkswagen,passat,1.8 Comfortline
+volkswagen,passat,1.8 Highline
+volkswagen,passat,1.8 T Comfortline
+volkswagen,passat,2.0 TDi BlueMotion Comfortline
+volkswagen,passat,1.8 T Highline
+volkswagen,passat,1.9 TDi Comfortline
+volkswagen,passat,1.9 TDi Highline
+volkswagen,passat,2.0 Trendline
+volkswagen,passat,2.0 FSi Comfortline
+volkswagen,passat,2.0 TDi Comfortline
+volkswagen,passat,2.0 TDi Highline
+volkswagen,passat,2.0 TDi BlueMotion Highline
+volkswagen,passat-variant,1.4 TSi BlueMotion Comfortline
+volkswagen,passat-variant,1.6 TDi Comfortline
+volkswagen,passat-variant,1.6 TDi BlueMotion Comfortline
+volkswagen,passat-variant,1.6 TDi BlueMotion Highline
+volkswagen,passat-variant,2.0 TDi Comfortline
+volkswagen,polo,1.0 Comfortline
+volkswagen,polo,1.2 TDi BlueMotion
+volkswagen,polo,1.0 Trendline
+volkswagen,polo,1.2 Trendline
+volkswagen,polo,1.2 TDi Trendline
+volkswagen,polo,1.2 TSi Lounge
+volkswagen,polo,1.4
+volkswagen,polo,1.4 Chrome Edition
+volkswagen,polo,1.4 Comfortline
+volkswagen,polo,1.6 Highline Classic
+volkswagen,polo,1.4 Sportline
+volkswagen,polo,1.4 Trendline
+volkswagen,polo,1.4 TDi Comfortline
+alfa-romeo,giulietta,1.6 JTDM-2 Super
+volkswagen,polo,1.6 Classic
+volkswagen,polo,1.4 TDi Tour
+volkswagen,polo,1.4 TDi Trendline
+volkswagen,polo,1.6 Comfortline
+volkswagen,polo,1.6 TDi Comfortline
+volkswagen,scirocco,1.4 TSi Sportline
+volkswagen,scirocco,1.4 TSi White Edition
+volkswagen,vw-cc,2.0 TDi 2.0 TDI
+volvo,s60,1.6 D Premium
+volvo,s40,1.6
+volvo,s40,1.6 D
+volvo,s40,1.6 D R-Design
+volvo,s60,1.6 D Advance
+volvo,s60,2.0 D Advance
+volvo,s60,2.0 T
+volvo,s80,1.6 D Advance
+volvo,s80,2.0 D Advance
+volvo,s90,2.0 D5 Inscription
+volvo,v50,1.6 D Dynamic
+volvo,v70,2.4 D5 Premium
+alfa-romeo,156,1.6 TS Distinctive
+alfa-romeo,giulietta,1.6 JTD Progression Plus
+alfa-romeo,giulietta,1.6 JTD Super TCT
+audi,a3,A3 Sedan 1.6 TDI Design Line
+audi,a3,A3 Sportback 1.0 TFSI Dynamic
+audi,a3,A3 Sportback 1.5 TFSI
+audi,a3,A3 Sportback 1.6 Ambiente
+audi,a3,A3 Sportback 1.6 Sportback Attraction
+audi,a3,A3 Sportback 1.6 TDI Ambition
+audi,a4,A4 Allroad Quattro 2.0 TDI
+audi,a4,A4 Avant 1.9 TDI
+audi,a4,A4 Avant 2.0 TDI
+fiat,linea,1.6 Multijet Urban
+audi,a4,A4 Sedan 1.9 TDI
+audi,a4,A4 Sedan 2.0 TDI Quattro Sport
+audi,a4,A4 Sedan 2.0 TDI Design
+audi,a4,A4 Sedan 2.0 TDI Quattro Advanced
+audi,a4,A4 Sedan 2.0 TDI Quattro S Line
+audi,a5,A5 Sportback 2.0 TDI
+audi,a5,A5 Sportback 2.0 TDI Quattro S Line
+audi,a6,A6 Avant 2.0
+audi,a6,A6 Sedan 2.5 TDI
+audi,a6,A6 Sedan 3.0 TDI Quattro
+audi,tt,2.0 TFSI
+bmw,1-serisi,118i Joy
+bmw,1-serisi,118i M Sport
+bmw,1-serisi,118i Premium Line
+bmw,1-serisi,118i Sport Plus
+bmw,2-serisi,218i Gran Coupe First Edition M Sport
+bmw,3-serisi,316ti Compact
+bmw,3-serisi,318i Edition M Sport
+bmw,3-serisi,318ti Compact
+bmw,3-serisi,320d Modern Line
+bmw,3-serisi,320d GT M Sport
+bmw,3-serisi,320d xDrive Comfort Plus
+bmw,3-serisi,320i First Edition Luxury Line
+bmw,3-serisi,320i First Edition Sport Line
+bmw,3-serisi,320i ED M Plus
+chevrolet,aveo,1.3 D LS
+bmw,4-serisi,418i Gran Coupe Prestige
+bmw,7-serisi,730d Standart
+bmw,5-serisi,520d Luxury Line
+bmw,5-serisi,520d Sport
+bmw,5-serisi,520i Luxury Line
+bmw,7-serisi,730d Long Exclusive
+bmw,5-serisi,525d xDrive Comfort
+chery,kimo,1.3 Lusso
+chevrolet,aveo,1.2 LS
+chevrolet,aveo,1.2 S
+bmw,5-serisi,525d xDrive Executive M Sport
+bmw,5-serisi,528i xDrive xDrive
+bmw,5-serisi,530i xDrive Executive Luxury
+chevrolet,cruze,1.6 Design Edition Plus
+chevrolet,cruze,1.6 LT
+chevrolet,cruze,1.6 Sport
+citroen,c1,1.4 HDi SX
+citroen,c2,1.4 HDi SX
+citroen,c3,1.2 PureTech Feel
+citroen,c3,1.2 PureTech Live
+citroen,c3,1.2 PureTech Shine
+citroen,c3,1.2 VTi Cool
+citroen,c3,1.4 Comfort
+citroen,c3,1.4 HDi Confort
+citroen,c3,1.6 BlueHDI Feel
+citroen,c3-picasso,1.4 SX
+citroen,c3-picasso,1.6 e-HDi SX
+citroen,c4,1.6 SX PK
+citroen,c4,1.6 HDi Easy
+citroen,c4,1.6 HDi SX PK
+citroen,c4-picasso,1.6 e-HDi Intensive
+citroen,c4-picasso,1.6 HDi SX PK
+citroen,c5,1.6 HDi Dynamique
+citroen,c-elysee,1.2 VTi Comfort
+citroen,c-elysee,1.6 BlueHDi Feel
+citroen,xsara,1.6 SX
+citroen,xsara,1.9 D
+dacia,lodgy,1.5 BlueDCI Laureate
+dacia,lodgy,1.5 dCi Stepway
+dacia,logan,1.2 Ambiance
+peugeot,308,1.6 HDi Premium Plus
+dacia,logan,1.6 Ambiance
+peugeot,308,1.6 THP Premium
+dacia,sandero,1.4 Black Line
+dacia,solenza,1.4 Prima
+fiat,500-ailesi,500L 1.3 Mjet PopStar
+fiat,500-ailesi,500L 1.3 Mjet RockStar
+fiat,albea,1.2 SL
+fiat,albea,1.3 Multijet SL
+fiat,albea,1.6 EL
+fiat,albea,Sole 1.3 Multijet Active Plus
+fiat,albea,Sole 1.4 Fire Active Plus
+fiat,bravo,1.4 Active
+fiat,bravo,1.6 SX
+fiat,bravo,1.6 Mjet Dynamic Plus
+fiat,bravo,1.6 Mjet Sports Style
+fiat,egea,1.4 Fire Easy Plus
+fiat,egea,1.4 Fire Lounge
+peugeot,405,1.6 GL
+fiat,egea,1.4 T-Jet Lounge Plus
+fiat,egea,1.6 Multijet Urban
+fiat,idea,1.4 Dynamic
+fiat,linea,1.3 Multijet Emotion
+fiat,linea,1.3 Multijet Emotion Plus
+peugeot,406,1.8 ST
+fiat,linea,1.4 Fire Active Plus
+fiat,linea,1.4 Fire Pop
+fiat,linea,1.6 Multijet Active Plus
+fiat,linea,1.6 Multijet Dynamic Plus
+fiat,marea,1.6 Exclusive
+fiat,palio,1.2 Dynamic
+fiat,palio,1.2 HL
+fiat,palio,1.2 S Weekend
+fiat,palio,1.3 Multijet Active Sole
+fiat,palio,1.3 Multijet SL
+hyundai,elantra,1.6 D-CVVT Mode
+fiat,palio,1.4 Fire Active Sole
+fiat,punto,1.2 Pop
+fiat,punto,1.4 Dynamic
+fiat,punto,1.4 Pop S&S
+fiat,punto,EVO 1.3 Multijet Active
+fiat,punto,EVO 1.4 Dynamic
+fiat,punto,Grande 1.4 Dynamic
+fiat,punto,Grande 1.4 Fire Active
+fiat,punto,Grande 1.4 Fire Dynamic
+fiat,punto,Grande 1.4 Starjet Emotion
+fiat,siena,1.2 EL
+fiat,stilo,1.6 Dynamic
+fiat,tempra,1.6 S
+ford,c-max,1.6 SCTi Titanium
+ford,escort,1.6 Ghia
+ford,fiesta,1.0 GTDi Titanium
+ford,fiesta,1.4 Ghia
+ford,fiesta,1.6 Sport
+ford,fiesta,1.6 Ti-VCT Trend X
+ford,focus,1.4 Comfort
+ford,focus,1.5 Ti-VCT Trend X
+ford,focus,1.6 Titanium X
+ford,focus,1.6 Ti-VCT Style Plus
+ford,focus,1.8 TDCi Comfort
+ford,focus,1.8 TDCi Ghia
+ford,focus,2.0 Ghia
+ford,fusion,1.4 TDCi Urbanite
+ford,mondeo,1.5 Titanium
+ford,taunus,1.6 GT
+geely,emgrand,1.5 GSL Premium
+geely,emgrand,1.5 GSL Premium SR
+geely,fc,1.5 GSL
+honda,accord,2.0
+honda,accord,2.4 Executive
+honda,city,1.4 LS
+honda,civic,1.4 S
+honda,civic,1.6 Elegance
+honda,civic,1.6 GL
+honda,civic,1.6 Premium
+honda,civic,1.6 i-VTEC Black Edition
+honda,jazz,1.4 ES
+honda,jazz,1.4 LS
+hyundai,accent,1.3 1.3i
+hyundai,accent,1.5 CRDi GLS
+hyundai,accent-era,1.5 CRDi-VGT Start
+hyundai,accent-era,1.6 Style
+hyundai,accent-era,1.6 Team
+hyundai,atos,1.0 GLS
+hyundai,elantra,1.6 CRDi Elite Plus
+hyundai,elantra,1.6 CRDi Style Plus
+kia,rio,1.4 CRDi Fancy
+hyundai,getz,1.5 CRDi Comfort Plus
+hyundai,getz,1.5 VGT HY KLM
+hyundai,i20,1.2 MPI Elite Blue
+hyundai,i20,1.4 CRDi Style
+hyundai,i20,1.4 CVVT Jump
+hyundai,i20,1.4 CVVT Team
+hyundai,i20,1.4 MPI Coupe
+hyundai,i20,1.4 MPI Elite Smart
+hyundai,i20-active,1.4 MPi Elite
+hyundai,i20-active,1.4 MPi Elite Smart
+hyundai,i20-troy,1.2 Mode
+hyundai,i20-troy,1.4 CRDi Start
+hyundai,i30,1.6 CRDi Mode
+hyundai,i30,1.6 CRDi Select
+hyundai,i30,1.6 CRDi Team
+hyundai,matrix,1.5 CRDi Select
+hyundai,matrix,1.6 Select
+jaguar,x-type,3.0 Sport
+kia,ceed,1.6 CRDi Concept
+kia,rio,1.4 EX Comfort
+kia,cerato,1.6 EX Advance
+kia,rio,1.25 CVVT Natty
+kia,rio,1.3 Comfort
+kia,venga,1.4 CRDi Active
+mazda,3,1.5 SkyActive-D Power
+mazda,323,1.5
+mazda,626,2.0 GLX
+mazda,rx,RX-8 1.3
+mercedes---benz,a,A 160 Elegance
+mercedes---benz,a,A 180 BlueEFFICIENCY Urban
+mercedes---benz,a,A 180 CDI BlueEFFICIENCY AMG
+mercedes---benz,a,A 200 BlueEFFICIENCY AMG Sport
+mercedes---benz,b,B 150 150
+mercedes---benz,c,C 180 Esprit
+mercedes---benz,c,C 180 Exclusive
+mercedes---benz,c,C 180 Kompressor Avantgarde
+mercedes---benz,c,C 200 Exclusive
+mercedes---benz,e,270 CDI Elegance
+mercedes---benz,c,C 220 D Esprit
+mercedes---benz,c,C 250 TD Elegance
+mercedes---benz,cla,180 CDI AMG
+mercedes---benz,cla,200 Urban
+mercedes---benz,e,280 CDI Avantgarde
+mercedes---benz,cls,350 CDI AMG
+mercedes---benz,e,180 Exclusive
+mercedes---benz,e,200 AMG
+mercedes---benz,e,200 Classic
+mercedes---benz,e,200 Kompressor Elegance
+mercedes---benz,e,200 CDI Avantgarde
+mercedes---benz,e,220 CDI BlueEFFICIENCY
+mercedes---benz,e,250 CDI BlueEFFICIENCY Avantgarde
+mercedes---benz,e,250 CGI AMG
+mercedes---benz,e,250 CGI AMG Premium
+mercedes---benz,e,250 CGI Elite
+mercedes---benz,e,270 CDI Avantgarde
+mercedes---benz,e,320 Avantgarde
+mercedes---benz,s,350 350 L
+mercedes---benz,190,190 D 2.0
+mini,john-cooper,1.6 Works
+mitsubishi,carisma,1.6 Avance
+mitsubishi,carisma,1.8 GDI Comfort
+mitsubishi,carisma,1.9 DI-D Comfort
+mitsubishi,lancer,1.5 Inform
+mitsubishi,lancer,1.6 Invite
+nissan,micra,1.2 Punch
+nissan,micra,1.2 Visia
+nissan,note,1.2 Tekna
+nissan,primera,1.6 Comfort
+nissan,primera,1.6 GX
+nissan,primera,1.6 Tekna
+nissan,primera,2.0 SE
+opel,astra,1.3 CDTI ecoFLEX Enjoy Plus
+opel,astra,1.3 CDTI Enjoy Active
+opel,astra,1.4 Enjoy Plus
+opel,astra,1.4 Essentia
+opel,astra,1.4 T Dynamic
+opel,astra,1.4 T Sport Elegance
+opel,astra,1.6 Enjoy Elegance
+opel,corsa,1.2 Enjoy
+fiat,linea,1.4 Turbo Dynamic
+opel,corsa,1.2 Ultimate
+opel,corsa,1.2 Twinport Active
+opel,corsa,1.4 Essentia
+opel,corsa,1.4 GLS
+opel,corsa,1.4 Sport
+opel,corsa,1.4 Twinport Enjoy 111
+opel,insignia,1.6 CDTI Design
+opel,insignia,1.6 CDTI Edition Elegance
+opel,meriva,1.3 DTI Enjoy
+opel,insignia,1.6 CDTI Elite
+opel,insignia,1.6 CDTI Grand Sport Excellence
+opel,insignia,2.0 CDTI Edition Elegance
+opel,meriva,1.6 Cosmo
+opel,meriva,1.6 Enjoy
+opel,vectra,1.6
+opel,vectra,1.6 Essentia
+opel,vectra,2.0 100.Yýl
+opel,vectra,2.0 GL
+opel,zafira,1.6 Elegance
+opel,zafira,1.6 Enjoy
+peugeot,107,1.0 Trendy
+peugeot,107,1.4 HDi Trendy
+peugeot,206,1.4 HDi Desire
+peugeot,206,1.4 HDi Sporty
+peugeot,206,1.4 Executive
+peugeot,206,1.4 Fever
+peugeot,206,1.4 HDi XT
+peugeot,206+,1.4 Envy
+peugeot,206+,1.4 HDi Envy
+peugeot,207,1.4 Premium
+peugeot,207,1.4 HDi Allure
+peugeot,207,1.4 HDi Millesim
+peugeot,207,1.4 VTi Dynamic
+peugeot,207,1.4 VTi Trendy
+peugeot,207,1.6 HDi Allure
+peugeot,208,1.0 VTi Access
+peugeot,301,1.2 Active
+peugeot,301,1.6 BlueHDI Allure
+peugeot,306,1.6 XR
+peugeot,307,1.4 XR
+peugeot,307,1.4 HDi Envy
+peugeot,307,1.6 XS
+peugeot,307,1.6 HDi Comfort
+peugeot,307,1.6 HDi Pack
+peugeot,307,1.6 HDi Premium
+peugeot,406,2.0 Premium
+peugeot,308,1.2 PureTech Active
+peugeot,308,1.6 BlueHdi Allure
+peugeot,308,1.6 HDi Active
+peugeot,407,1.6 HDi Comfort
+peugeot,407,1.6 HDi Executive
+peugeot,407,2.0 Comfort
+peugeot,407,2.0 HDi Executive Premium
+peugeot,508,1.5 BlueHDI Allure
+peugeot,508,1.6 BlueHDi Access
+peugeot,508,1.6 Puretech Prime
+peugeot,508,1.6 BlueHDi Active
+peugeot,508,1.6 HDi Active
+peugeot,508,1.6 THP Active
+peugeot,508,1.6 THP Allure
+proton,savvy,1.2 Medium Line
+renault,clio,0.9 Icon
+renault,clio,0.9 Joy
+renault,clio,0.9 SportTourer SportTourer Icon
+renault,clio,0.9 TCe Sport Tourer Joy
+renault,clio,1.0 TCe Icon
+renault,clio,1.0 TCe Touch
+renault,clio,1.2 Night & Day
+renault,clio,1.2 Turbo Touch
+renault,clio,1.2 SportTourer Joy
+renault,clio,1.5 dCi Authentique Edition
+renault,clio,1.5 dCi Night & Day
+renault,clio,1.5 dCi Grandtour Night & Day
+renault,clio,1.6 RS
+renault,clio,1.6 RTE
+renault,fluence,1.5 dCi Authentique
+renault,fluence,1.6 Expression
+renault,fluence,1.6 Privilege
+renault,fluence,1.6 dCi Icon
+renault,grand-scenic,1.5 dCi Expression
+renault,laguna,1.9 dCi Privilege
+renault,laguna,2.0 RTI
+renault,latitude,1.5 dCi Executive
+renault,latitude,1.5 dCi Privilege
+renault,megane,1.5 Blue DCI Icon
+renault,megane,1.5 dCi Business
+renault,megane,1.5 dCi Sport Tourer Touch
+renault,megane,1.6 Extreme
+renault,symbol,1.2 Expression
+renault,megane,2.0 RXE
+renault,modus,1.4 Authentique
+renault,scenic,1.6 RTE
+renault,symbol,0.9 Turbo Touch
+renault,symbol,1.0 Touch
+renault,symbol,1.2 Expression Plus
+renault,symbol,1.2 SL Collect
+renault,symbol,1.5 dCi Authentique Edition
+renault,r-19,1.9 Europa RT TD
+renault,r-21,1.7 Optima
+saab,9-3,2.0 Turbo Vector
+seat,altea,1.4 TSI Style XL
+seat,cordoba,1.6 Signo
+seat,ibiza,1.0 Style
+seat,ibiza,1.4 TSI Sport Coupe Cupra
+seat,leon,1.0 EcoTSI Ecomotive Style
+seat,leon,1.6 Reference
+seat,toledo,1.6 TDI Reference
+skoda,fabia,1.4 Comfort
+skoda,fabia,1.4 Elegance
+skoda,fabia,1.6 Elegance
+skoda,favorit,1.3 GLX
+skoda,favorit,135 L
+skoda,felicia,1.3
+skoda,felicia,1.3 LX
+skoda,octavia,1.6 Elegance
+skoda,octavia,1.6 Tour
+skoda,rapid,1.4 TDI Spaceback Ambition
+skoda,rapid,1.4 TDI Spaceback Style
+skoda,rapid,1.4 TDI Style
+skoda,rapid,1.6 TDI Elegance
+skoda,roomster,1.4 Comfort
+skoda,scala,1.0 TSI Elite
+skoda,scala,1.0 TSI Premium
+skoda,superb,1.5 TSI GreenTec Prestige
+skoda,superb,1.6 TDI Comfort
+skoda,superb,1.9 TDI Elegance
+smart,forfour,1.5 Passion
+subaru,legacy,2.0 Limited
+suzuki,alto,1.1 GLX
+suzuki,swift,1.3 GTi
+suzuki,swift,1.3 MT 4X4
+toyota,auris,1.4 D-4D Elegant
+toyota,auris,1.6 Advance
+toyota,auris,1.6 Elegant
+toyota,auris,1.6 Premium
+toyota,avensis,1.6 Elegant
+toyota,avensis,2.0 Sol
+toyota,carina,2.0 GLi
+toyota,corolla,1.3 XE
+toyota,corolla,1.4 D-4D Linea
+toyota,corolla,1.6
+toyota,corolla,1.6 Luna Special
+toyota,corolla,1.6 Terra Special VVT-i
+toyota,corolla,1.6 Terra VVT-i
+toyota,corolla,1.8 Hybrid Dream
+toyota,verso,1.6 Comfort Extra
+toyota,verso,1.6 D-4D Premium
+toyota,verso,2.0 D-4D
+toyota,yaris,1.0 Terra Sporty
+toyota,yaris,1.3 Luna
+toyota,yaris,1.33 Fun Special Skypack
+toyota,yaris,1.33 Sol
+volkswagen,arteon,1.5 TSI R Line
+volkswagen,arteon,2.0 TDI R Line
+volkswagen,bora,1.6 Basic
+volkswagen,bora,1.6 Primeline
+volkswagen,bora,1.9 TDi Comfortline
+volkswagen,golf,1.0 TSi Highline
+volkswagen,golf,1.0 TSi Midline Plus
+volkswagen,golf,1.5 TSi Comfortline
+volkswagen,golf,1.6
+volkswagen,golf,1.6 Premium
+volkswagen,golf,1.6 Tour
+volkswagen,golf,1.6 TDi Highline
+volkswagen,golf,1.9 TDi
+volkswagen,golf,2.0 TDi Comfortline
+volkswagen,jetta,1.2 TSi Highline
+volkswagen,jetta,1.4 TSi Midline
+volkswagen,jetta,1.4 TSi BlueMotion Highline
+volkswagen,jetta,1.4 TSi BlueMotion Trendline
+volkswagen,jetta,1.6 FSi Midline
+volkswagen,jetta,1.6 Midline
+volkswagen,passat,1.4 TSi Highline
+volkswagen,jetta,1.9 TDi Midline
+volkswagen,jetta,2.0 TDi Comfortline
+volkswagen,passat,1.4 TSi BlueMotion Exclusive
+volkswagen,passat,1.5 TSi Business
+volkswagen,passat,1.6 Comfortline
+volkswagen,passat,1.8 Basic
+volkswagen,passat,1.9 TDi
+volkswagen,passat,1.9 TDi Exclusive
+volkswagen,passat,2.0 Comfortline
+volkswagen,passat,2.0 FSi Highline
+volkswagen,passat,2.0 TDi Exclusive
+volkswagen,polo,1.0 Highline
+volkswagen,polo,1.2 TSi Allstar
+volkswagen,polo,1.6 Comfortline Classic
+volkswagen,polo,1.4 Highline
+volkswagen,polo,1.4 Primeline
+volkswagen,polo,1.6 Trendline Variant
+volkswagen,polo,1.6 TDi Highline
+volkswagen,vento,1.9 TDi GL
+volkswagen,vw-cc,2.0 TDi Exclusive
+volvo,s40,1.6 D Dynamic
+volvo,s40,1.6 D Premium
+volvo,s40,1.6 D Prime
+volvo,s60,1.6 T4 Premium
+volvo,s60,2.0 D R-Design
+volvo,v90-cross-country,2.0 D D5 Pro
+audi,a3,A3 Sportback 1.6 TDI Dynamic
+alfa-romeo,156,1.6 TS
+alfa-romeo,159,1.9 JTS Distinctive
+alfa-romeo,gt,2.0 JTS Distinctive Selespeed
+audi,a3,A3 Sedan 30 TFSI Sport
+fiat,punto,1.4 Easy S&S
+audi,a3,A3 Sedan 35 TFSI Dynamic
+audi,a3,A3 Sportback 1.0 TFSI Sport Line
+audi,a3,A3 Sportback 1.6 TDI Design Line
+opel,insignia,2.0 CDTI Cosmo Sports Tourer
+audi,a4,A4 Avant 1.4 TFSI
+audi,a4,A4 Avant 2.0 TDI Sport
+audi,a4,A4 Sedan 1.8
+audi,a4,A4 Sedan 2.0 TFSI Quattro
+audi,a5,A5 Sportback 2.0 TFSI Quattro
+audi,a6,A6 Avant 2.0 Quattro
+audi,s,S3 2.0 T FSI Quattro
+bmw,1-serisi,116d Joy
+bmw,1-serisi,116d M Sport
+bmw,1-serisi,116d Premium Line
+bmw,1-serisi,116i Premium
+bmw,1-serisi,116i Urban Line
+bmw,1-serisi,116i Advantage
+bmw,1-serisi,118i First Edition M Sport
+bmw,1-serisi,118i Joy Plus
+bmw,3-serisi,316i Advantage
+bmw,3-serisi,316i Luxury Line
+bmw,3-serisi,316i Modern Line
+bmw,3-serisi,318d M Plus
+bmw,3-serisi,320d Technology
+bmw,3-serisi,320d Edition Sport Line
+bmw,3-serisi,320d xDrive M Sport
+bmw,3-serisi,320d xDrive Premium
+bmw,3-serisi,320d xDrive GT M Sport
+bmw,3-serisi,330i Standart
+bmw,4-serisi,418i Gran Coupe Luxury Line
+bmw,4-serisi,418i Gran Coupe Sport Line
+bmw,4-serisi,420d M Sport
+bmw,4-serisi,420d xDrive Gran Coupe Ultimate M Sport
+bmw,5-serisi,520d xDrive Luxury Line
+bmw,5-serisi,525d Standart
+bmw,5-serisi,535d xDrive M Sport
+bmw,6-serisi,630i Cabrio
+bmw,7-serisi,750d xDrive Long Standart
+chery,alia,1.6L Acteco Norma
+chevrolet,kalos,1.2 S
+chevrolet,spark,1.0 SX
+citroen,c2,1.4 HDi Tonic
+citroen,c2,1.6 VTR
+citroen,c3,1.4 Attraction
+citroen,c3,1.4 e-HDi Confort
+citroen,c3,1.4 HDi Exclusive
+citroen,c3,1.4 VTi Confort
+citroen,c3,1.6 SX
+citroen,c3,1.6 VTi Feel
+citroen,c4,1.4 VTi Easy
+citroen,c4,1.6 SX
+citroen,c4,1.6 BlueHDi Confort
+citroen,c4,1.6 e-HDi Exclusive
+citroen,c5,1.6 HDi Confort
+dacia,lodgy,1.5 dCi Stepway Style
+dacia,logan,1.5 dCi Black Line
+dacia,sandero,0.9 TCe TechRoad
+dacia,solenza,1.4 Rapsodie
+daewoo,leganza,2.0 CDX
+daihatsu,applause,1.6 Li
+fiat,500-ailesi,500 1.2 Pop
+fiat,500-ailesi,500 1.3 Mjet Lounge
+fiat,albea,1.4 Fire Active
+fiat,500-ailesi,500L 1.6 Mjet PopStar
+fiat,albea,1.6 Dynamic
+fiat,albea,1.6 HL
+fiat,albea,Sole 1.3 Multijet Dynamic Plus
+fiat,albea,Sole 1.3 Multijet Premio
+fiat,albea,Sole 1.4 Fire Active
+fiat,bravo,1.6 Mjet Active
+fiat,bravo,1.6 Mjet Active Plus
+fiat,bravo,2.0 HGT
+fiat,palio,1.3 Multijet Dynamic
+fiat,egea,1.6 E-Torq Easy Plus
+fiat,egea,1.6 E-Torq Lounge
+fiat,linea,1.3 Multijet Lounge
+fiat,linea,1.4 Fire Active
+fiat,linea,1.4 Fire Actual
+fiat,linea,1.4 Fire Easy
+fiat,linea,1.6 Multijet Emotion Plus
+fiat,palio,1.2 Active
+fiat,palio,1.3 Multijet Dynamic Sole
+fiat,panda,1.2 Active
+fiat,punto,1.3 Multijet Easy
+fiat,punto,EVO 1.3 Multijet My Life
+fiat,tempra,1.6 SW AK
+fiat,tipo,1.6 S
+ford,b-max,1.6 Titanium
+ford,escort,1.3 CL
+ford,escort,1.6 Classic
+ford,festiva,1.3 XL
+ford,fiesta,1.0 Titanium
+hyundai,i20-troy,1.4 CVVT Mode
+ford,fiesta,1.4 TDCi Cool
+ford,focus,1.0 GTDi Trend X
+toyota,auris,1.8 Hybrid Advance Skypack
+ford,focus,2.0 Sport Trend
+ford,fusion,1.6
+ford,mondeo,2.0 Selective
+ford,taunus,1.6 S
+honda,accord,1.8 LS
+honda,civic,1.4 Hybrid
+honda,civic,1.5 i-VTEC Turbo Sport Plus
+honda,civic,1.6 i-DTEC Sport
+hyundai,accent-blue,1.4 CVVT Prime
+toyota,avensis,1.6 Comfort
+honda,civic,1.8 Sport
+hyundai,accent,1.3 GT
+hyundai,accent,1.5 GL
+hyundai,accent,1.5 GT
+hyundai,accent,1.5 LS
+hyundai,accent-blue,1.4 CVVT Mode
+hyundai,accent-era,1.4 Select
+hyundai,accent-era,1.4 Select Expo Gold
+hyundai,accent-era,1.5 CRDi Prime
+hyundai,accent-era,1.5 CRDi-VGT Eco
+hyundai,accent-era,1.5 CRDi-VGT Style
+hyundai,elantra,1.6 D-CVVT Mode Plus
+hyundai,elantra,1.6 MPI Elite Plus
+hyundai,getz,1.5 CRDi Classic
+hyundai,i10,1.1 Select
+hyundai,i10,1.2 MPI Elite
+hyundai,i10,1.2 MPI Style
+hyundai,i20,1.4 CRDi Elite
+hyundai,i20-troy,1.2 DOHC Mode
+hyundai,i30,1.6 CRDi Style Plus
+hyundai,i30,1.6 CVVT Style Plus
+hyundai,ix20,1.6 Prime
+hyundai,matrix,1.6 Start
+jaguar,x-type,2.1 Executive
+kia,cerato,1.5 CRDi LX
+kia,cerato,1.6 CRDi Prestige
+kia,cerato,1.6 EX Comfort
+kia,rio,1.4 CVVT Concept
+kia,cerato,1.6 MPI Comfort
+kia,rio,1.25 CVVT Comfort
+kia,rio,1.4 WGT Concept
+mazda,3,1.5 SkyActive-G Power
+mercedes---benz,c,C 200 BlueTEC Avantgarde
+mercedes---benz,a,A 180 CDI BlueEFFICIENCY Urban
+mercedes---benz,a,A 180 d Style
+mercedes---benz,b,B 150 Special Edition
+mercedes---benz,b,B 160 Sport
+mercedes---benz,c,C 180 BlueEFFICIENCY Avantgarde
+mercedes---benz,c,C 180 BlueEFFICIENCY Elegance
+mercedes---benz,c,C 180 BlueEFFICIENCY Selection Plus
+mercedes---benz,c,C 200 Kompressor Avantgarde
+mercedes---benz,c,C 220 Elegance
+mercedes---benz,c,C 250 AMG
+mercedes---benz,c,C 250 CDI BlueEFFICIENCY Fascination
+mercedes---benz,clc,160 BlueEFFICIENCY
+mercedes---benz,clk,CLK 200 Avantgarde
+mercedes---benz,e,180 AMG
+mercedes---benz,e,200 d Exclusive
+mercedes---benz,e,200 CGI BlueEFFICIENCY Elegance
+mercedes---benz,e,220 CDI Avantgarde
+mercedes---benz,e,220 D Exclusive
+mercedes---benz,e,250 CDI Avantgarde
+mercedes---benz,e,250 TD Classic
+mercedes---benz,190,190 D 2.5
+mercedes---benz,e,250 CDI Edition
+mercedes---benz,s,320
+mini,cooper,1.5
+mini,cooper,1.6
+mini,cooper-clubman,1.5 Türkiye Paketi
+mini,cooper-s,1.6
+mitsubishi,lancer,1.5 GLX
+nissan,almera,1.5 Luxury
+nissan,micra,1.3 LX
+nissan,primera,1.6 SLX
+opel,ascona,1.6 C GLS
+opel,astra,1.3 CDTI ecoFLEX Cosmo
+opel,astra,1.3 CDTI ecoFLEX Enjoy
+opel,astra,1.4 T Enjoy Active
+opel,astra,1.4 T Excellence
+opel,astra,1.6 Sportive
+opel,astra,1.6 T Dynamic
+opel,astra,1.6 CDTI Cosmo
+opel,astra,1.6 T Sport
+opel,corsa,1.2 Comfort
+opel,corsa,1.2 Elegance
+opel,corsa,1.4 100.Yýl
+opel,corsa,1.4 Black&White
+opel,corsa,1.6 GSi
+opel,corsa,1.4 Twinport Color Edition
+opel,corsa,1.5 CDTI Edition
+opel,vectra,1.9 CDTI Comfort
+opel,insignia,1.6 CDTI Grand Sport Enjoy
+opel,vectra,2.2 DTI Elegance
+opel,vectra,1.6 Edition
+opel,zafira,1.6 Comfort
+opel,vectra,2.0 GT
+opel,vectra,2.2 Elegance
+peugeot,206,1.4 Panoramic
+peugeot,206,1.4 HDi Comfort
+peugeot,206,1.4 HDi Look
+peugeot,207,1.4 HDi Urban Move
+peugeot,207,1.4 HDi Active
+peugeot,207,1.4 HDi Comfort
+peugeot,207,1.4 VTi Active
+peugeot,207,1.6 HDi Premium
+peugeot,207,1.6 THP GT
+peugeot,208,1.6 e-HDI Active
+peugeot,208,1.6 HDi Allure
+peugeot,208,1.6 THP GTi
+peugeot,301,1.2 Access
+peugeot,306,1.6 Platinum
+peugeot,306,1.9 XRD
+peugeot,307,1.4 Designtech
+peugeot,307,1.4 Profil
+peugeot,307,1.6 Envy
+peugeot,307,1.6 HDi XS
+peugeot,307,2.0 CC Dynamic
+peugeot,308,1.6 e-HDi Access
+peugeot,308,1.6 e-HDi Sportium
+peugeot,308,1.6 HDi Business Line
+peugeot,407,2.0 Executive Premium
+peugeot,508,1.6 BlueHDi Allure
+peugeot,508,1.6 Puretech GT
+peugeot,508,2.0 HDi Allure
+renault,clio,0.9 TCe Touch
+renault,clio,1.2 Touch
+renault,clio,1.2 Turbo Joy
+renault,clio,1.5 dCi Fidji
+renault,clio,1.5 dCi Grandtour Dynamique
+renault,clio,1.5 dCi Grandtour Extreme
+renault,clio,1.6 Night & Day
+renault,espace,2.2 dCi Privilege
+renault,laguna,2.0 dCi Privilege
+renault,latitude,2.0 dCi Executive
+renault,megane,1.3 Tce Icon
+renault,megane,1.4 RTE
+renault,megane,1.5 Blue DCI Joy
+renault,megane,1.5 dCi Expression Plus
+renault,megane,1.6 Icon
+renault,megane,1.6 RXE
+renault,megane,1.6 CC Dynamique
+renault,megane,1.6 Coupe Expression
+renault,megane,1.6 Sport Tourer Expression
+renault,symbol,1.4 Dynamique
+renault,symbol,1.4 Expression Plus
+renault,r-19,1.4 Beymen Club
+renault,r-19,1.4 Europa Prima
+renault,r-19,1.8 RTi
+renault,r-19,1.8 Europa RTI
+renault,r-21,1.7 GTS Manager
+seat,altea,1.6 TDI I-Tech XL
+seat,cordoba,1.4 Elegance
+seat,cordoba,1.4 TDI S-Rider
+seat,cordoba,1.6 Stella
+seat,cordoba,1.9 TDI Signo Vario
+seat,exeo,1.6 Style
+seat,ibiza,1.2 TSI Sport Tourer Style
+seat,ibiza,1.4 Signo
+seat,ibiza,1.4 Stella
+seat,ibiza,1.6 SE
+seat,ibiza,1.6 Signo
+seat,ibiza,1.6 Stella
+seat,ibiza,1.9 TDI Signo
+seat,leon,1.2 TSI Sport Coupe Style
+seat,leon,1.4 TSI Stylance
+seat,leon,1.6 Spirit
+seat,leon,2.0 TFSI Cupra
+seat,toledo,1.2 TSI Reference
+seat,toledo,1.2 TSI Style
+seat,toledo,1.9 TDI Signo
+skoda,fabia,1.2 Optimal
+skoda,fabia,1.2 TSI Ambiente
+skoda,fabia,1.2 TSI Ambition
+skoda,fabia,1.4 Special
+skoda,felicia,1.6 GLXi
+skoda,octavia,1.6 TDI Active
+skoda,octavia,1.6 TDI Elegance CR
+toyota,avensis,1.6 D-4D Advance
+skoda,octavia,1.9 TDI SLX
+skoda,rapid,1.2 Active
+skoda,rapid,1.2 Ambition
+skoda,rapid,1.2 TSI Spaceback Ambition
+skoda,rapid,1.6 TDI Spaceback Elegance
+skoda,roomster,1.2
+skoda,scala,1.6 TDI Premium
+skoda,superb,1.4 TSI Active
+suzuki,swift,1.2 GL
+toyota,auris,1.8 Hybrid Premium
+toyota,corolla,1.4 D-4D Life
+toyota,corolla,1.4 D-4D Plusline
+toyota,corolla,1.6 Flame X Pack
+toyota,corolla,1.6 GL
+toyota,corolla,1.6 GLi Special
+toyota,corolla,1.6 Passion X-Pack
+toyota,corolla,1.8 Hybrid Flame X-Pack
+toyota,yaris,1.0 Life
+toyota,yaris,1.0 Sol
+toyota,yaris,1.3 Terra
+toyota,yaris,1.33 Cool
+toyota,yaris,1.33 Cool Skypack
+toyota,yaris,1.33 Fun Special
+toyota,yaris,1.33 Terra
+volkswagen,golf,1.2 TSi Allstar
+volkswagen,golf,1.4 TSi Tour
+volkswagen,golf,1.6 Basic
+volkswagen,golf,1.6 CL
+volkswagen,golf,1.6 D GL
+volkswagen,golf,1.6 TD
+volkswagen,golf,1.6 FSi Goal
+volkswagen,golf,1.6 FSi Sportline
+volkswagen,golf,1.9 TDi Midline
+volkswagen,golf,1.9 TDi Trendline
+volkswagen,jetta,1.6 TDi Midline
+volkswagen,lupo,1.4
+volkswagen,new-beetle,1.6 TDi Design
+volkswagen,passat,1.4 TSI Hybrid GTE
+volkswagen,passat,1.6 Exclusive
+volkswagen,passat,1.6 TDi Comfortline
+volkswagen,passat,1.6 TDi BlueMotion Business
+volkswagen,passat,1.6 TDi BlueMotion R Line
+volkswagen,passat,1.8 TSi Comfortline
+volkswagen,passat,1.9 TDi Trendline
+volkswagen,passat-variant,1.6 FSi Comfortline
+volkswagen,polo,1.4 TSi GTi
+volkswagen,polo,1.6 Trendline Classic
+volkswagen,polo,1.9 TDi Comfortline Classic
+volvo,s60,1.6 D
+volvo,s60,2.0 T Premium
+volvo,s60,2.4 D
+volvo,s80,1.6 D
+alfa-romeo,156,2.0 TS Selespeed
+audi,a3,A3 Cabrio 1.4 TFSI Attraction
+audi,a3,A3 Sportback 1.2 TFSI Attraction
+audi,a3,A3 Sportback 1.8 Ambiente
+audi,a4,A4 Avant 2.0 TDI Quattro
+audi,a4,A4 Sedan 2.0 TDI Quattro Dynamic
+audi,a6,A6 Sedan 1.8 T
+audi,a6,A6 Sedan 40 TDI Quattro Design
+bmw,1-serisi,116i Sport Line
+bmw,2-serisi,218i Gran Coupe First Edition Sport Line
+bmw,3-serisi,316i Compact
+bmw,3-serisi,318d Premium
+bmw,3-serisi,318i Prestige
+bmw,3-serisi,318i Edition Luxury Line
+bmw,3-serisi,318i M Joy Plus
+bmw,3-serisi,320i Premium
+bmw,3-serisi,325i Standart
+bmw,4-serisi,418i M Sport
+bmw,5-serisi,520i Comfort Plus
+bmw,5-serisi,523i Standart
+bmw,5-serisi,525d xDrive Exclusive
+citroen,c4,1.6 BlueHDi Feel
+bmw,5-serisi,525i Standart
+bmw,5-serisi,530d Exclusive
+bmw,7-serisi,730d Long Individual
+chevrolet,cruze,1.6
+chevrolet,lacetti,1.6 CDX
+chevrolet,spark,1.0 LS
+chrysler,sebring,2.0 CRD Limited
+citroen,c3,1.6 BlueHDI Shine
+citroen,c4,1.6 VTI Confort
+dacia,logan,1.2
+citroen,saxo,1.5D X
+citroen,xantia,2.0 HDi SX
+citroen,xsara,Picasso 1.6 HDi Exclusive
+dacia,logan,1.6
+dacia,logan,1.6 Laureate
+dacia,sandero,1.0 Ambiance
+dacia,sandero,1.4 Ambiance
+dacia,sandero,1.6 Stepway
+daewoo,lanos,1.5 SE
+daihatsu,sirion,1.3
+ds-automobiles,ds4,1.6 e-HDi D-Sport
+ds-automobiles,ds5,1.6 e-HDi DSport
+ds-automobiles,ds5,1.6 THP DSport
+fiat,albea,Sole 1.4 Fire Premio Plus
+fiat,bravo,1.6 Mjet Easy
+fiat,tempra,1.6 ie SLX
+fiat,linea,1.3 Multijet Dynamic Plus
+fiat,linea,1.3 Multijet VIA
+fiat,linea,1.4 Turbo Dynamic Plus
+fiat,palio,1.2 Feel
+fiat,palio,1.2 S
+fiat,punto,1.3 Multijet Popstar
+fiat,punto,1.4 Mair Lounge S&S
+fiat,punto,EVO 1.4 Active
+fiat,punto,EVO 1.4 Fire Dynamic
+fiat,stilo,1.6 Dynamic MultiWagon
+fiat,tempra,2.0 ie
+ford,b-max,1.5 TDCi Trend
+ford,b-max,1.6 Trend
+ford,c-max,1.6 Ghia
+ford,escort,1.3 CLX
+ford,escort,1.4 CLX
+ford,escort,1.8 CLX
+ford,fiesta,1.6 Trend X
+ford,focus,1.5 TDCi ST Line
+ford,mondeo,2.0 TDCi Titanium X
+mercedes---benz,clk,CLK 200 Elegance
+ford,focus,1.8 Di Ghia
+ford,fusion,1.4 TDCi Comfort ASM
+honda,civic,1.5 EL
+ford,mondeo,1.5 Style
+honda,civic,1.5 EX
+ford,mondeo,2.0 TDCi Ghia
+ford,mondeo,2.0 TDCi Selective
+ford,sierra,2.0 GLS
+ford,taunus,1.6 GXL
+ford,taunus,2.0 GTS
+geely,echo,1.3 Comfort
+geely,familia,1.5 Comfort
+honda,accord,2.0 ES
+honda,civic,1.6 1.6i
+honda,civic,1.6 Si
+honda,civic,1.6 i-DTEC Executive
+hyundai,accent,1.3 LS Comfort
+mercedes---benz,clk,CLK 200 Kompressor Elegance
+hyundai,elantra,1.6 CRDi Style
+hyundai,excel,1.5 GLS
+hyundai,getz,1.3 GLS Cool
+hyundai,i20,1.4 MPI Style Design
+hyundai,i20-troy,1.4 CRDi Mode
+hyundai,i30,1.4 MPi Style
+hyundai,i30,1.6 CRDi Prime
+hyundai,ix20,1.4 CRDi Prime
+hyundai,matrix,1.5 CRDi Start
+hyundai,matrix,1.5 CRDi Style
+hyundai,matrix,1.6 GL
+hyundai,sonata,2.0 CRDi H-Matic
+hyundai,sonata,2.0 CRDi Style Plus
+jaguar,xe,2.0 D Prestige Plus
+kia,ceed,1.6 CRDi Elegance
+kia,cerato,1.6 GSL Comfort
+kia,pro-ceed,1.6 GSL Concept Plus
+kia,rio,1.4 CRDi Natty
+kia,rio,1.5 Luxury
+kia,rio,1.5 CRDi EX Advance
+kia,sephia,1.5 LS
+mazda,323,1.5 Familia
+mazda,323,1.8
+mazda,323,1.8 Familia
+mazda,6,2.0 CD CE
+mazda,626,2.0 S
+mercedes---benz,a,A 150 Avantgarde
+mercedes---benz,b,B 180 BlueEFFICIENCY Urban
+mercedes---benz,b,B 180 CDI BlueEFFICIENCY AMG
+mercedes---benz,c,C 180 AMG 9G-Tronic
+mercedes---benz,c,C 200 Elegance
+mercedes---benz,c,C 200 BlueTEC Style
+mercedes---benz,c,C 200 D Avantgarde
+mercedes---benz,c,C 200 D Comfort
+mercedes---benz,cla,180 D Comfort
+mercedes---benz,clk,CLK 230 Kompressor
+mercedes---benz,e,200 d AMG
+mercedes---benz,e,220 CDI Classic
+mercedes---benz,e,250 BlueTEC Elite
+mercedes---benz,e,250 EditionE
+mercedes---benz,e,250 CDI AMG
+mini,john-cooper,2.0 Works Signature
+mercedes---benz,s,320 320 CDI
+mercedes---benz,s,320 320 CDI L
+mercedes---benz,s,350 350 CDI L
+mercedes---benz,slk,200
+mitsubishi,colt,1.3 Instyle
+nissan,almera,1.5 Visia
+nissan,note,1.4 Visia
+nissan,note,1.5 dCi Visia
+nissan,note,1.6 Tekna
+nissan,primera,1.6 Visia
+nissan,primera,2.0 GT
+nissan,pulsar,1.2 Visia
+nissan,pulsar,1.5 Visia
+opel,astra,1.3 CDTI Active
+opel,astra,1.3 CDTI Elegance
+opel,astra,1.6 CDTI Edition
+opel,corsa,1.0 Eco Club
+opel,corsa,1.2 Edition
+opel,corsa,1.4 Cosmo
+peugeot,206,1.6 CC
+opel,corsa,1.4 Twinport Active
+opel,insignia,1.6 Cosmo
+opel,insignia,2.0 CDTI Cosmo FlexRide
+opel,meriva,1.3 CDTI Enjoy
+opel,vectra,1.6 Design Edition
+opel,vectra,2.0
+opel,vectra,2.0 DTI Comfort
+opel,vectra,2.2 DTI Comfort
+opel,zafira,1.6 CDTI Enjoy
+opel,zafira,1.8 Comfort
+peugeot,206,1.4 XT
+peugeot,206+,1.4 HDi Urban Move
+peugeot,207,1.4 HDi Dynamic
+peugeot,207,1.6 HDi Feline
+peugeot,207,1.6 HDi Outdoor
+peugeot,208,1.2 VTi Access
+peugeot,306,1.8 XT
+peugeot,307,1.4 Comfort
+peugeot,307,1.6 Comfort
+peugeot,307,1.6 Designtech
+peugeot,307,1.6 Technoplus
+peugeot,307,1.6 HDi XT
+peugeot,307,2.0 HDi XT
+peugeot,308,1.2 PureTech Style
+peugeot,308,1.6 BlueHdi Style
+peugeot,308,1.6 HDi Access
+peugeot,508,2.2 HDi GT
+peugeot,607,3.0 Pack
+peugeot,806,2.0 ST HDi
+proton,gen-2,1.6 Base Line
+proton,gen-2,1.6 Medium Line
+renault,clio,1.2 Joy Plus
+renault,clio,1.2 Grandtour Extreme
+renault,clio,1.3 TCe Touch
+renault,clio,1.5 dCi Executive
+renault,clio,1.6 Expression
+renault,clio,1.6 Grandtour Extreme
+renault,fluence,1.6 Dynamique
+renault,laguna,1.5 dCi Privilege
+renault,laguna,1.6 Authentique
+renault,laguna,1.8 RXE
+renault,laguna,1.9 DTi RXT
+renault,laguna,2.0 Privilege
+renault,megane,1.4 RTA
+renault,scenic,1.5 dCi Dynamique
+renault,megane,1.5 dCi GT-Line
+renault,megane,1.5 dCi Touchrome
+toyota,corolla,1.8 Hybrid Flame
+renault,megane,1.5 dCi Sport Tourer GT-Line
+renault,megane,1.6
+renault,megane,1.6 CC Privilege
+renault,megane,1.6 Coupe 1.6 e
+renault,r-5,1.4 TR
+renault,symbol,1.6 Expression
+seat,leon,1.6 Signo
+renault,twingo,1.2 Pack
+renault,r-19,1.4 Europa RT
+renault,r-19,1.6 Europa RL
+seat,altea,1.6 TDI Style XL
+seat,cordoba,1.4 Signo
+seat,cordoba,1.4 TDI Elegance
+seat,ibiza,1.2 Stella
+seat,ibiza,1.2 TSI Referance
+seat,ibiza,1.9 TDI Sport
+seat,leon,1.4 EcoTSI Xcellence
+seat,leon,1.5 EcoTSI Xcellence
+seat,leon,1.6 Style
+seat,leon,1.6 TDI Xcellence
+skoda,fabia,1.2 Ambition
+skoda,fabia,1.4 Choice
+skoda,fabia,1.4 TDI Classic
+skoda,octavia,1.2 TSI Style
+skoda,octavia,1.6 Collection Plus
+skoda,octavia,1.6 GLX
+skoda,rapid,1.2 Spaceback Ambition
+skoda,roomster,1.4 TDI Comfort
+skoda,superb,1.4 TSI Ambition
+skoda,superb,1.6 TDI Elite
+skoda,superb,1.9 TDI Comfort
+suzuki,swift,1.3 MT
+toyota,auris,1.4 D-4D Active Skypack
+toyota,auris,1.6 Active
+toyota,avensis,2.0 Liftback
+toyota,avensis,2.0 D-4D Elegant
+toyota,corolla,1.6 Class
+toyota,corolla,1.8 Elegant
+toyota,corolla,2.2 D-4D Elegant Verso
+toyota,starlet,1.3
+toyota,verso,1.6 Elegant
+toyota,yaris,1.4 D-4D Fun
+toyota,yaris,1.5 Fun Special
+volkswagen,golf,1.4 TSi Pulse
+volkswagen,golf,1.6 Sportline
+volkswagen,golf,1.6 FSi Comfortline Plus
+volkswagen,passat,1.8 T
+volkswagen,polo,1.4 Cross
+volkswagen,polo,1.4 Tour
+volkswagen,polo,1.6 Variant
+alfa-romeo,giulietta,1.4 TB Distinctive
+volvo,c30,1.6 D Premium
+volvo,s60,1.5 T3 Advance
+volvo,s60,1.5 T3 Premium
+volvo,s60,1.6 D R-Design
+volvo,s60,2.0 D Premium
+volvo,s60,2.0 T Sports
+volvo,s80,1.6 D Premium
+volvo,v40-cross-country,1.6 D Advance
+alfa-romeo,145,1.4 TS STD
+alfa-romeo,159,1.9 JTS Distinctive Plus
+audi,a1,1.6 TDI Ambition
+audi,a3,A3 Cabrio 35 TFSI Design
+bmw,4-serisi,420d xDrive Gran Coupe Luxury Line
+audi,a4,A4 Avant 3.0 TDI Quattro
+audi,a4,A4 Sedan 1.8 T
+audi,a5,A5 Coupe 2.0 TFSI
+audi,a6,A6 Sedan 2.0 TFSI Quattro
+audi,a6,A6 Sedan 3.2 FSI Quattro
+bmw,1-serisi,116d Comfort
+bmw,7-serisi,740d xDrive Long Pure Excellence
+bmw,1-serisi,118i First Edition Sport Line
+bmw,3-serisi,318d Sport Plus
+bmw,3-serisi,318i Edition Sport Line
+bmw,3-serisi,318i M Joy
+bmw,3-serisi,320d Edition Comfort
+bmw,3-serisi,320d Sport Line
+bmw,3-serisi,320d xDrive Sport Line
+bmw,3-serisi,320i Cabrio
+bmw,3-serisi,320i ED Joy
+bmw,4-serisi,420d xDrive M Sport
+bmw,3-serisi,320i ED Modern Line
+bmw,3-serisi,328i Coupe
+bmw,3-serisi,328i Standart
+bmw,3-serisi,330d Standart
+bmw,3-serisi,330i Edition Sport Line
+bmw,4-serisi,420d xDrive Gran Coupe Sport Plus
+bmw,5-serisi,520d xDrive Prestige
+bmw,5-serisi,520i Executive Luxury Line
+bmw,5-serisi,520i Prestige
+bmw,5-serisi,528i Standart
+bmw,5-serisi,530d Comfort
+bmw,6-serisi,640xd Gran Coupe M Sport
+bmw,7-serisi,730i Long Executive Lounge
+bmw,7-serisi,740d xDrive Exclusive
+bmw,i-serisi,i8 Premium Techno
+bmw,z-serisi,Z4 2.0i sDrive
+chevrolet,cruze,1.6 WTCC Edition
+chevrolet,kalos,1.4 SE
+chevrolet,spark,0.8 SE
+chevrolet,spark,1.2 LS
+chrysler,stratus,2.5 LX
+citroen,c2,1.4 SX
+citroen,c3,1.2 PureTech SX Edition
+citroen,c3-picasso,1.6 HDi SX
+citroen,c4-grand-picasso,1.6 HDi SXPK
+citroen,c4-picasso,1.6 BlueHDi Intensive
+citroen,xantia,2.0 SX
+citroen,xsara,1.4 HDi
+fiat,500-ailesi,500 1.2 Sport
+fiat,albea,Sole 1.3 Multijet Active
+fiat,albea,Sole 1.3 Multijet Premio Plus
+fiat,egea,1.6 E-Torq Lounge Plus
+fiat,egea,1.6 E-Torq Sport
+fiat,egea,1.6 Multijet Sport
+fiat,punto,1.3 Multijet Shine
+fiat,punto,1.4 Lounge S&S
+fiat,punto,1.4 Popstar S&S
+fiat,tempra,2.0 ie SW
+fiat,tempra,2.0 ie SX
+fiat,tipo,1.6 ie
+ford,c-max,1.6 TDCi Titanium X Grand
+ford,fiesta,1.0 GTDi Black
+ford,fiesta,1.4 TDCi Sport
+ford,fiesta,1.6 Ghia
+ford,fiesta,1.6 Ti-VCT Titanium
+ford,fiesta,1.6 Trend
+ford,focus,1.6 SCTi Titanium
+ford,mondeo,1.6 Selective
+ford,mondeo,1.6 Titanium
+ford,mondeo,1.6 TDCi Selective
+ford,mondeo,2.5 Titanium
+ford,sierra,2.0 CLX
+honda,civic,1.5 VTEC Turbo Executive Plus
+honda,civic,1.6 i-DTEC Comfort
+honda,jazz,1.5 Dynamic
+hyundai,accent,1.3 GL Active
+hyundai,accent,1.3 LX Allegro
+hyundai,accent,1.5 GLX
+hyundai,accent-blue,1.4 D-CVVT Mode
+hyundai,elantra,1.5 GLS
+hyundai,elantra,1.6 D-CVVT Prime Plus
+hyundai,elantra,2.0 CRDi GLS
+hyundai,excel,1.3 GLS
+hyundai,excel,1.3 LS
+hyundai,i20,1.4 CRDi Sense
+hyundai,ix20,1.4 CRDi Mode
+jaguar,xe,2.0 D R-Sport Plus
+kia,ceed,1.6 CRDi Concept SW
+kia,ceed,1.6 CRDi Premium SW
+kia,cerato,1.5 CRDi Advance
+kia,pro-ceed,1.6 GDI GT
+kia,rio,1.4 GSL Trend
+kia,rio,1.4 WGT Prestige
+mercedes---benz,a,A 180 BlueEFFICIENCY AMG Sport
+mercedes---benz,a,A 180 d Style BlackArt
+mercedes---benz,b,B 160 Boyut
+mercedes---benz,c,C 200 AMG
+mercedes---benz,c,C 200 CGI Fascination
+mercedes---benz,c,C 200 Classic
+mercedes---benz,c,C 200 Kompressor Classic
+mercedes---benz,cla,180 CDI Style
+mercedes---benz,c,C 200 D AMG
+mercedes---benz,c,C 200 d BlueTEC Exclusive
+mercedes---benz,c,C 220 BlueTEC AMG
+mercedes---benz,c,C 220 CDI AMG
+mercedes---benz,c,C 220 CDI BlueEFFICIENCY Fascination
+mercedes---benz,c,C 270 CDI Elegance
+mercedes---benz,cls,250 BlueTEC 4Matic
+mercedes---benz,cls,350 CDI Innovation Sport
+mercedes---benz,cls,400 d AMG
+mercedes---benz,e,180 AMG Premium
+mercedes---benz,e,180 Avantgarde
+mercedes---benz,e,180 Style
+mercedes---benz,e,250 Elit
+mercedes---benz,e,350 Exclusive
+mercedes---benz,s,350 350 BlueTEC
+mercedes---benz,s,400 Sport
+mercedes---benz,s,600 600 L
+mitsubishi,carisma,1.6 GL
+mitsubishi,colt,1.5 Instyle
+mitsubishi,galant,2.0 GLS
+nissan,micra,1.2 Mood
+nissan,sunny,1.6 EX
+opel,astra,1.4 T Enjoy Plus
+opel,astra,1.5 D Edition
+opel,astra,1.6 CDX
+opel,corsa,1.0 Color Edition
+opel,corsa,1.2 City
+opel,corsa,1.2 Club
+opel,corsa,1.3 CDTI Silverline
+opel,corsa,1.3 CDTI Design
+opel,corsa,1.4 CD
+opel,insignia,1.6 CDTI Business
+opel,vectra,2.0 DTI CD
+peugeot,107,1.0 Move
+peugeot,207,1.6 VTi Allure
+peugeot,207,1.6 HDi Active
+peugeot,208,1.2 PureTech Signature
+peugeot,208,1.6 BlueHDi Active
+peugeot,306,1.6 Diamond
+peugeot,307,1.6 HDi Look
+peugeot,307,2.0 HDi XSi
+peugeot,308,1.5 BlueHDI Style
+peugeot,308,1.6 VTi Access
+peugeot,308,1.6 VTi Active
+peugeot,308,1.6 VTi Comfort Pack
+peugeot,407,1.6 HDi Premium
+peugeot,605,2.0 SLi
+renault,clio,1.9 D RL
+renault,fluence,1.6 Authentique
+renault,laguna,1.5 dCi Executive
+renault,laguna,1.6 RT
+renault,laguna,1.6 RXE
+renault,megane,1.2 TCe Icon
+renault,megane,1.2 TCe Touch
+renault,megane,1.4 Expression
+renault,megane,1.6 Play
+renault,megane,1.9 dCi Alize
+renault,modus,1.6 Dynamique
+renault,scenic,1.6
+renault,scenic,1.9 dCi Dynamique
+renault,twingo,1.2 Base
+renault,r-9,1.4 GTC
+rover,75,2.5 Club
+saab,9-3,2.0 TS Vector
+saab,9-5,2.0 SE
+seat,cordoba,1.4 TDI Basic
+seat,cordoba,1.9 TDI Stella
+skoda,felicia,1.3 LXi
+seat,ibiza,1.4 Elegance
+seat,ibiza,1.4 Stylance
+seat,ibiza,1.4 TDI Signo
+seat,leon,1.6 Stella
+skoda,rapid,1.0 TSI GreenTec Dynamic
+skoda,rapid,1.2 TSI Ambition
+seat,leon,2.0 TSI Cupra
+seat,toledo,1.6 Comfort
+seat,toledo,1.8 Signo
+skoda,favorit,1.3 Black Line
+skoda,octavia,1.4 TSI Ambiente
+skoda,octavia,1.6 TDI Classic
+skoda,superb,1.5 TSI GreenTec Premium
+skoda,superb,2.0 TDI Prestige
+subaru,impreza,1.5 Comfort
+suzuki,s-cross,1.6 GL
+toyota,auris,1.6 Active Skypack
+toyota,auris,1.8 Hybrid Active Skypack
+toyota,avensis,2.0 Comfort
+toyota,corolla,1.3 XLi
+toyota,corolla,1.4 D-4D Sol
+toyota,corolla,1.6 Elegant Verso
+toyota,corolla,1.6 Linea Luna
+toyota,corolla,1.6 Linea Sol
+toyota,corolla,1.6 Sol Plus
+toyota,corolla,1.6 Sol Special
+toyota,corolla,1.8 Hybrid Passion X-Pack
+volkswagen,arteon,2.0 TDI Elegance
+volkswagen,golf,1.6 D CL
+volkswagen,golf,1.6 GL
+volkswagen,golf,1.6 Highline
+volkswagen,golf,1.8 Highline
+volkswagen,golf,2.0 FSi Sportline
+volkswagen,jetta,1.9 TDi Tour
+volkswagen,new-beetle,1.2 TSi Beetle
+volkswagen,passat,1.6 TDi
+volkswagen,polo,1.4 TDi Basicline
+volkswagen,polo,1.4 TDi Bluemotion
+volkswagen,touran,1.4 TSi Comfortline
+volkswagen,polo,1.6 TDi Trendline
+volkswagen,touran,1.6 FSi Comfortline
+volvo,v40,1.5 T3 Momentum
+volvo,v40,1.6 D Premium
+alfa-romeo,145,1.6
+alfa-romeo,147,1.6 TS Progression
+audi,a1,1.4 TFSI Ambition
+audi,a1,1.6 TDI Sportback Ambition
+audi,a3,A3 Sedan 1.4 TFSI Ambiante
+audi,a3,A3 Sportback 30 TDI Sport
+audi,a4,A4 Avant 2.0 TFSI Quattro Dynamic
+audi,a4,A4 Sedan 2.0 TDI Quattro Design
+audi,a5,A5 Coupe 2.0 TDI Quattro
+audi,a6,A6 Avant 3.0 TDI Quattro
+audi,a6,A6 Sedan 2.4
+audi,a6,A6 Sedan 2.8 Quattro
+audi,a8,3.0 TDI Quattro Long
+bmw,1-serisi,116d ED Joy Plus
+bmw,2-serisi,216d Gran Coupe First Edition Sport Line
+bmw,3-serisi,318i M Sport
+bmw,3-serisi,320d Advantage
+bmw,3-serisi,320d Sport Plus
+bmw,3-serisi,320d xDrive Comfort
+bmw,3-serisi,320d xDrive Luxury Line
+bmw,3-serisi,320d xDrive Premium Line
+bmw,3-serisi,320i ED Modern Line Plus
+bmw,3-serisi,320i ED Techno Plus
+bmw,4-serisi,418i Prestige
+bmw,4-serisi,420d xDrive Gran Coupe M Sport
+bmw,5-serisi,520d Executive Plus
+bmw,5-serisi,520d Gran Turismo Luxury Line
+bmw,5-serisi,525d xDrive Luxury Line
+bmw,5-serisi,530i Executive M
+bmw,7-serisi,730d Long Standart
+chevrolet,lacetti,1.6 SE
+chevrolet,lacetti,1.4 SX
+chevrolet,spark,1.2 LT
+citroen,c4,1.6 VTR
+citroen,c4,1.6 HDi VTRPK
+citroen,c4-grand-picasso,1.6 HDi Dynamic
+citroen,c4-picasso,1.6 e-HDi Dynamic
+citroen,c5,2.0 HDi SX
+citroen,c-elysee,1.6 BlueHDi Shine
+dacia,logan,1.4
+dacia,sandero,1.6 Laureate
+daewoo,espero,1.5i GL
+daihatsu,sirion,1.0 CX
+fiat,500-ailesi,500 1.2 Cult
+fiat,500-ailesi,500 1.2 Rockstar
+fiat,500-ailesi,500L 1.6 Mjet RockStar
+fiat,bravo,1.4 T-Jet Sports Style
+fiat,bravo,1.4 Turbo Dynamic
+fiat,linea,1.4 Turbo Emotion
+fiat,linea,1.4 Turbo Emotion Plus
+fiat,linea,1.6 Multijet Easy
+fiat,palio,1.2 HL Weekend
+fiat,palio,1.2 HL Speedgear
+fiat,palio,1.3 Multijet Premio Sole
+fiat,panda,1.2 Fire Cross
+fiat,punto,1.4 Shine
+fiat,punto,EVO 1.4 Fire My Life
+ford,escort,1.8 CL
+ford,festiva,1.3 GL
+ford,fiesta,1.4 Cool
+ford,fiesta,1.6 TDCi Sport
+ford,fiesta,1.6 TDCi Titanium
+ford,fusion,1.6 Comfort
+ford,galaxy,2.0 TDCI Ghia
+honda,city,1.4 Sport
+hyundai,accent,1.3 1.3i L
+honda,civic,1.8 Executive
+hyundai,accent-era,1.5 CRDi Style
+hyundai,coupe,2.0
+hyundai,elantra,1.6 D-CVVT Elite
+hyundai,excel,1.5 LS
+hyundai,getz,1.6 Cool
+hyundai,i20,1.2 MPI Elite Smart
+hyundai,i20-troy,1.4 CVVT Prime
+hyundai,i30,1.6 DOHC CW Mode
+hyundai,sonata,2.0 CRDi Style
+jaguar,s-type,3.0 Sport
+jaguar,xf,3.0 Premium Luxury
+jaguar,xj,2.0i Premium Luxury
+jaguar,xj,3.0 D Premium Luxury
+kia,cerato,1.6 CRDi Concept
+kia,cerato,1.6 CRDi EX
+kia,cerato,1.6 MPI Concept
+kia,rio,1.0 T-GDI Cool
+kia,rio,1.4 EX Advance
+mazda,3,1.6 Mirai
+mazda,3,1.6 Sport Dynamic
+mazda,323,1.5 Practica
+mercedes---benz,a,A 160 Avantgarde
+mercedes---benz,b,B 180 BlueEFFICIENCY Elite
+mercedes---benz,b,B 180 BlueEFFICIENCY Sport
+mercedes---benz,b,B 180 CDI 180 CDI
+mercedes---benz,c,C 180 Kompressor BlueEfficiency Diamond
+mercedes---benz,c,C 180 Sportcoupe
+mercedes---benz,clc,160 Emotion
+mercedes---benz,clk,CLK 240 Elegance
+mercedes---benz,cls,350
+mercedes---benz,e,200 200 D
+mercedes---benz,e,200 CGI BlueEFFICIENCY Avantgarde
+mercedes---benz,e,220 D Avantgarde
+mercedes---benz,e,280
+mitsubishi,carisma,1.6 Comfort
+mercedes---benz,s,350 350 L BlueEFFICIENCY
+mercedes---benz,slk,200 Kompressor
+mini,cooper-clubman,1.5
+mini,cooper-clubman,1.5 Chili
+mini,cooper-clubman,1.5 Pepper
+mitsubishi,lancer,1.6 Comfort
+nissan,micra,1.2 Puzzle
+nissan,micra,1.2 Sport
+nissan,micra,1.5 dCi Visia
+nissan,primera,1.6 Tekna Plus
+opel,astra,1.4 T Enjoy
+opel,astra,1.6 Cabrio
+bmw,1-serisi,116d ED Sport Line
+opel,astra,1.7 CDTI Enjoy
+opel,corsa,1.5 D Swing
+opel,corsa,1.6 Sport
+opel,insignia,1.6 Edition
+opel,insignia,1.6 CDTI Exclusive Grand Sport
+opel,vectra,1.9 CDTI Design Edition
+opel,zafira,2.0 DTI Comfort
+peugeot,206,1.4 HDi Feline
+peugeot,207,1.6 VTi Sportium
+peugeot,307,1.4 HDi Profil
+peugeot,307,1.6 CC
+peugeot,308,1.6 HDi Premium Pack
+peugeot,405,1.9 SRi
+peugeot,407,2.0 HDi Executive
+peugeot,508,2.0 HDi Active
+peugeot,607,2.2 Executive
+renault,clio,1.5 dCi Premiere
+renault,laguna,2.0 T Sport
+renault,megane,1.4 T Impressor
+renault,megane,1.9 DTi Expression
+renault,modus,1.4 Dynamique
+renault,modus,1.5 dCi Dynamique
+renault,r-5,1.4
+renault,safrane,2.2 RT
+renault,talisman,1.5 dCi Touch
+renault,r-19,1.4 Europa RTE
+seat,cordoba,1.4 Stella
+seat,exeo,1.6 Reference
+seat,ibiza,1.4 Copa
+seat,leon,1.4 TSI Style
+skoda,fabia,1.4 TDI Style
+skoda,octavia,1.9 TDI
+skoda,rapid,1.0 TSI GreenTec Style
+skoda,rapid,1.2 TSI Spaceback Elegance
+skoda,rapid,1.4 TDI Ambition
+skoda,rapid,1.6 TDI Spaceback Style
+skoda,scala,1.5 TSI Premium
+skoda,superb,1.4 TSI Elegance
+skoda,superb,2.5 TDI Elegance
+smart,forfour,1.5 CDI Pulse
+suzuki,s-cross,1.6 GL Plus
+suzuki,swift,1.2 GLX
+suzuki,sx4,1.6 GL
+toyota,auris,1.4 D-4D Blue
+toyota,auris,1.4 D-4D Touring Sports Advance Skypack
+toyota,auris,1.6 Touring Sports Advance Skypack
+toyota,avensis,2.0 Executive Comfort
+toyota,corolla,1.6 Sol Special VVT-i
+toyota,verso,1.6 D-4D Elegant
+toyota,yaris,1.33 Style Skypack
+toyota,yaris,1.4 D-4D Sol Special
+volkswagen,arteon,1.5 TSI Elegance
+volkswagen,golf,1.4 TSi Allstar
+volkswagen,golf,1.5 TSi Highline
+volkswagen,jetta,1.4 TSi Exclusive
+volkswagen,new-beetle,1.2 TSi Style
+volkswagen,new-beetle,1.6 Smile
+volkswagen,new-beetle,2.0 Diamond
+volkswagen,passat,1.8 TSi Highline
+volkswagen,passat,2.0 TFSi Highline
+volkswagen,polo,1.4 TDi
+volkswagen,scirocco,1.4 TSi Allstar
+volvo,c30,1.6 D R-Design
+volvo,v40,1.6 T4 Premium
+volvo,c70,2.0 D Premium
+volvo,s80,2.4 D5 VIP
+volvo,v40-cross-country,1.6 D Premium
+alfa-romeo,giulietta,1.4 TB MultiAir Progression Pluse
+audi,a3,A3 Sportback 1.4 TFSI
+audi,a3,A3 Sportback 2.0 FSI Attraction
+bmw,1-serisi,116d First Edition M Sport
+bmw,2-serisi,220d Sport Line
+bmw,3-serisi,318i M Plus
+bmw,3-serisi,320d Luxury
+bmw,3-serisi,320d Prestige
+bmw,3-serisi,320d xDrive Standart
+bmw,3-serisi,330i xDrive Edition M Sport
+bmw,5-serisi,520d Prestige
+bmw,5-serisi,525d xDrive Executive Luxury Line
+citroen,c4-grand-picasso,1.6 e-HDi Intensive
+bmw,5-serisi,530i xDrive Executive Prestige
+citroen,c4-picasso,1.6 HDi Dynamique
+citroen,xsara,Picasso 2.0 HDi
+citroen,zx,1.4 Avantage
+dacia,sandero,1.0 Stepway
+fiat,500-ailesi,500L 1.3 Mjet Lounge
+fiat,bravo,1.4 T-Jet Active Plus
+fiat,idea,1.3 Multijet Dynamic
+fiat,linea,1.6 Multijet Emotion
+ford,mondeo,1.6 TDCi Style
+ford,mondeo,1.6 TDCi Trend
+honda,civic,1.5 VTEC Turbo Elegance
+hyundai,coupe,1.6 FX
+hyundai,elantra,2.0 GLS
+hyundai,ioniq,1.6 GDI Hybrid Elite Plus
+hyundai,i20,1.4 CVVT Elite
+hyundai,i30,1.6 CVVT Mode
+hyundai,matrix,1.6 Team
+hyundai,sonata,2.5 GLS
+jaguar,xf,2.0 Premium Luxury
+jaguar,xf,2.2 D
+kia,rio,1.0 T-GDI Prestige
+mercedes---benz,b,B 180 CDI BlueEFFICIENCY Elite
+kia,rio,1.4 CVVT Elegance Tekno
+kia,venga,1.6 CRDi Panaroma Plus
+maserati,quattroporte,4.2 Automatica
+mazda,323,1.6 F
+mazda,6,2.0 TE
+mazda,rx,RX-8 1.4
+mercedes---benz,a,A 180 CDI BlueEFFICIENCY Prime
+mercedes---benz,c,C 180 Comfort 9G-Tronic
+mercedes---benz,c,C 180 BlueEFFICIENCY Prime
+mercedes---benz,c,C 200 BlueTEC Fascination
+mercedes---benz,clk,CLK 240 Avantgarde
+mercedes---benz,e,250 CDI BlueEFFICIENCY AMG
+mercedes---benz,e,290 TD Elegance
+mercedes---benz,e,300 TD
+mercedes---benz,s,400 400 CDI
+mercedes---benz,s,400 400 L
+mitsubishi,galant,1.8 GLS
+nissan,micra,1.5 dCi Mood
+nissan,micra,1.5 dCi Passion
+nissan,note,1.5 dCi Platinum
+opel,astra,1.4 Comfort
+opel,astra,1.6 CDTI Edition Plus
+opel,astra,2.0 GSi
+opel,corsa,1.2
+opel,insignia,1.6 Cosmo Sports Tourer
+peugeot,207,1.4 Envy
+peugeot,207,1.4 HDi Envy
+peugeot,207,1.6 THP RC
+peugeot,208,1.2 PureTech GT Line
+peugeot,301,1.5 BlueHDI Allure
+peugeot,306,1.9 XND
+peugeot,307,1.6 Pack
+peugeot,308,1.6 HDi Premium
+peugeot,405,2.0 SR
+renault,clio,1.2 Turbo Touchrome
+renault,clio,1.2 Grandtour Authentique
+renault,laguna,2.0 T Privilege
+renault,megane,1.5 dCi Impressor
+renault,megane,1.5 dCi Grandtour Dynamique
+renault,megane,1.6 Grandtour Privilege
+renault,megane,1.9 CC Dynamique
+renault,megane,2.0 Privilege
+renault,vel-satis,3.0 dCi Privilege
+renault,r-9,1.4 GT
+renault,r-19,1.6 Europa RNA
+renault,r-19,1.9 Europa RN TD
+renault,r-21,1.7 RT
+seat,cordoba,1.4 Basic
+skoda,fabia,1.4 Ambiente
+skoda,fabia,1.4 Ambiente Dynamic
+skoda,fabia,1.4 Scout
+skoda,fabia,1.4 TDI Comfort
+skoda,fabia,1.4 TDI Elegance
+skoda,favorit,1.3 Sportline
+skoda,roomster,1.2 Style
+skoda,roomster,1.4
+volkswagen,passat,1.4 TSi Exclusive
+volkswagen,passat,1.8 Trendline
+volkswagen,polo,1.6 Sportline
+volkswagen,vento,1.8 GL
+volvo,v50,1.6 Premium
