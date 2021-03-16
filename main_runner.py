@@ -73,6 +73,9 @@ def message_threader():
 
 if __name__ == '__main__':
     print("Starting Main Runner...")
-    message_threader_thread = threading.Thread(target=message_threader, args=())
-    message_threader_thread.start()
+    try:
+        message_threader_thread = threading.Thread(target=message_threader, args=())
+        message_threader_thread.start()
+    except:
+        print("Whatsapp messager has errors. ")
     time_detector()

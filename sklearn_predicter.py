@@ -34,10 +34,6 @@ def create_picture(tahmin, ilan_no):
     model_name = ",".join([ilan[5], ilan[6], ilan[7]])
     yil = ilan[8]
     ilanFiyat = ilan[3].split()[0]
-    #firsatArabamFiyat =
-    #fiyatFarki = int(ilanFiyat) - int(firsatArabamFiyat)
-    #fiyatFarkiStr = str(fiyatFarki)
-    arti = "+"
     tl = " TL"
     km = ilan[11]
     model_split = model_name.split(",")
@@ -50,29 +46,52 @@ def create_picture(tahmin, ilan_no):
 
     # fotoğraf template kullanılarak veriler fotoğrafa yazılıyor ve gönderilmek üzere hazır hale geliyor
     templates_path = r'C:\ilan_photos\templates'
-    message_image = Image.open(r'C:\ilan_photos\templates\firsatarabam.jpeg')
+    message_image = Image.open(r'C:\ilan_photos\templates\{}.jpg').format(marka)
     message_drawer = ImageDraw.Draw(message_image)
-    fntBuyuk = ImageFont.truetype("arial.ttf", size=60)
+
+    fntCokBuyuk = ImageFont.truetype("arialbd.ttf", size=65)
+    fntBuyuk = ImageFont.truetype("arialbd.ttf", size=40)
+    fntOrta = ImageFont.truetype("arialbd.ttf", size=35)
     fntKucuk = ImageFont.truetype("arial.ttf", size=30)
 
-    message_drawer.text((30, 110), yil, font=fntBuyuk, fill=(0, 0, 0))
-    message_drawer.text((180, 110), model_name, font=fntBuyuk, fill=(0, 0, 0))
-    message_drawer.text((35, 230), ilanFiyat + tl, font=fntBuyuk, fill=(0, 0, 0))
-    #message_image.text((320, 375), firsatArabamFiyat + tl, font=fntKucuk, fill=(0, 0, 0))
-
-    '''if fiyatFarki <= 0:
-        message_image.text((35, 300), str(fiyatFarki) + tl, font=fntBuyuk, fill=(0, 128, 0))
+    if len(model_name) <= 26:
+        message_drawer.text((120, 170), yil, font=fntBuyuk, fill=(0, 0, 0))
+        message_drawer.text((220, 170), model_name, font=fntBuyuk, fill=(0, 0, 0))
     else:
-        message_image.text((35, 300), arti + str(fiyatFarki) + tl, font=fntBuyuk, fill=(255, 0, 0))
-    '''
+        message_drawer.text((120, 155), yil, font=fntCokBuyuk, fill=(0, 0, 0))
+        message_drawer.text((290, 152), marka + " " + seri, font=fntOrta, fill=(0, 0, 0))
+        message_drawer.text((290, 195), model, font=fntOrta, fill=(0, 0, 0))
 
-    message_drawer.text((800, 1210), yil, font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1250), str(km), font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1290), marka, font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1330), seri, font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1370), model, font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1410), yakit, font=fntKucuk, fill=(0, 0, 0))
-    message_drawer.text((800, 1450), vites, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((370, 340), ilanFiyat + tl, font=fntBuyuk, fill=(0, 0, 0))
+    # message_drawer.text((500, 510), firsatArabamFiyat + tl, font=fntBuyuk, fill=(0, 0, 0))
+
+    message_drawer.text((580, 660), yil, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 695), str(km), font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 730), marka, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 765), seri, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 800), model, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 835), yakit, font=fntKucuk, fill=(0, 0, 0))
+    message_drawer.text((580, 870), vites, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((580, 905), kasa, font=fntKucuk, fill=(0, 0, 0))
+
+
+
+
+
+
+    # message_drawer.text((30, 110), yil, font=fntBuyuk, fill=(0, 0, 0))
+    # message_drawer.text((180, 110), model_name, font=fntBuyuk, fill=(0, 0, 0))
+    # message_drawer.text((35, 230), ilanFiyat + tl, font=fntBuyuk, fill=(0, 0, 0))
+    # #message_image.text((320, 375), firsatArabamFiyat + tl, font=fntKucuk, fill=(0, 0, 0))
+    #
+    #
+    # message_drawer.text((800, 1210), yil, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1250), str(km), font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1290), marka, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1330), seri, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1370), model, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1410), yakit, font=fntKucuk, fill=(0, 0, 0))
+    # message_drawer.text((800, 1450), vites, font=fntKucuk, fill=(0, 0, 0))
     #message_image.text((800, 1490), kasa, font=fntKucuk, fill=(0, 0, 0))
 
     # oluşturulan fotoğraf gönderilmek üzere ilan no su ile kaydediliyor

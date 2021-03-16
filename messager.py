@@ -50,23 +50,31 @@ def send_message(fle):
         group_title.click()
         time.sleep(1)
 
-        input_xpath = '// *[ @ id = "main"] / footer / div[1] / div[2] / div / div[2]'
-        input_box = browser.find_element_by_xpath(input_xpath)
-        pyperclip.copy(msg)
-        input_box.send_keys(Keys.SHIFT, Keys.INSERT)  # Keys.CONTROL + "v"
-        input_box.send_keys(Keys.ENTER)
+        try:
+            input_xpath = '// *[ @ id = "main"] / footer / div[1] / div[2] / div / div[2]'
+            input_box = browser.find_element_by_xpath(input_xpath)
+            pyperclip.copy(msg)
+            input_box.send_keys(Keys.SHIFT, Keys.INSERT)  # Keys.CONTROL + "v"
+            input_box.send_keys(Keys.ENTER)
+        except:
+            print('Error sending sahibinden.com link !')
+
         time.sleep(2)
-        attachment_box = browser.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[1]/div[2]/div')
-        attachment_box.click()
-        # ilan linkinin ardından hazırlanan ilan fotoğrafı attachment olarak gönderiliyor
-        image_box = browser.find_element_by_css_selector('#main > footer > div._3SvgF._1mHgA.copyable-area > div._3qpzV.rN1v9 > div.bDS3i > div > span > div > div > ul > li:nth-child(1) > button > input[type=file]')
-        image_box.send_keys(filepath)
-        time.sleep(2)
-        send_btn = browser.find_element_by_css_selector('#app > div > div > div._3Bog7 > div.i5ly3._2l_Ww > span > div > span > div > div > div._1RHZR.b-lt8 > span > div > div > span')
-        send_btn.click()
-    shutil.move(filepath, newPath)
-    time.sleep(10)
-    browser.close()
+        try:
+            attachment_box = browser.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[1]/div[2]/div')
+            attachment_box.click()
+            # ilan linkinin ardından hazırlanan ilan fotoğrafı attachment olarak gönderiliyor
+            image_box = browser.find_element_by_css_selector('#main > footer > div._3SvgF._1mHgA.copyable-area > div._3qpzV.rN1v9 > div.bDS3i > div > span > div > div > ul > li:nth-child(1) > button > input[type=file]')
+            image_box.send_keys(filepath)
+            time.sleep(2)
+            send_btn = browser.find_element_by_css_selector('#app > div > div > div._3Bog7 > div.i5ly3._2l_Ww > span > div > span > div > div > div._1RHZR.b-lt8 > span > div > div > span')
+            send_btn.click()
+        except:
+            print('Error sending attachment!')
+
+        shutil.move(filepath, newPath)
+        time.sleep(3)
+        browser.close()
 
 
 if __name__ == "__main__":
